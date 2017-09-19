@@ -1,0 +1,260 @@
+S. No. Board of Study Subject Code Subject 1 Civil Engg. 320841(20) Industrial Waste Treatment 2 Civil Engg. 320842(20) Advanced Environmental Engineering 3 Civil Engg. 320843(20) Environmental Pollution and Management 4 Civil Engg. 320844(20) Air Pollution and Control Measures 5 Civil Engg. 320845(20) Prestressed Concrete Structures 6 Civil Engg. 320846(20) Computer Applications in Civil Engineering 7 Civil Engg. 320847(20) Seismic Design of Structures 8 Civil Engg. 320848(20) Open Channel Flow 9 Civil Engg. 320849(20) Water Resources Planning and Management 10 Civil Engg. 320850(20) Water Shed Management
+Table-4: Open Elective -IV Elective -IV S.No. Board of Studies Code Name of Subject 1 Management 300851(76) Enterprise Resource Planning 2 Information Technology 300852(33) E-Commerce & strategic IT 3 Management 300853(76) Technology Management 4 Information Technology 300854(33) Decision Support & Executive Information system 5 Computer Science & Engg. 300855(22) Software Technology 6 Management 300856(76) Knowledge Entrepreneurship 7 Management 300857(76) Finance Management 8 Management 300858(76) Project Planning, Management & Evaluation 9 Mechanical Engg.  300859(37) Safety Engineering  10 Computer Science & Engg. 300801(22) Bio Informatics  11 Mechanical Engg. 300802(37) Energy Conservation & Management   12 Nanotechnology 300803(47) Nanotechnology  13 Management 300804(36) Intellectual Property Rights  14 Mech. Engg. 300805(37) Value Engineering  15 Civil Engg. 300806(20) Disaster Management   16 Civil Engg. 300807(20) Construction Management  17 Civil Engg. 300808(20) Ecology and Sustainable Development 18 Chem. Engg. 300809(19) Non Conventional Energy Sources  19 Electrical  Engg. 300810(24) Energy Auditing and Management 20 Mechanical 300811(37) Managing Innovation and Enterprenurship  21 Information Technology 300812(33) Biometrics 22 Information Technology 300813(33) Information Theory & Coding 23 Computer Science & Engg. 300814(22) Supply Chain Management 24 Computer Science & Engg. 300815(22) Internet & Web Technology 25 Electrical Engg. 300816(24) Electrical Estimation and Costing 26 Electrical& Electronics Engg 300817(25) Non Conventional Energy Sources
+Note:  (1)  1/4th of total strength of students subject to minimum of twenty students is required to offer an elective in the college in a particular  academic session. (2)Choice of elective course once made for an examination cannot be changed in future examinations.
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Structural Engineering Design - IV ESE Duration: 4 Hours Subject Code: 320831(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. Understand the behavior of combined footings. 2. Understand the behavior of retaining walls. 3. Understand the behavior of different types of water tanks. 4. Understand the behavior of different types of bridges. 5. Understand the behavior of prestressed concrete.
+
+Outcomes of the Subject:
+1. Capable of designing combined footings. 2. Capable of designing retaining walls. 3. Capable of designing simple water tanks. 4. Capable of designing of solid slab bridges 5. Capable of analyzing prestressed concrete beams.
+Unit-1: Combined Footings Limit State Design of Combined Rectangular and Combined Trapezoidal Footings, Introduction to design of strap footing and Raft Foundation. Unit-2: Retaining walls Limit State Design of Cantilever retaining wall with horizontal and sloping backfill, Counterfort Retaining Wall with horizontal backfill. Unit-3: Water Tanks Circular tank (resting on ground) with flexible / rigid joint between floor and wall (by approximate method), Design of Circular overhead tank with domed bottom and top (membrane analysis), Intze Tank  (Membrane Analysis): Dimensions, Design of top dome, Top ring beam, cylindrical wall, middle ring beam, conical dome, bottom dome. Introduction to design of water tanks using IS Codes, Introduction to continuity analysis. Unit-4: Bridges Various types of Bridges, Loading for road bridges, Design of super structure for solid slab bridge, Design of canlilever slab for T-Beam bridge. Introduction to design of interior panels and girders of a T-Beam Bridge. Unit-5: Prestressed Concrete Basic concepts, classification and types of prestressing, Prestressing systems, Losses in Prestress, Properties of materials, merits and demerits of prestressed concrete, Analysis of beam for flexure, Kern distances and efficiency of Sections. Text Books: 1. Reinforced Concrete Structures – B.C. Punmia (Laxmi Publications) 2. Prestressed Concrete – N. Krishna Raju (New Age Publications) 3. RCC Design – Sinha & Roy (S. Chand & Co.) Reference Books: 1. RCC Structures – N. Krishna Raju (New Age Publications) 2. Bridge Engineering – R.K. Raina 3. IS codes
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Water Resources Engineering - II ESE Duration: 4 Hours Subject Code: 320832(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To understand about different types of dam and its design. 2. To understand the concepts of spillways. 3. To learn about diversion headwork’s and its design. 4. Be familiar with different types of regulation works. 5. To understand the concepts of cross drainage works.
+
+Outcomes of the Subject:
+1. Students should be able to design the dams. 2. Students should be able to design the spillways. 3. Students should be able to design the weir and barrage.  4. Students should be able to design canal falls. 5. Students should be able to design different types of cross drainage works.
+Unit-1: Dams Types of Dams, Suitability of a type of dam, Gravity dams – Forces acting on dams, failure of dams and criteria for structural stability, Overturning, Compression or crushing, tension, sliding, principal and shear stress, stability analysis, Elementary profile of a gravity dam, High and low gravity dams, Profile from practical considerations, Design considerations, Openings in dams, Functions and Effects of opening, Joints, Keys and Water stops in gravity dams, Foundation treatment.  Unit-2: Spillways and Energy Dissipaters Introduction, essential requirements of a spillway, spillway capacity, components, Types of spillways, Design of Ogee Spillway, Energy Dissipation below spillways, Types of Energy dissipater, Hydraulic jump as energy dissipater, Stilling basins, design of stilling basin, USBR stilling basins, standard basins. Unit-3: Diversion Headworks Introduction, Types of diversion works, location and components, Weir and Barrage, Effect of construction of weir on the river regime, Causes of failures of Weirs on permeable foundations, their remedies, Bligh’s creep theory, Lane’s Theory, Theory of seepage flow, Khosla’s theory, Design of Vertical drop Weir, Design of Glacis Weir. Unit-4: Regulation Work Introduction, Definition of falls, necessity and location of falls, Design and comparative study of the main types of falls, Design of Cross regulator and distributary regulators.  Unit-5: Cross Drainage Works Introduction, types, suitability, design of various types of C-D Works, Aqueduct, Syphon Aqueduct, Super Passage, Syphon, level crossing, inlets and outlets. Design of channel transition-expansions and contractions, curves for sub-critical and super critical flows. Text Books: 1. Irrigation Engineering and Hydraulic Structures – S.K. Garg (Khanna Publications) 2. Irrigation Engineering – B.C. Punmia (Laxmi Publications) Reference Books: 1. Irrigation, Water Resources and Water Power Engineering – Dr. P.N. Modi (Standard Book House) 2. Theory and Design of Irrigation Structures (Volume – I & II) – Varshney (Nem Chand Bros.) 3. Irrigation Engineering – Asawa G.L. (New Age International Publications) 4. Fundamentals of Irrigation Engineering – Bharat Singh (Nem Chand & Bros.)
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Structural Analysis-III ESE Duration: 3 Hours Subject Code: 320833(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about the approximate methods of analysis of multistory frames. 2. To learn about the flexibility method of analysis of structures. 3. To learn about the stiffness method of analysis of structures. 4. To learn about the finite element method of analysis of structures. 5. To learn about the basics of plastic analysis and methods of plastic analysis of beams and frames.
+
+Outcomes of the Subject:
+1. To be able to analyze multi story frames by approximate methods. 2. To be able to analyze beams and frames by flexibility method. 3. To be able to analyze beams and frames by stiffness method. 4. To be able to analyze, beams and frames by finite element method. 5. To be able to analyze beams and frames by plastic method of analysis.
+Unit-1: Approximate Methods Analysis of multistoreyed frames for horizontal loads by Cantilever and Portal Methods. Dead and Live Load (Substitute Frame) Analysis for multistoreyed buildings. Unit-2: Flexibility Method Introduction to Matrix method of analysis, formulation of flexibility matrices, application to simple problems involving not more than two unknowns, analysis of beams, rigid plane frames and pin jointed plane frames. Unit-3: Stiffness Method Formulation of stiffness matrices, application to simple problems involving not more than two unknowns, analysis of beams, rigid plane frames and pin jointed plane frames. Unit-4: Finite Element Method Cartesian and Natural Coordinates, Element DOF’s, shape functions for bar, beams, triangular and rectangular element by generalized coordinates and by using Lagrange Polynomials, Pascal’s triangle, assembly of stiffness matrix for springs, bar and beam element. Unit-5: Plastic Analysis Plastic Hinge Concept, Fully Plastic Moment, Collapse mechanism, plastic analysis of beam and frames. Text Books: 1. Theory of Structures, Part – II – Punmia, Jain and Jain (Laxmi Publications). 2. Structural Analysis, a Matrix Approach – Gupta and Pandit. 3. Finite Element Analysis – S.S. Bhavikatti (New Age International Publishers, New Delhi). 4. Basic Structural Analysis – C. S. Reddy, Mc Graw Hill Education (India) Pvt. Ltd.
+
+Reference Books: 1. Intermediate Structural Analysis – Wang. C.K. (Tata McGraw Hill). 2. Structural Analysis – Hibbeler (Pearson Education). 3. Desai C.S., Abel J.F., Introduction to the Finite Element Method, CBS Publishers & Distributors, Delhi. 4. Chandrupatla T.R., Belegundu A.D., Introduction to Finite Elements in Engineering, Prentice Hall of India Private Limited, New Delhi.
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Industrial Waste Treatment) ESE Duration: 3 Hours Subject Code: 320841(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about quality, quantity, treatment and disposal of industrial waste.
+
+Outcomes of the Subject:
+1. To be able to plan and handle the issues related to industrial waste.
+Unit-1: General Effect of discharge of industrial wastewaters on streams, land and environment, Importance and scope, Problems involved in treatment, Variation in quality and quantity of industrial wastewaters. Standards & Criteria: Indian standards for discharge of treated wastewaters on land, into municipal sewer and natural water courses. Sampling of Wastewaters: Representative sample, Grab and composite samples.
+Unit-2: Effluent Quality and Quantity Approaches to minimization – good housekeeping, equalization and neutralization by mixing of different effluent streams; recycling of wastewater streams. Process modifications in terms of raw materials and chemicals used Treatment of industrial wastes, Removal of dissolved and suspended solids, Organic waste treatment processes, Sludge treatment and handling.
+Unit-3: General Approaches to Planning of Industrial Wastewater Treatment and Disposal Equalization and proportioning, Neutralization Treating different effluent streams separately, Treating different streams jointly after mixing them partly or fully Including / excluding domestic wastewater along with the industrial waste Treating industrial wastewaters along with town waste.
+Unit-4: General Approaches for Handling and Treatment of Specific Characteristics of Industrial Wastewaters Stream Water Quality, DO Sag Curve, etc. Approaches for treating wastes having shock loads, colours, toxic metal-ions, refractory substances, e.g., ABS and other detergents, growth inhibiting substances such as insecticides, high concentration of nutrients (N.P.K., etc.), oil and grease, suspended solids, BOD., hot wastes, wastes with acidity, alkalinity, etc.
+Unit-5: Process Flow Diagrams, Characteristics and Treatment of Various Industrial Wastes Industrial wastes of pulp and paper, textile, tannery, food, canning, sugar mill, distillery, dairy, pharmaceutical, electroplating, etc. Industrial pollution abatement measures, referring to case studies in fertilizer industries, textile, petroleum refineries and distilleries.
+Text Books: 1. Introduction to Environmental Science – Y. Anjaneyulu (B.S. Publications) 2. Elements of Environmental Engineering – K.N. Duggal (S. Chand & Co., New Delhi)
+Reference Books: 1. The Treatment of Industrial Wastes – Besselieure, E.B. and Schwartz, M. (McGraw Hill Kogakusha Ltd., New Delhi, 1969) 2. Industrial Water Pollution – Nemerow, N.L. (Ann Arbour, New York, 1978) 3. Waste Water Engineering – MetCalaff Eddy (Tata McGraw Hill, New Delhi) 4. Environmental Engineering – G.N. Pandey & G.C. Karney (Tata McGraw Hill, New Delhi)
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Advanced Environmental Engineering) ESE Duration: 3 Hours Subject Code: 320842(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques to control air and water pollution and reclamation of waste water.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to air and water pollution.
+Unit-1: Concept of ecological principles, fundamental constituents of environment, Concept of productivity, Pollution and environmental health, pollution cost, Monitoring of pollution, environmental pollution, strategy for a livable environment, international institutions for environmental management.
+Unit-2: Air Pollution, introduction, effect of air pollution on the environment, sources of air pollution and control, biomedical aspects of air pollution, Meteorological aspects of air pollution, lapse rate, temperature inversion, adverse effects of air pollution. Sources and effects of air pollutants like CO, nitrogen oxides, sulphur oxides, hydrocarbons, particulate matters.
+Unit-3: Water Pollution, What is water pollution, drinking water standards, quality of water for other uses, stream pollution and self purification natural streams, Streeter-Phelps Water Quality Model. Biological treatment, design of A.S.P., trickling filter, oxidation pond, sludge treatment and disposal, disposal system and effluent discharge standards.
+Unit-4: Air pollution monitoring, stack monitoring system, high volume sampler, air quality standards for ambient air, mathematical modeling in air of pollution control, Box model, Gaussian Plume Model, air pollution from mobile sources and their control.
+Unit-5: Reclamation of waste water, radioactive waste management, eutrophication of lakes, measurement and detection of eutrophication, acid rain, global warning and green house effect, ozone depletion. Indoor air pollution control measures, Occupational diseases and their impact on environment.
+Text Books: 1. Waster Water Engineering – S.K. Garg (Khanna Publication). 2. Waste Water Engineering – B.C. Punmia (Laxmi Publication, New Delhi)
+Reference Books: 1. Environmental Engineering – Peavy & Rowe (Tata McGraw Hill, New Delhi).  2. Water Supply and Sanitary Engineering – G.S. Birdi (Dhanpat Rai Publications).  3. Introduction to Environmental Science – Y. Anjaneyulu (B.S. Publications).  4. Environmental Science and Engineering – Henry and Heinke (Pearson Education).  5. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi).
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Environmental Pollution and Management) ESE Duration: 3 Hours Subject Code: 320843(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about basic principles of environmental pollution and its management and about sustainable development.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to environmental pollution and its management and sustainable development.
+Unit-1: Basic principles of environmental management, its Pollution and control, Environmental Policies and Legislation, Rules, acts, standards, criteria, specification, nature and scope of environmental problems.
+Unit-2: Ecology of population, population attributes world population growth and the effect of overcrowding on ecology, economy and the future of man.
+Unit-3: Environmental Research Methodology, approaches, method of Data collection, sampling systems, approach to environmental problems, health and environmental implications of solid waste management, Fate of pollutants in air, water, soil and ground water.
+Unit-4: Management and handling of hazardous substances, Sanitary landfills, incineration, composting, hydropulping, pyrolysis. Environmental Audit, The Indian Scenario, definition of audit, procedure of auditing.
+Unit-5: Introduction to sustainable development, Definitions, strategies for sustainable development, environmental debts, appropriate technologies, related case studies. Environmental inventory, Environmental Impact Assessment methods, Basic steps for prediction and assessment, water environment, air environment, noise environment.
+Text Books: 1. Environmental Engineering – Peavy & Rowe (Tata McGraw Hill, New Delhi). 2. Introduction to Environmental Science – Y. Anjaneyulu (B.S. Publications)
+Reference Books: 1. Introduction to Environmental Engineering and Science – Masters, G.M. (Prentice Hall of India Pvt. Ltd., 1991) 2. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi) 3. Introduction to Environmental Science – Y. Anjaneyulu (B.S. Publications) 4. Environmental Science and Engineering – Henry and Heinke (Pearson Education) 5. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Air Pollution and Control Measures) ESE Duration: 3 Hours Subject Code: 320844(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To know about various causes the effects of air pollution.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to air pollution and its control.
+Unit-1: Air Pollution Problem, Definitions, Classification of pollutants, characteristics and sources. A.P. Monitoring: Measurement of stack gases, Sampling methods, Difficulties in sampling, sampling of SPM, stack sampling techniques.
+Unit-2: Air pollution meterology, stability class condition, plume behaviour, topographical effects on air pollution, wind profiles, wind roses. Gaussian plume models, assumptions and limitations of GPM, problem on modelling.
+Unit-3: SOX sources, ambient concentrations, test methods, SOX control techniques, effects of SOX on human, animal health, plants and on materials. NOX sources, ambient concentrations, test method control techniques, effects of NOX on human health, animal health, plants and on materials. Particulate size distribution, collection and removal mechanics.
+Unit-4: Major air pollution disaster episodes, special diseases caused by air pollution, symptoms of chronic air pollution. Mechanisms of deterioration in polluted atmospheres, effect of air pollution on art treasures in India.
+Unit-5: Air quality criteria and emission standards, US and Indian standards, air pollution act, constitution, power and functions of the boards. Global effects of air pollution – Green house effect, acid rains, ozone layer depletion, etc.
+Text Books: 1. Environmental Engineering – Peavy & Rowe (Tata McGraw Hill, New Delhi). 2. Environmental Science and Engineering – Henry and Heinke (Pearson Education).
+Reference Books: 1. Air Pollution – Henry C. Perkins, (McGraw Hill Kogakusha Ltd., Tokyo, Japan, 1974) 2. Air Pollution – Stern, Arthur C. (Academic Press, New York, USA, 1977) 3. Introduction to Environmental Science – Y. Anjaneyulu (B.S. Publications) 4. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi).
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Prestressed Concrete Structures) ESE Duration: 3 Hours Subject Code: 320845(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about the methods, systems, materials, analysis and design of prestressed concrete structures.
+
+Outcomes of the Subject:
+1. To be able to analyse and design prestressed concrete structures.
+Unit-1: Methods, Systems and Materials Basic principles, methods and systems of prestressing, external, internal, full, partial, pre-tensioning and post-tensioning, quality of concrete and steel, I.S. Code provisions for allowable stresses, Advantages of prestressing and importance of high strength materials.
+Unit-2: Analysis of Structures for Flexure Cases of axial and eccentric prestressing allowing suitable percentage loss of prestress. Stresses in concrete at various stages, lever arm concept and center of pressure, pressure line, kern distances, load balancing cable profiles, critical span (for solid slabs only), Efficiency of a section.
+Unit-3: Losses of Prestressing Various types of losses of prestress and their calculation, loss due to friction, I.S. Code provisions, Elastic shortening due to successive tensioning of cables. Design of section for flexure: I.S. Code provisions for cover and spacing, standard Fressinet and Gifford Udall cables, Design of beams and slabs, cable zones and profiles.
+Unit-4: Composite Beams Different types, Loading conditions, analysis for stresses, differential shrinkage. Bond and Anchorage: Bond stress and its significance in pre-tensioned beams, transmission length, determination of bursting force due to anchor zone stresses and provision of steel according to I.S. Code for prestressed concrete. Shear: Calculation of diagonal tension and its inclination (including vertical prestressing also) provision of steel according to elastic method and I.S. Code method, advantages of prestressing.
+Unit-5: Limit State Design Limit state of serviceability and strength, calculation of ultimate bending moment for given sections, advantages of limit state method over working stress method. Miscellaneous uses: Analysis and design of poles and circularly prestressed pipes and tanks.
+Text Books: 1. Prestressed Concrete – Krishna Raju N. (New Age International)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Computer Applications in Civil Engineering) ESE Duration: 3 Hours Subject Code: 320846(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about various computer applications using programming language C++.
+
+Outcomes of the Subject:
+1. To be able to prepare computer programs of similar type of Civil Engineering Applications.
+Unit-1:
+C++ program for Reynolds no, Froude no in pipe for laminar and turbulent flow, friction factor in pipes for laminar and turbulent flows, discharge in open rectangular and trapezoidal open channel, hardy cross method for water supply distribution.
+Unit-2:
+C++ program for determination of earliest expected time for an activity network analysis, determination of reduced level of various points by rise and fall method and HI method, convert whole circle bearing to reduced bearing, calculation of local attraction by observed bearing of a closed traverse.
+Unit-3:
+C++ program for Determination of vertical effective stress at a given depth for any soil profile, determination of bearing capacity of soil for given water table condition, determination of one dimensional preconsolidation settlement under compacted fill. Determination of horizontal and vertical hydraulic conductivities for flow through anisotropic soil. Unit-4: C++ program for SF & BM at any desired section of a simply supported beam for point load and udl. Determination of maximum shear force at a section of a simply supported beam, calculation of simple stress, strain of a section. Calculation of bending stress of a desired section of a beam. Unit-5: C++ program for  RCC: IS:456  -- moment of resistance of a rectangular beam section by limit state method, safe load carrying capacity of a column, area of steel required of a rectangular beam section.
+Steel: Calculate the safe compressive load of a given section by IS: 800 – 2007, calculation of number of rivets required for connecting an angle section the gusset plate. Text Books: 1. Let us C++ – Yeshwant Kanitkar (BPB Publications) 2. Problem Solving with C++ – Savitch (Addison Wesley Publication) Reference Books: 1. C++ Interactive Course – Lafore (BPB Publications) 2. C++ Components and Algorithms – et. al. (BPB Publications) 3. Object Oriented Programming in Turbo C++ – Rober Lafore (Galgotia Publications) ♦♦♦
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Seismic Design of Structures) ESE Duration: 3 Hours Subject Code: 320847(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about basic principles of seismic design of structures.
+
+Outcomes of the Subject:
+1. To be able to analyze, design and detail structures from seismic point of view.
+Unit-1: Engineering seismology Causes of earthquakes; seismic waves; magnitude, intensity and energy release, characteristics of strong earthquake ground motions, Introduction to theory of vibrations - Flexibility of long and short period structures, concept of response spectrum, Seismic zones.
+Unit-2: Seismic design concepts Desirable features of earthquake resistant buildings, Building forms for earthquake resistance, Seismic design philosophy, Performance of buildings in past earthquakes, Lessons from structural damage during past earthquakes, Equivalent static lateral earthquake force, codal provisions.
+Unit-3: Single degree of freedom systems Response of single degree freedom system, free & forced vibrations.
+Unit-4: Multi degree of freedom structures Free vibrations of two and three degree of freedom systems.
+Unit-4: Design of Buildings Determination of Lateral forces due to earthquake in RCC & Steel framed structures.
+Text Books: 1. Earthquake Resistant Design of Structures – S. K. Duggal, Oxford University Presss 2. Dynamics of Structures: Theory and Application to Earthquake Engineering (2nd edition) – Anil K Chopra (Pearson Education Publication) 3. Earthquake Resistant Design of Structures – Pankaj Agrawal & Manish Shrikhande, PHI Learning Pvt. Ltd. 4. IS 1893, IS 13920, IS 4326, IS 13828, Bureau of Indian Standards, New Delhi
+Reference Books: 1. Design of Earthquake Resistant Buildings – Minoru Wakabayashi (McGraw Hill Publication) 2. Vibration and Structural Dynamics – Timoshenkeo, S. (VanNostrand Co.) 3. Vibration and Structural Dynamics – Mukyopadhyaya (Oxford & IBH) 4. Structural Dynamics (Theory & computations)- Mario Paz (CBS Publishers & Distributions New Delhi)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Open Channel Flow) ESE Duration: 3 Hours Subject Code: 320848(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about uniform and non-uniform flow in Open Channels and the difference between pipe flow and open channel flow.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to open channel flow.
+Unit-1: Introduction Difference between open channel flow and pipe flow, geometrical parameters of a channel, continuity equation. Uniform flow: Chezy’s and Manning’s equations for uniform flow in open channel, velocity distribution, most efficient channel section.
+Unit-2: Energy and Momentum Principles Critical depth, concepts of specific energy and specific force, application of specific energy principle for interpretation of open channel phenomena, flow through vertical and horizontal contractions.
+Unit-3: Non-Uniform Flow in Open Channel Equation of gradually varied flow and its limitations, flow classification and surface profiles, integration of varied flow equation by analytical, graphical and numerical methods, flow in curved channels.
+Unit-4: Hydraulic Jump, Surges, Water Waves Classical hydraulic jump, evaluation of the jump elements in rectangular and non-rectangular channels on horizontal and sloping beds, equation of motion for unsteady flow, open channel surge, celerity of the gravity wave, deep and shallow water waves.
+Unit-5: Spatially-varied flow Introduction, SVF with increasing discharge, differential equation of SVF with increasing discharges, control point, classification and solutions, profile computation, SVF with decreasing discharge, differential equation for SVF with decreasing discharge, computations.
+Text Books: 1. Fluid Mechanics – A.K. Jain (Khanna Publication) 2. Open Channel Flow – Subramanya (Tata McGraw Hill, New Delhi)
+Reference Books: 1. Engineering Fluid Mechanics (including Hydraulic Mechanics) (2nd Edition) – Garde, R.J., and A.G. Mirajgaoker (Nem Chand & Bros., Roorkee, 1983) 2. Flow Through Open Channels – Ranga Raju, K.G. (Tata McGraw Hill, New Delhi, 1993) 3. Experimental Fluid Mechanics (Vol. 2) – Asawa, G.L. (Nem Chand and Bros., 1992) 4. Open Channel Flow – Ven Te. Chow (McGraw Hill)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Water Resources Planning and Management) ESE Duration: 3 Hours Subject Code: 320849(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about various techniques related to water resources planning and management.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to water resources planning and management.
+Unit-1: Introduction Role of water in national development, assessment of water resources of country, scope of water resources development vis-a-vis environment, Irrigation development in India, utilisation of Irrigation potential.
+Unit-2: Planning Water resources planning process; planning for single purpose and multipurpose projects, estimation of different water needs and project formulations, comparison of alternatives, cost-benefit analysis.
+Unit-3: Water Resources Systems Definition, types of system, optimization techniques, system approach, system analysis, linear programming, formulation of a linear programming problem, formulation with different types of constraints, graphical analysis, graphical solution, simplex method, optimization techniques and systems approach.
+Unit-4: Management Evaluation and monitoring of water quantity and quality, managing water distribution networks for irrigation, flood control and power generation, inter-basin transfer of water, conjunctive use of surface and ground water.
+Unit-5: Modelling Water quantity and quality modelling, evaluation of impacts of water resources projects on river regimes and environment, reservoir sedimentation and watershed management.
+Text Books: 1. Principles of Water Resources Planning – Good Man, A.S., (Prentice Hall, Inc., Englewood Cliffs, N.J. 1984.) 2. Water Resources Engineering – Linsley, R.K. and Franzini, J.B., (3rd Edition) (McGraw Hill, New York, 1979)
+Reference Books: 1. Water Resources System, Planning and Management – M.C. Chaturvedy (Tata McGraw Hill) 2. System Approach to Water Management – Biswas A.K. (Tata McGraw Hill) 3. Water Resources System, Planning and Management – Helweg O.J. (John and Wiley & Sons)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Professional Elective-III (Water Shed Management) ESE Duration: 3 Hours Subject Code: 320850(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about soil and land classification with a point of view planning for water shed management.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to planning for water shed management.
+Unit-1: Soil and Water, Issues related to plant life like composition of soil, water requirement of crops, necessary conditions for plant growth etc. Soils, their origin and classification.
+Unit-2: Land classification for WM, Land capability rating, determination of land capability class, land capability and suitability surveys.
+Unit-3: Soil erosion, problem, types, conservation, and control measures in agricultural and non-agricultural land. Water conservation and Harvesting, Agronomical measures in soil and water conservation. Examples and critical reviews.
+Unit-4: Watershed Management, Approach in Govt. programmes, people’s participation, conservation farming, watershed-management planning, identification of problems, objectives and priorities, socioeconomic survey, use of tools like GIS.
+Unit-5: Hill slope processes, forest and land use, hill slope conservation. Bad Lands, bad land development.
+Text Books: 1. Watershed Management – J.V.S. Murthy (New Age International Ltd.)
+Reference Books: 1. Watershed Management – B.M. Tideman 2. Modern physical geography – Strahler A.N. and Strahler A.H.
+
+ Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Open Elective-IV (Disaster Management) ESE Duration: 3 Hours Subject Code: 300806(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To introduce disaster, its nature and types. 2. To understand disaster zoning and hazard assessment. 3. To know about the disaster mitigation and preparedness. 4. To understand management during disaster and construction technology for its mitigation. 5. To identify relief measures.
+
+Outcomes of the Subject:
+1. Students are expected to understand disaster and its nature. 2. Students are expected to understand impact and hazard assessment. 3. Students are expected to understand disaster preparedness and mitigation. 4. Students are expected to understand use of construction technology for disaster management. 5. Students are expected to identify short term and long term relief measures.
+Unit-1: Nature of disasters – natural and other disasters, Earthquakes, floods, draught, cyclones, fire and other environmental disasters.
+Unit-2: Behaviour of structures in disaster prone areas, Disaster zoning, Hazard assessment, Environmental Impact Assessment
+Unit-3: Methods of mitigating damage during disasters, disaster preparedness.
+Unit-4: Management systems during disasters, Construction Technology for mitigation of damage of structures.
+Unit-5: Short-term and long-term relief measures.
+Text Books: 1. Design of Earthquake Resistant Buildings – Minoru Wakabayashi (McGraw Hill Publication) 2. Dynamics of Structures: Theory and Application to Earthquake Engineering (2nd edition) – Anil K Chopra (Pearson Education Publication)
+Reference Books: 1. Fundamentals of Vibrations – Anderson, R.A. (Mc Millan) 2. IS – 1893 (Part I): 2002, IS – 13920: 1993, IS – 4326: 1993, IS-13828: 1993 3. Earth quake engineering damage assessment and structural design – S.F. Borg 4. Disasters and development – Cuny F (Oxford University Press Publication) ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Open Elective-IV (Construction Management) ESE Duration: 3 Hours Subject Code: 300807(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To provide an understanding of owners perspective towards life cycle of project and the changing environment of construction industry. 2. To provide an understanding of organizing for project management. 3. To provide an understanding of innovation, feasibility and value engineering in design and construction. 4. To provide an understanding of labour, material and equipment utilization. 5. To provide an understanding of approaches to cost estimation in construction project.
+
+Outcomes of the Subject:
+1. Students should be able to identify owner’s perspective / perspective of project participants towards construction projects. 2. Students are expected to identify the structure of project participant’s organization and effect of project risks. 3. Students are expected to know design methodology, feasibility aspect and value engineering in design and construction. 4. Students are expected to know importance of labour productivity, material and equipment utilization. 5. Students are expected to know the different approaches of cost estimation of construction project.
+Unit-1: The Owner's Perspective Introduction-The project life cycle-Major Types of Construction-Selection of Professional Services-Construction contractorsFinancing of constructed facilities-Legal and regulatory Requirements-The changing Environment of the construction IndustryThe Role Project Managers.
+Unit-2: Organizing for Project Management Definition of project management, Trends in Modern Management-Strategic planning and project programming- Effects of project risks on organization-Organization of Project Participants-Traditional designer-Constructor sequence- Professional construction management-Owner-Builder-Operation-Turnkey operation-Leadership and Motivation for the Project teamInterpersonal behaviour in project organization-perceptions of Owners and Contractors.
+Unit-3: The Design and Construction Process Design and construction as an integrated system-Innovation and technological Feasibility-Innovation and technological feasibilityDesign Methodology-Functional Design-Physical Structures-Construction Site Environment-Value engineering, Value Management and Value Planning-Construction Planning-Industrialized Construction and Prefabrication-Computer -Aided Engineering.
+Unit-4: Labour, Material and Equipment Utilization Historical Perspective – Labour Productivity-Factors Affecting Job-Site Productivity-Labor Relations in construction-Problems in collective bargaining-Materials Management-Materials Procurement and Delivery- Inventory control-Tradeoffs of cost in Material Management-Construction Equipment-Choice of Equipment and Standard production Rates-Construction Processes Queues and Resource Bottlenecks
+Unit-5: Cost Estimation Costs Associated with Construction Facilities-Approaches to cost estimation-Type of construction cost estimates- Effects of scale on construction cost-Unit cost-Method of estimation-Historical cost data-Cost indices-Applications of cost Indices to EstimatingEstimate based on Engineers List of Quantities-Allocation of Construction costs over time-Estimation of operating costs, concept of pre and post construction cost management.
+
+
+Text Books: 1. Construction Project Management Planning, Scheduling and Control – Chitkara, K.K. (Tata McGraw Hill Publishing Co., New Delhi, 1998) 2. Project Management: A systems Approach to Planning, Scheduling and Controlling – Harold Kerzner (CBS Publishers & Distributors, Delhi, 1988)
+Reference Books: 1. Project management for Construction: Fundamental Concepts for owners, Engineers, Architects and Builders – Chris Hendrickson and Tung Au, (Prentice Hall, Pitsburgh, 2000). 2. Construction Project Management – Frederick E. Gould (Wentworth Institute of Technology, Vary E. Joyce, Massachususetts Institute of Technology, 2000). 3. Project Management – Choudhury, S. (Tata McGraw Hill Publishing Co., New Delhi, 1988). 4. Applied project Engineering and Management – Ernest E. Ludwig (Gulf Publishing Co., Houstan, Texas, 1988). 5. Construction cost management, learning from case studies – Keith Potts, Taylor and Francis, London and New York.
+
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Open Elective-IV (Ecology and Sustainable Development) ESE Duration: 3 Hours Subject Code: 300808(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about the nature of ecology and sustainable development and various obstacles in sustainable development.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to sustainable development.
+Unit-1: Nature of ecology and sustainable development Definition, scope of ecology and sustainable development, geomorphology, oceanography, climatology and biogeography.
+Unit-2: Energy and environment Introduction of energy environment, use of solar cells for heating and operated drills, methane gas digesters, environmentally friendly method of energy conservation, difference between conventional and non-conventional energy sources, future trends of energy systems.
+Unit-3: Theory of isostasy Concept of isostasy for sustainable development, discovery of the concept, concept of Hayford and Bowie, Joly, and Holmes, Global isostatic adjustment.
+Unit-4: Physical geography and man human impact on the natural environment Modification of land forms, direct alternation of land forms, wind deflation, coastal erosion and deposition, modification of the atmosphere, ultration process in eco and energy systems.
+Unit-5: Obstacles in sustainable development Pollution growth, species extinction, restriction of bat lands, desertification, soil erosion, soil pollution, characterisation of contaminated soil, global warming and ozone depletion etc.
+Text Books: 1. Energy and environment – Fowler (McGraw Hill, New Delhi) 2. Restoration Ecology and sustainable development – Krystyna M. Urbanska et.al. (Cambridge University Press, U.K.)
+Reference Books: 1. Reuniting Economy and Ecology in Sustainable Development – Russ Beaton et.al. 2. Theory and implementation of economic models for sustainable development – Jeroen C.J.M. Van Den Bergh 3. Economy and Ecology: Towards sustainable development – F. Archibugi et.al. 4. Evaluating Sustainable Development: Giving People a voice in their destiny – Okechukwu Ukaga et.al.
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Structural Engineering Drawing-II Lab Total Practical Periods: 40 PracticalSubject Code: 320861(20) Total Marks in End Semester Exam: 40
+Experiments to be performed (Min 10 experiments): 1. Details of reinforcement in a simply supported RCC beam (singly reinforced) with the given design data regarding the size and number of bars, stirrups their size and spacing. 2. Details of reinforcement in a simply supported RCC beam (doubly reinforced) with the given design data regarding the size and number of bars, stirrups their size and spacing. 3. Details of reinforcement in a simply supported RCC beam (T section) with the given design data regarding the size and number of bars, stirrups their size and spacing. 4. Details of reinforcement in a one way slab with the given design data regarding the size and number of bars, their size and spacing. 5. Details of reinforcement in a two way slab with the given design data regarding the size and number of bars, their size and spacing. 6. Details of reinforcement in a stair case with the given design data regarding the size and number of bars, their size and spacing. 7. Details of reinforcement for a RCC rectangular column with isolated footing. 8. Details of reinforcement for a RCC circular column with isolated square footing. 9. Detailing of Combined footings. 10. Detailing of Retaining walls. 11. Detailing for Water Tanks. 12. Detailing for R.C.C. slab Bridge. 13. Detailing for R.C.C. T-Beam Bridge. 14. Detailing for Prestressed Concrete Girder. 15. Bar bending schedules for few of the above items.
+Field Visit (Minimum 3 times):
+Study of complete standard drawing:
+1. Multistoried building  2. Bridge  3. Water tank
+List of Equipments / Machine Required:
+1. List of Equipments – Not Required.
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Water Resources Engineering Drawing Lab Total Practical Periods: 40 PracticalSubject Code: 320862(20) Total Marks in End Semester Exam: 40
+Experiments to be performed (Min 10 experiments): 1. Drawing of gravity dam section showing following details: openings in dams, joints, key and water stops.  2. Drawing of Earth dam section showing details of different types of earth dam.  3. Drawing of Ogee Spillway section.  4. Drawing of different types of energy dissipater and stilling basins.  5. Drawing of layout of diversion head works showing its different components.  6. Drawing of vertical drop weir.  7. Drawing of Glacis weir.  8. Drawing of canal head regulator.  9. Drawing of main types of canal fall.  10. Drawing of different types of hydraulic gates.  11. Drawing of aqueduct.  12. Drawing of Syphon Aqueduct.  13. Drawing of Super Passage.  14. Drawing of Canal Syphon.  15. Drawing of Level Crossing and inlets and outlets.
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 8th Subject: Computer Applications in Civil Engineering Lab Total Practical Periods: 40 PracticalSubject Code: 320863(20) Total Marks in End Semester Exam: 40
+Experiments to be performed (Min 10 experiments): 1. Computer Programs / Design in Civil Engineering Software Packages.
+List of Equipments / Machine Required:
+1. PC system. 2. Turbo C++ compiler.
+Text Books: 1. Let us C++ – Yeshwant Kanitkar (BPB Publications) 2. Problem Solving with C++ – Savitch (Addison Wesley Publication)
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Common to all branches Semester: 8th Subject: Report Writing and Seminar Total Theory Periods: 28 Subject Code: 320865(20) Class Tests: 2 Teachers Assessment: 40 Marks Objectives of the Subject:
+1. To learn about the nature of ecology and sustainable development and various obstacles in sustainable development.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to sustainable development.
+Unit-1: Introduction to Technical Writing How differs from other types of written communication Purpose of technical writing, Correspondence: prewriting, writing and rewriting Objectives of Technical Writing. Audience Recognition: High-tech audience, Low tech audience, Lay audience, Multiple Audience.
+Unit-2: Correspondence Memos, Letters, E-mails, Its differentiation, types of letters, Document Design, its importance, Electronic Communication: Internet, Intranet, extranet, Writing effective e-mail.
+Unit-3: Summary Report Strategies, Effective style of technical report writing: Structures: content, introduction, conclusions, references, etc., Presentation, Writing first draft, revising first draft, diagrams, graphs, tables, etc. report lay-out.
+Unit-4: Report Writing Criteria for report writing, Types of Report: Trip report, Progress report, lab report, Feasibility report, project report, incident report, etc., Case Studies.
+Unit-5: Proposals & Presentation Title page, Cover letter, Table of Content, list of illustrations, summary, discussion, conclusion, references, glossary, appendix, Case Studies, Oral Presentation/ Seminar.
+Text Books: 1. Sharon J. Gerson & Steven M. Gerson "Technical Writing - Process& Product", Pearson Education.
+Reference Books: 1. Sunita Mishra, "Communication Skills for Engineers" Pearson Education  2. Davies J.W. "Communication for engineering students", Longman  3. Eisenberg, "Effective Technical Communication", Mc. Graw Hill. ♦♦♦

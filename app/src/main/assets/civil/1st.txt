@@ -1,0 +1,312 @@
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Semester: Ist           Branch: Common to All Branches
+
+
+Subject: Applied Mathematics-I Code: 300114 (14)
+Total Theory Periods: 50 Total Tutorial Periods: 12
+Total Marks in End Semester Exam: 80
+Minimum number of class tests to be conducted: 02
+
+Unit – I
+Matrices
+Rank & inverse by elementary transformation; system of linear equations; eigen values & eigen vectors;
+Caley-Hamilton Theorem.
+
+Unit – II
+Differential Calculus
+Successive differentiation, Leibnitz's theorem; expansion of functions in Taylor's & Maclaurin's series;
+tracing of simple curves.
+
+
+Unit – III
+Integral Calculus
+Reduction formula, application of integration to rectification, quadrature, volume of revolution, centre of
+gravity & moment of inertia.
+
+Unit – IV
+Partial Differentiation
+Partial derivatives, Euler's theorem on homogeneous functions, maxima & minima of functions of two
+variables, Lagrange's method of undetermined multipliers, Jacobians; differentiation under the integral
+sign.
+
+Unit – V
+Ordinary Differential Equations & Applications
+Exact differential equations, reducible to exact form; first order differential equations (non-linear);
+application to simple electrical circuits & heat flow.
+
+
+Name of the Text Books:
+1. Higher Engg. Mathematics by B. S. Grewal (38th edition)- Khanna Publishers.
+2. Advanced Engg. Mathematics by Erwin Kreyszig (8th edition)- John Wiley & Sons.
+Name of the Reference Books:
+1. Differential Calculus by Gorakh Prasad – Pothishala Private Limited.
+2. Integral Calculus by Gorakh Prasad – Pothishala Private Limited.
+3. Advanced Engg. Mathematics by R. K. Jain & S. R. K. Iyengar Narosa Publishing House.
+4. Applied Mathematics by P. N. Wartikar & J. N. Wartikar, Vol. (I&II) – Pune Vidyarthi Griha
+Prakashan, Pune.
+5. Applied Mathematics for Engineers & Physicists by Louis A. Pipes – McGraw Hill.
+
+===================================================================================================
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Semester: Ist Branch: Common to All Branches
+Subject: Professional Communication in English Code: 300111 (46)
+Total Theory Periods: 50
+Total Marks in End Semester Exam: 80
+Minimum number of class tests to be conducted: 02
+Unit – I
+Some Key Concepts
+Process and Elements of Communication: context of communication; the speaker/writer and the
+listener/reader; Medium of communication; Principles of communication (7 C's of communication);
+Barriers in communication, effective communication; Communication in organization.
+
+Unit – II
+Writing
+Selecting material for expository, descriptive, and argumentative pieces; Resume; covering letter,
+Elements of letter writing and style of writing, business letters: Quotation and Tenders; Basics of Informal
+and Formal Reports-technical report writing, lab report; Précis writing.
+
+Unit – III
+Reading
+Effective Reading; reading different kinds of texts for different purposes; reading between the lines.
+Comprehension of Unseen Passages.
+Grammar in use: Errors of Accidence and syntax with reference to Parts of Speech; Agreement of
+Subject and Verb; Tense and Concord; Use of connectives, Question tags. Voice and Narration.
+Indianism in English: Punctuation and Vocabulary, Building (Antonym, Synonym, Verbal Analogy and
+One Word Substitution).
+Unit – IV
+Speaking
+Achieving desired clarity and fluency; effective speaking; task-oriented, inter-personal, informal and
+semi-formal speaking.
+Meetings, Seminar, Conferences, Interviews, Presentation, Audio-visual communication.
+Unit – V
+Listening
+Achieving ability to comprehend material delivered at relatively fast speed; comprehending spoken
+material in Standard Indian English, British English and American English; Intelligent listening in
+situations. Advantages of listening. Hearing and Listening; Essentials of Good Listening. Use of Modern
+Communication Devices; Telephonic Conversation.
+Name of the Text Books:
+ Sharma RC & Mohan K – "Business Corresponding and Report Writing", Tata McGraw Hill, New
+Delhi, 1994.
+ Alok Jain, P S Bhatia & A M Shiekh – "Professional Communication Skills; S. Chand & Company
+Ltd. 2005.
+ Rajendra Pal and JS Korlahalli – "Essentials of Business Communication", Sultan Chand &
+Sons, 1997.
+ A guide to Correct English – Oxford University Press, Ely House, London W.I., Latest Edition.
+(For Unit III)
+ English Sentence Structure by T.C. JUPP, and JOHN MILNE, ELBS edition published by
+Heinemann Educational Books Ltd. – Latest Edition. (For Unit III)
+Name of the Reference Books:
+ Fiske, john – "Introduction to Communication Studies", Rotledge London, 1990.
+ Geoffrey Leech & Jan Svartvik – "A Communicative Grammar of English", ELBS Longman,
+England.
+ Bill Scott – "The Skills of Communicating", Jaico Publishing House, Mumbai, 2004.
+ Gartside L- "Model Business Letters", Pitman, London, 1992.
+ Krishna Mohan & N. P. Singh – "Speaking English Effectively"; MacMillan India, New Delhi;
+2001.
+ 100 Tests in VOCABULARY; Indian Institute of Publishing, Chennai.
+ Communication skills for technical students, book-I; July 1995; compiled by the Curriculum
+Development Centre, TTTI, Western Region, Bhopal; Somaiya Publications Pvt. Ltd. New Delhi.
+ A Prelude to English by L. A. HILL, Oxford University Press, Madras-Latest Edition.
+ The English Errors of Indian Students by T.L.H. Smith – Pearse, I.E.S., Oxford University Press,
+Madras- Latest Edition.
+ Grammar and Composition by P.R. Sarkar, Anand Marg Publications, Kolkata
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Semester: Ist Branch: Common to All Branches
+Subject: Applied Chemistry Code: 300112 (11)
+Total Theory Periods: 50 Total Tutorial Periods: 12
+Total Marks in End Semester Exam: 80
+Minimum number of class tests to be conducted: 02
+Unit – I
+Water: Specifications for water, analysis of water alkalinity, hardness. Water for domestic use, water
+softening processes – Lime – Soda process, Zeolite and ion exchange method, boiler feed water, boiler
+problems-scale, sludge, priming and foaming, caustic embitterment and corrosion, their causes and
+prevention, removal of silica, removal of dissolved gases, carbonate and phosphate conditioning,
+colloidal conditioning, calgon treatment, Numerical problems on Lime-Soda process, Zeolite and Ion
+exchange method.
+
+Unit – II
+Fuels: Classification, combustion and chemical principles involved in it, calorific value: gross and net
+calorific values and their determination by bomb calorimeter.
+Solid Fuels: Proximate and ultimate analysis of coal and their importance, High and low temperature
+carbonization, Coke. Its manufactures by Otto Hoffman oven.
+Liquid Fuels: Petroleum: its chemical composition and fractional distillation, knocking and chemical
+structure, octane number and cetane number and their significance, power alcohol, Analysis of flue
+gases by Orsat’s apparatus, Numerical on calorific value, combustion, proximate and ultimate analysis of
+coal.
+Unit – III
+Corrosion: Types of corrosion (dry, wet, atmospheric, galvanic and concentration corrosion), theories of
+corrosion, protective measures against corrosion, factors affecting corrosion, pitting corrosion, water line
+corrosion, underground corrosion, stress corrosion, micro biological corrosion, corrosion fatigue.
+Batteries and Battery Technology: Primary cells, secondary batteries reserve batteries, fuel cells,
+solar cells.
+Unit – IV
+Portland Cements Introduction, types of Portland Cement, methods of manufacturing (dry and wet
+process), properties of cement, haracterization of constitutional compounds of cement, ISI
+specification.
+Lubricants: Classification of lubricants and mechanisms of lubrication.
+Polymers: Industrial applications of thermoplastic, thermosetting, polymers, properties and applications
+of the major polymers viz polyethylene, Teflon, PVC, nylon, phenol formaldehyde. Elastomers, Natural
+Polymers.
+Unit – V
+Introduction to Important Industrial Chemicals:
+Industrial Method of preparation (one each), properties and major industrial uses of following chemicals:
+Ammonium Chloride, Ammonium Nitrate, Ammonium Sulphate, Bromine, Calcium Phosphate
+(Monocalcium Phosphate, Super phosphate), Chromic Acid (Chromium trioxide, Chromic anhydride),
+Acrylonitrile, Benzene (Benzol), Butyl Acetate, Caprolactam, Carbon Tetrachloride, Cellulose Acetate,
+Cresol (Crysylic Acid), Chloroform (Trichloromethane), Ether (Ethyl Ether), Ethyl Alcohol (Ethanol,
+Industrial Alcohol), Glycerine (glycerol), and Melamine.
+Explosives and Propellants:
+Characteristics of Explosives, Oxygen Balance, Classification of Explosives: Primary or Initiating
+Explosives or Detonators; Low Explosives or Propellants; High Explosives, Preparation and Applications
+of Explosives, Rocket Propellants, Characteristics of a Good Propellant, Classification of Propellants.
+Name of Text Books:
+1. A Textbook of Engineering Chemistry by S.S. Dara (S. Chand and Company).
+2. Engineering Chemistry by P.C. Jain (Dhanpat Rai publishing company)
+Name of Reference Books:
+1. Chemistry in Engineering and Technology (Vol-2) by J. C. Kuriacose, J. Rajaram (Tata
+McGraw Hill).
+2. Engineering Chemistry by M.M. Uppal, Revised by S.C. Bhatia (Khanna Publishers).
+3. Engineering Chemistry by B. K. Sharma(Krishna Prakashan).
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Semester: IInd Branch: Common to All Branches
+Subject: Engineering Graphics Code: 300211 (37)
+Total Theory Periods: 50 Total Tutorial Periods: 12
+Total Marks in End Semester Exam: 80
+Minimum number of class tests to be conducted: 02
+UNIT – I
+a) Importance of Engineering Drawing, Scales: Representative Fraction, Type of Scale, Plain and
+Diagonal Scale.
+b) Engineering Curves: Conic section, Ellipse, parabola, hyperbola, Cycloidal Curves: Cycloid,
+Epicycloid, Hypocycloid, Involute.
+UNIT – II
+a) Projection: Introduction, Principle of Projection, method of projection, planes of projection, four
+quadrants, first and third angle projection, reference line symbols for methods of projection,
+Orthographic projection.
+b) Projection of Points: Introduction point situated in first, second, third & fourth quadrant.
+Projection of lines: Introduction, line parallel to one or both the planes, line contained by one or
+both the planes, line perpendicular to one of the planes, line inclined to one plane and parallel to
+other. Line inclined to both the planes. [Simple problems only]
+UNIT – III
+a) Projections of planes: Introduction, types of planes, projection of planes, projection of planes
+perpendicular to both the reference planes, perpendicular to one plane and parallel to the other
+plane, perpendicular to one plane and inclined to the other plane.
+b) Projections of Solids: Introduction, types of solids, projections of solids in simple position,
+projections of solids with axes inclined to one of the reference planes and parallel to the other,
+projections of solids with axes inclined to both H.P. and the V.P., section planes, types of
+sections, true shape of section, section of solids.
+UNIT – IV
+a) Development of Surfaces: Introduction, methods of development, development of lateral
+surfaces of right solids, cube, prisms, cylinders, pyramids & cone.
+b) Isometric Projection: Introduction, Isometric axes, lines & planes, Isometric scale, Isometric
+projection and Isometric view of simple objects.
+UNIT – V
+ Computer Aided Drawing: Introduction to CAD, benefits and limitation of CAD, CAD Softwares,
+AutoCAD introduction, Basic Commands of AutoCAD, Concept of Layers, Dimensioning and
+text, Creation of two dimensional drawing.
+TEXT BOOKS:
+(i) Bhatt, N.D., "Elementary Engineering Drawing", Charotar Book Stall, Anand
+(ii) George Omura, " Mastering AutoCAD" B.P.B. Publication, New Delhi
+REFERENCE BOOKS:
+(i) Engineering Graphics – Laxminarayanan & V. and Vaish Wanar, R.S. Jain Brothers, New Delhi
+(ii) Engineering Graphics – Chandra, AM & Chandra Satish 1998.
+(iii) Engineering Graphics – K.L. Narayan and P. Kannaih, Tata McGraw Hill
+(iv) A Text book of Engineering Drawing (Plane & Solid Geometry) – N.D. Bhatt & V.M. Panchal, Charotar Publishing House
+(v) The Fundamental of Engineering drawing and Graphics Technology – French and Vireck, McGraw Hill.
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+Semester: Ist Branch: Common to All Branches
+Subject: Elements of Electrical Engineering (New) Code: 300118(24)
+Total Theory Periods: 50 Total Tutorial Periods: 12
+Total Marks in End Semester Exam: 80
+Minimum number of class tests to be conducted: 02
+Unit – 1
+D.C. Networks: Introduction, Classification of elements – active , passive, unilateral, bilateral, linear,
+nonlinear, lumped and distributed; Electric circuit, Ohm’s law, Kirchhoff’s laws, Mesh and Nodal analysis,
+Delta-Star and Star-Delta Transformations, Superposition theorem, Thevenin’s and Norton’s theorems,
+Maximum Power Transfer theorem (Only independent sources).
+Unit – 2
+Single Phase A.C. Circuits: Production of ac voltage, waveforms and basic definitions, root mean
+square and average values of alternating currents and voltage, form factor and peak factor, phasor
+representation of alternating quantities, the j operator and phasor algebra, analysis of ac circuits, series
+circuits, parallel circuits, series parallel circuits, power in ac circuits.
+Unit – 3
+Three Phase AC circuits: Introduction, Generation of Three-phase EMF, Phase sequence, Connection
+of Three-phase Windings - Delta and Star connection : Line and Phase quantities, phasor diagrams,
+Power equations in balanced conditions.
+Magnetic Circuits: Introduction, Magnetomotive force (MMF), Magnetic field strength, Reluctance, B-H
+curve, Comparison of the Electric and Magnetic Circuits, Series-Parallel Magnetic Circuit, Leakage flux
+and fringing, Magnetic Hysteresis, Eddy currents.
+Unit – 4
+Single phase Transformers: Introduction, Principles of operation, Constructional details, Ideal
+Transformer and Practical Transformer, EMF equation, Rating, Phasor diagram on no load, Losses,
+Efficiency calculations.
+Direct current machines: Constructional details, Principle of operation of DC machines, e.m.f.
+equation, Torque production, classification of DC machines, Starting of DC motors.
+(Only elementary treatment with simple problems on all the topics in this unit)
+Unit – 5
+Electrical Measuring Instruments: Introduction, classification of instruments – Indicating, Recording
+and Integrating type instruments; essential features of measuring instruments - deflecting torque,
+controlling torque, damping torque; Construction and working of moving iron and PMMC instruments,
+Shunt and multipliers.
+Text Books:
+1. V.N. Mittle and Arvind Mittal, “Basic Electrical Engineering”, Second Edition, Tata McGraw Hill.
+2 Del Torro, Vincent “Electrical Engineering Fundamentals”, Second Edition Prentice Hall of India Pvt.
+Ltd.
+Reference Books:
+1. Fitzrald and Higgonbothom, “Basic Electrical Engineering”, Fifth Edition, McGraw Hill.
+2. D.P. Kothari and I.J. Nagrath, “Theory and Problems of Basic Electrical Engineering”, PHI.
+3. I.J. Nagrath and D.P. Kothari, ”Electrical Machines”, Tata McGraw Hill.
+4 Ashfaq Hussain, “Fundamentals of Electrical Engineering”, Third Edition, Dhanpat Rai and Co.
+5. H. Cotton, ”Advance Electrical Technology,” ISSAC Pitman, London.
+6. Parker Smith S. (Ed. Parker Smith N.N.), “Problems in Electrical Engineering”, Tenth edition, Asia
+publication.
+Chhattisgarh Swami Vivekanand Technical University Bhilai
+(C.G.)
+Semester: Ist Branch: Common to All Branches
+Subject: Applied Chemistry (Lab) Code: 300121 (11)
+Total Practical Periods: 28 Total Tutorial Periods: Nil
+Total Marks in End Semester Exam: 40
+List of Experiments
+1. To determine the percentage composition of a mixture of Sodium Hydroxide and Sodium
+Chloride.
+2. To determine the amount of Sodium Carbonate in the given mixture of Sodium Carbonate and
+Sodium Bicarbonate.
+3. Determine the amount of Oxalic Acid and Sulphuric Acid/Hydrochloric Acid in one litre of
+solution given standard Sodium Hydroxide and Potassium Permanganate.
+4. To determine the Carbonate, Bicarbonate and Chloride contents in irrigation water.
+5. Argentometric titration one each of Vohlard's method and of Mohr's method.
+6. Complexometric Titrations Ca & Mg.
+7. Deternimation of dissolved Oxygen in given sample of water.
+8. Deterination of calorific value of fuel by Bomb Calorimeter.
+9. Determination of Flash Point and Fine Point of lubricant by Abels and Pensky Martin apparatus.
+Name of the Text Books:
+1. Laboratory manual on Engineering Chemistry by Dr. Sudha Rani (S. Chand and Company).
+2. A Textbook on Experiments and Calculations in Engineering Chemistry by S.S. Dara (Dhanapat
+Rai Publishing Company Pvt. Ltd.).
+Name of the Reference Books:
+1. Vogel's Texbook of Quantitative Chemical Analysis (Latest ed.), Revised by G.H. Jeffery, J.
+Bassett, J. Mendham & R.C. Denney.
+2. Applied Chemistry: Theory and Practice (Latest ed.), by O.P. Vermani and A. K. Narula.
+Chhattisgarh Swami Vivekanand Technical University Bhilai
+(C.G.)
+Semester: Ist Branch: Common to All Branches
+Subject: Elements of Electrical Engineering (Lab) Code: 300126(24)
+Total Practical Periods: 28 Total Tutorial Periods: Nil
+Total Marks in End Semester Exam: 40
+List of Experiments
+(To perform minimum 10 experiments)
+1. To verify Thevenin’s theorem and Norton’s theorem.
+2. To verify Superposition theorem.
+3. To verify Kirchhoff’s Current Law and Kirchhoff’s Voltage Law.
+4. To verify Maximum Power Transfer theorem
+5. To determine V– I characteristics of Incandescent lamp.
+6. To study B-H curve.
+7. To measure current, power, voltage and power factor of series RLC circuit.
+8. To measure current, power, voltage of parallel RLC circuit.
+9. To measure current, power, voltage of series parallel RLC circuit.
+10. To measure R and L of choke coil.
+11. To study construction of transformer.
+12. To perform ratio test and polarity test of single phase transformer.
+13. To calculate efficiency of single phase transformer by direct loading.
+14. To study construction of D.C. machine.
+15. To study charging and discharging of a capacitor.
+16. To study the Wattmeter and Energy meter.

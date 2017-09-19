@@ -1,0 +1,316 @@
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                   Semester: VIII Subject: Robotics                                                             Code: 337831(37) Total Theory Periods: 40                                                  Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                         Assignments: Two (Minimum) ESE Duration: Three Hours                   Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives: • To acquire the knowledge of basics of robotics and their importance. • Understand fundamental theory of robot design. • To acquire the knowledge on advanced algebraic tools for the description of motion. • To develop the ability to analyze and design the motion for articulated systems. • To acquire the knowledge of sensors, actuators and vision system used in robotics.
+
+UNIT – I : Introduction Fixed & flexible automation, evolution of robots and robotics, laws of robotics, progressive, advancement in robots, manipulator anatomy, arm configuration & work space, human arm characteristics, design and control issues, manipulation and control, actuators, sensors and vision, programming of robots, applications – material handling, processing applications, assembly applications, inspection applications etc, the future prospects, notations.
+
+UNIT – II : Coordinate Frames, Mapping and Transforms Coordinate frames, description of objects in space, transformation of vectors, inverting a homogeneous transform, fundamental rotation matrices. mechanical structure and notations, description of links and joints, kinematic modeling of the manipulator, Denavit – Hartenberg notation, kinematic relationship between adjacent links, manipulator transformation matrix.
+
+UNIT – III : Kinematic Modeling of Robots Position analysis - direct and inverse kinematic models of robotic manipulators, various examples. velocity analysis – Jacobian matrix, introduction to inverse kinematic model.
+
+UNIT – IV : Robotic Sensors and Vision Introduction regarding sensing technologies, sensors in robotics, classification, characteristics, internal sensors – position, velocity, acceleration sensors, force sensors, external sensors – proximity, touch and slip sensors. robotic vision, process of imaging, architecture of robotic vision systems, image acquisition, components of vision system, image representation, image processing.
+
+UNIT – V : Motion Planning and Control of Robot Manipulators Trajectory planning of robotic manipulator: joint space and Cartesian space techniques. open and close loop control, linear control schemes, examples of control models. Robot applications Industrial applications, material handling, processing applications, assembly applications, inspection application, principles for robot application and application planning, justification of robots, robot safety, non-industrial applications, robotic application for sustainable development.
+
+Text Books: 1. Robotics & Control – R.K. Mittal & I.J. Nagrath – TMH Publications. 2. Introduction to Robotics Analysis, Systems Applications - Saced B. Niku, Pearson Reference Books: 1. Principle of Robot Motion- Choset – PHI, Delhi 2. Kinematics and Synthesis of linkages – Hartenberg and Denavit – McGraw Hill. 3. Robotics Control Sensing - Vision and Intellgence – K.S. Fu, McGraw Hill. 4. Robotic Engineering – An Integrated Approach - R.D. Klafter – PHI. Delhi. 5. Introduction to Robotics - S.K. Saha – Mc Graw Hill. 6. Introduction to Robotics – Mechanics and Control - John J. Craig
+
+Course Outcomes: • Apply knowledge of robotics for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts in the design and development robots • Demonstrate creativeness in designing and development of robotics. • Identify, analyze and design of robots useful to the society. • Work effectively with multidisciplinary robots.
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                           Semester: VIII Subject: Finite element methods                                            Code: 337832(37) Total Theory Periods: 40                                                         Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                Assignments: Two (Minimum) ESE Duration: Three Hours                              Maximum Marks: 80 Minimum Marks: 28
+
+Course objective • Understand the fundamental concepts of FEM. • Understanding the use and knowledge of fundamental stiffness matrix. • Know the behaviour and usage of each type of elements covered in this course. • Be able to prepare a suitable FE model for structural mechanical analysis problems. • Can interpret and evaluate the quality of the results  • Be aware of the limitations of the FEM.
+
+Unit-I : Formulation of Finite Element Equation starting from governing differential equation, Domain residual and minimization, Weighted residual method, Weak form of weighted residual method, solution of weak form using trial function, piecewise continuous trial function solution, formulation of one dimensional bar element using weak form of weighted residual element Minimization of potential energy, Rayleigh-Ritz method, Piece-wise continuous trail function, finite element form of Rayleigh-Ritz method, finite element formulation derived from a functional, formulation of bar element and heat transfer element using Rayleigh-Ritz method
+
+Unit-II : One dimensional finite element analysis, generic form of total potential for one dimensional case, determination of shape functions for linear bar finite element and quadratic bar finite element, stiffness matrix, one dimensional problems of structure mechanics and heat conduction
+
+Unit-III : Stiffness matrix formulation for beam and frame element, Determination of shape functions and element matrices, Application problems
+
+Unit-IV : Two dimensional finite element analysis, simple three node triangular elements, four node rectangular element, six node triangular element, natural coordinates, coordinate transformation, simple two dimensional problems, Gauss Quadrature Technique
+
+Unit-V : Finite element analysis for plane stress and plane strain problem, Strain displacement matrix for 2-D elements, two-dimensional integrals. Application problems, Scalar field problems including heat conduction and flow problems.
+
+TEXT BOOKS 1. Textbook of Finite Element Analysis – Seshu P – Prentice Hall of India. 2. Fundamentals of Finite Element Analysis - David Hutton – TMH, Delhi
+
+REFERENCE BOOKS 1. Finite Element Method: Basic concepts & Applications- Alavala – PHI, Delhi 2. Finite Element in Engineering - T.R. Chandrupatla and Belegundu, Pearson,Singapore 3. Concepts and Applications of Finite element analysis - Cook, Robert – John Wiley 4. The Finite Element Method, A Practical Course - Liu and Quek. – McGraw Hill 5. The Finite Element Method in Engineering - S.S. Rao. 6. An Introduction to the Finite Element Method – J.N. Reddy – TMH, Delhi 7. Finite Element Method – Zienkiewicz. O C - TMH, Delhi 8. Finite Element Analysis: Theory And Programming – Krishnamoorthy C.S.- TMH, Delhi 9. Finite Element Procedure – K.J.Bathe – Prentice Hall of India 10. A First Course in The Finite Element Method – Logan – Cenegage Learning
+
+Course Outcome • Apply knowledge of finite element method for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts finite element method in the analysis of structural and thermal systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering • Identify, analysis, and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary problems.
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                 Semester: VIII Subject: Industrial Engineering & Management                        Code:  337833(37) Total Theory Periods: 40                                                                 Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                  Assignments: Two (Minimum) ESE Duration: Three Hours                           Maximum Marks: 80 Minimum Marks: 28 Course Objectives: 1. To impart capability of successfully planning, controlling, and implementing projects.  2. Understand and apply the principles of maths, science, technology and engineering, involving industry-relevant problems.  3. Contribute to the profitable growth of industrial economic sectors by using IE analytical tools, effective computational approaches, and systems thinking methodologies.  4. Maintain high standards of professional and ethical responsibility.  5. Flourish and work effectively in diverse, multicultural environments emphasizing the application of teamwork and communication skills.  6. Practice life-long learning to sustain technical currency and excellence throughout one's career. Unit-I : Introduction History & development, objective, place of Industrial Engineering in an organization, relation with other department, system approach  Plant Location Need for a suitable location, Plant location problems factors affecting location, quantitative method for evaluation of plant location. Plant Layout Objective & Principles, factors affecting layout, types of layout. Unit-II  : Work Study  Purpose, objectives and applications of work study, Productivity and work study. Method Study  Introduction, procedure, flow process charts, Multiple activity chart, motion economy principles, Therbligs, cycle graph and chronocyclegraph. Work Measurement Definition, types, Time Study- selection & timing the job, rating, allowances, Numerical on Normal and standard  time calculation.  Unit-III : Job Evaluation and Merit Rating Definition, objectives, methods.  Wages and Incentives Terminology, characteristics, factors, types of incentives, wage incentive plan, Rowan plan, Taylor’s differential piece rate system, Emerson’s efficiency plan, Halsey’s 50-50 plan, Bedaux plan, Group task & Bonus system. Unit-IV : Basic concepts and Functions of management  Nature, Purpose and Objectives of basic functions of management, Authority and Responsibility, social responsibility of manager, ethics and management. Human Resource Management Nature and Scope of Human Resource Planning, Recruitment and Selection, Training and Development, Career Growth, Grievances, Motivation – needs and types, Maslow hierarchy of needs theory, Herzberg two factor theory, Need-want-satisfaction chain, Quality of working life, job enrichment and job enlargement. Unit-V :  Marketing Management Marketing Environment, Marketing Mix, Advertising and Sales Promotion, Channels of Distribution. Financial Management Book keeping, financial statement Analysis, Financial Ratios, Capital Budgeting, Break-Even Analysis. TEXT BOOKS 1. Industrial Engineering and Production Management -Martand Telsang - S.Chand. 2. Industrial Engineering & Management - S. Dalele & Mansoor Ali - Standard Publishers. REFERENCE BOOKS 1. Industrial Engineering & Management ,A new perspective- Philip E Hicks - Mcgraw Hill 2. Company Essential of Management - H. Koonz and H. Weihrich – Mcgraw Hill 3. Marketing Management- Kotler Philip- Prentice Hall of India 4. Flexibilty in Management - Sushil, Vikas publication - New Delhi 5. Human Resource Management - Luthans Fred - McGraw Hill, Inc. 6. Financial Management -  M.Y. Khan and P.K. Jain - Tata Mc-Graw Hill 7. Fundamentals of Business Organizations and Management -Y.K. Bhusan - S. Chand 8. Industrial Management - K.K. Ahuja - Khanna Publishers 9. Introduction of work study - ILO, Geneva -  Universal Publishing Corporation, Bombay 10. Motion and Time Study - Ralph M. Bannes -  John Wiley & Sons 11. Work Study and Ergonomics - H.S. Shan - Dhanpat Rai & Sons Course Outcomes: • Ability to apply mathematics and science in Industrial engineering. • Ability to design and conduct experiments, as well as to analyze and interpret data  • Ability to identify, formulate, and solve engineering problems  • Ability to use the techniques, skills, and modern engineering tools necessary for industrial engineering practice  • Ability to design, develop, implement and improve integrated systems that include people, materials, information, equipment, and people
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                  Semester: VIII Subject: Mechatronics                                                                    Code: 337841(37) Total Theory Periods: 40                                                                 Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                   Assignments: Two (Minimum) ESE Duration: Three Hours                       Maximum Marks:   80 Minimum Marks: 28 Course Objectives: • To acquire the knowledge of basics of mechatronics and their scope. • To acquire the knowledge of sensors and transducers.  • Understand fundamental of hydraulic and electrical actuators. • To acquire the knowledge of data acquisition system and control system. • To develop the ability to analyze and design mechatronics system.
+UNIT – I : Introduction about Mechatronics, scope of Mechatronics, application, process control automation and N/c Machines. UNIT – II : Sensors and Transducers Introduction, classification, specification, characteristics of transducers, type of transducers displacement, strain, vibration pressure, flow, temperature, force & torque, tactile. UNIT – III : Hydraulic Pneumatic & Electrical actuators Pumps & Compressors, control valves & accessories, actuators, fluid power symbols, fluid power systems, switching devices, solenoids, motors. UNIT – IV : Data Acquisition and Control System Introduction, Quantitizing theory, Analog to Digital Conversion, Digital to Analog (D/A) conversation, transfer function, transient response & frequency response & frequency response, stability criteria. UNIT – V : Design of Mechatronics systems Introduction, Automatic front and book and cutting in steel rolling mill, lift control system, CNC lathe, temperature control of a heat treatment furnace, EOT crane control panel, Grey grain separators, electrode arm control in electric arc furnace. TEXT BOOKS  1. Mechatronics  – N. Shanmugam – Anuradha Agencies 2. Mechatronics – HMT Limited – Tata McGraw hill,New Delhi REFERENCE BOOKS 1. Mechatronics - Singh and Joshi – PHI New Delhi 2. Mechatronics :A Multi Disciplinary Approach– W. Bolton – Pearson Education - Singapore 3. Mechatronics System Design - Shetty D, Kolk Ra – PWS Publications, Boston 4. Mechatronics - Kamm, Lawrence J – Prentice Hall Of India 5. Mechatronics & Measurement Systems – Alciator  David  & Histand Michael – TMH Dehi 6. Mechatronics - Necsulescu D – Pearson, Singapore 7. Mechatronics Source Book – N.C.Braga – Cenegage Learning, Delhi 8. Mechatronics System Design – Devdas Setty & Richrd Kolk  - Cenegage Learning, Delhi 9. Analytical Robotics and Mechatronics - Stadler W – Mcgraw Hill,New Delhi 10. Mechatronics: Electronics in Products & Processes- Bradley, D A; Dawson, D And Burd,     N C Loader, A J - Taylor And Francies - Boca Raton Course outcomes: • Apply knowledge of mechatronics for understanding and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts of mechatronics in the design and development of mechanical systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering in general and mechanical engineering in particular. • Identify, analyze and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai  Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                    Semester: VIII Subject: Vibration & Noise Control                                               Code: 337842(37) Total Theory Periods: 40                                                                   Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                    Assignments: Two Minimum) ESE Duration: Three Hours                              Maximum Marks: 80 Minimum Marks: 28
+
+Course Objective: • Introduce students to the Fundamentals of vibrations.  • Introduce students how to mathematical model the vibration and acoustics system. • Introduce students to vibration system with single degree of freedom • Introduce students to vibration system with multi-degree of freedom • Enable students to analisis and measurements of sound. • Introduce students to the noise and noise control.
+
+UNIT- I : Fundamentals of vibrations  Simple harmonic motion, combination of two simple harmonic motions, beats, Fourier analysis Single degree of freedom system: Free un-damped vibrations: Equivalent systems linear and torsional, natural frequency estimation, energy methods Damped vibrations : Damping models, structural, coulomb, and viscous damping, critically, under and over-damped system, logarithmic decrement Forced vibrations : Harmonic excitation, support motion, vibration isolation, critical speeds of shafts in bending
+
+UNIT- II : Two degree of freedom system Free vibrations of spring coupled system, general solution, torsional vibrations, two degree of freedom mass coupled system, bending vibrations in two degree of freedom system, forced vibrations of an undamped two degree of freedom system, dynamic vibration absorber, forced damped vibrations
+
+UNIT- III : Multi-degree of freedom system Free un-damped analysis. Numerical methods: Dunkerley’s, Rayleigh, Holzer methods.
+
+Experimental methods in vibration analysis: Vibration measurement devices and analyzers, balancing of rigid rotors
+
+UNIT- IV :Analysis and measurement of sound One dimensional wave in a gas, sound perception and the decibel scale, the ear, combining sound levels in decibels, octave bands, loudness, weightings, directionality of acoustic sources and receivers, directivity index
+
+UNIT- V : Noise control Noise criteria, sound absorption and insulation, noise barriers, acoustic enclosures, silencers
+
+TEXT BOOKS 1. Mechanical Vibrations –Thomson W T- Prentice Hill of India  2. Theory & Practice of Mechanical Vibrations – J.S. Rao, Gupta - New Age International.  REFERENCE BOOKS 1. Mechanical Vibrations and Noise Engineering – A G Ambekar – PHI, Delhi 2. Mechanical Vibrations – G.K. Grover - S. Chand & CO. 3. Acoustics for Engineers - Turner & Pretlove - Macmillan  4. Acoustics and Noise Control - Smith, Peters & Owen - Addison-Wesley-Longman.  5. Industrial Noise Control: Fundamentals and Applications - Bell and Bell, Marcel-Dekker 6. Vibration And Noise For Engineers – Kewal Pujara – Dhanpat Rai,Delhi 7. Environmental Noise Pollution and its Control – G R Chhatwal – Anmol Publications,Delhi 8. Noise Pollution and Control – Singal S P – Narosa Publications, Delhi 9. Mechanical Vibrations and Noise Controls – Sadhu Singh – Khanna Publisher, New Delhi 10. Fundamentals of Noise and Vibration - Fahy FJ, Walker JG - E&Fnspon – New York Course Objectives:  • Apply knowledge of Vibration & Noise Control for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts in the design and development of mechanical systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering • Identify, analysis, and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary problems.
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                  Semester: VIII Subject: Optimization Techniques                                         Code: 337843(37) Total Theory Periods: 4 0                                                         Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                           Assignments: Two (Minimum) ESE Duration: Three Hours                        Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives: This course aims to introduce students to use advanced quantitative methods and techniques for effective decisions–making; model formulation and applications that are used in solving business decision problems. UNIT – I : Optimization Technique Classification of optimization, problems, single variable and multivariable optimization with equality constraints and Inequality constraints. Convex programming problem.
+
+UNIT – II : Linear Programming - II Duality in Linear programming, dual simplex method, decomposition principle, sensitivity analysis, quadratic programming, changes in cost coefficient, golden section method.
+
+UNIT – III : Non-Linear Programming – I Rate of convergence, Design variables, Random search methods, Chrivariate methods, Powell’s method, Newton’s method, Marquard Method, Test function.
+
+UNIT – IV : Geometric Programming Unconstrained minimization problem, primal dual relationship, geometric programming with mixed Erie quality, application and complementary function.
+
+UNIT- V : Dynamic Programming Multistage Decision processes. principles of optimality, continuous dynamic programming.
+
+TEXT BOOKS 1. Optimization Techniques – C.S. Rao – Dhanpat Rai & Sons, New Delhi 2. Optimization methods for Engineering Design – R.L. Fox - Addison Wesley  REFERENCE BOOKS 1. Engineering Optimization Theory and Practice – S.S. Rao – New Age Publishers. 2. Introduction to optimum Design – J.S. Arora – Mc. Grawhill publishers 3. Optimization Methods for Engineering – Raju – PHI,Delhi 4. Foundation of Mathematical optimization – Pallaschke – Kluwer Academic Publishers 5. Optimization Methods in Operations Research and System Analysis–K V Mittal–Wiley,Delhi 6. Engineering Optimization: Theory And Practice - Singiresu S Rao – New Age 7. Optimization For Engineering Design- Deb, Kalyanmoy-Prentice Hall 8. Optimization Methods – Mohan & Deep- New Age, Delhi 9. An Introduction to Optimization- Chang, Edwin& Zak  Stanislaw -John Wiley, New York 10. Optimization Concepts And Applications In Engineering – Belegundu & Chandrupatla-Pearson,Singapore Course Objectives: • Ability to understand and analyze managerial problems in industry so that they are able to use resources (capitals, materials, staffing, and machines) more effectively. • Knowledge of formulating mathematical models for quantitative analysis of managerial problems in industry. • Skills in the use of Operations Research approaches and computer tools in solving real problems in industry.
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                        Semester: VIII Subject: Computational Fluid Dynamics                        Code: 337844(37) Total Theory Periods: 40                                                    Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                          Assignments: Two (Minimum) ESE Duration: Three Hours                      Maximum Marks: 80 Minimum Marks: 28 Course Objective: 1. To introduce the student to widely used techniques in the numerical solution of fluid equations, issues that arise in the solution of such equations, and modern trends in CFD. 2. To acquire core knowledge of the fundamentals of CFD for engineers, and an introduction to the methods and analysis techniques used in CFD. 3. By studying a variety of flow situations students will develop a better intuition of fluid mechanics more quickly than is possible with traditional analytical approaches. 4. Quantify and analyze the numerical error in CFD discetization schemes. 5. Develop finite difference and finite volume forms of the CFD equations and important model systems  6. Formulate explicit and implicit algorithms for solving the Navier-Stokes equations.. 7. Understand and apply verification strategies for evaluating CFD code. UNIT I  Fundamental Concepts  Introduction- Governing Equations of Fluid Dynamics. Mathematical Behavior of Partial Differential Equations - Elliptic, Parabolic and Hyperbolic equations. Physical Classification of fluid dynamics problems, Well-posed problems.  UNIT II  Finite Element and Finite Difference Method Overview of Finite Element and Finite difference Techniques  in Computational Fluid Dynamics. Strong and Weak Formulations of a Boundary Value Problem. UNIT III Finite Volume Schemes General Discretisation Methodologies: Cell Centered Formulation- Lax-Vendoroff Time Stepping, Runge-Kutta Time Stepping, Multi-stage Time Stepping. Cell Vertex Formulation - Multistage Time Stepping. Discretisation of convective fluxes: Flux-vector splitting formulation, Flux-difference splitting formulation. Up-wind formulation. UNIT IV  Discretization  Boundary layer Equations and methods of solution -Implicit time dependent methods for inviscid and viscous compressible flows - Concept of numerical dissipation --Stability properties of explicit and implicit methods - Conservative up-wind discretization for Hyperbolic systems - Further advantages of upwind differencing. UNIT V  Principles of Grid Generation Structured grid: C-, H- and O-Grid topology. Algebraic, Elliptical and Hyperbolic Grid Generation, Unstructured grid: Delaunay Triangulation, Advancing-Front Method, Generation of Anisotropic Grids, Mixed-Element/Hybrid Grids, Assessment and Improvement of Grid Quality, TEXT BOOKS 1. Introduction to computational fluid dynamics: the finite volume method - Versteeg, & Malalasekera - AddisonWesley. 2. Introduction to Computational Fluid Dynamics – Niyog & Chakraborty – Pearson ,Singapore REFERENCES 1. Computational Techniques for Fluid Dynamics, - Vols. I and II - Fletcher C.A.J. – Springer, Verlag, Berlin, 1988. 2. Computational Fluid Dynamics:An Introduction - John F. Wendt (Editor) – Springer,   Verlag, Berlin. 3. Numerical Computation of Internal and External Flows, Vols. I and II - Charles Hirsch - John Wiley & Sons, New York. 4. Computational Fluid Dynamics for Engineers, Vols. I & II - . Klaus A Hoffmann and Steve T. Chiang - Engineering Education System, W. Wichita, K.S., 67208 – 1078 USA. 5. Fundamentals of Aerodynamics - Anderson, Jr.D - McGraw Hill. Contribution to Outcome: • Develop an understanding for the major theories, approaches and methodologies used in CFD. • Build up the skills in the actual implementation of CFD methods for mechanical engineering design, analysis and application. • Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                              Semester: VIII Subject: Soft computing techniques                                          Code: 337845(37) Total Theory Periods: 40                                                             Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                            Assignments: Two (Minimum) ESE Duration: Three Hours                      Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives: • To familiarize with concepts of soft computing  • To introduce the ideas of neural networks, fuzzy logic and use of heuristics based on human experience. • To introduce the concepts of Genetic algorithm and its applications to soft computing using some applications.
+
+UNIT – I : Introduction - Introduction to soft computing; introduction to biological and artificial neural network, introduction to fuzzy sets and fizzy logic systems.
+
+UNIT – II : Artificial neural networks and applications - Different artificial neural network models, learning in artificial neural networks, neural network applications in control systems.
+
+UNIT – III : Fuzzy systems and applications - Fuzzy sets; fuzzy reasoning, fuzzy inference systems, fuzzy control, fuzzy clustering, applications of fuzzy systems.
+
+UNIT – IV : Neuro-fuzzy systems - Neuro-fuzzy modeling, Neuro-fuzzy control. Genetic Algorithms- Simple GA, crossover and mutation, genetic algorithms in search and optimization.
+
+UNIT – V : Applications- Pattern Recognitions, Image Processing, Biological Sequence Alignment and Drug Design, Robotics and Sensors, Information Retrieval Systems, Share Market Analysis, Analysis language processing.
+
+TEXT BOOKS 1. Fuzzy Logic And Soft Computing – Chen, Guoging, Ving, Mingsheng & Cai, Kai Yuan Ed - Kluwar Academic Publications,Usa 2. Soft Computing and Intelligent Systems Design Theory Tools and Applications – Karray F O &  Desilva C – Pearson, New Delhi REFERENCE BOOK 1. A Computational intelligence: principles, techniques, and applications - Konar - Springer. 2. Introduction to pattern recognition: statistical, structural, neural, and fuzzy logic approaches: Friedman, M & Kandel, A. - World Scientific. 3. Neuro-fuzzy and soft computing: a computational approach to learning and machine intelligence - Jang, J S R, Sun, C T, & Mizutani E - Prentice Hall. 4. An introduction to genetic algorithms- Mitchell M - MIT press. 5. Fuzzy Logic with Engineering Applications - Ross T J - John Wiley & Sons Course Outcomes: • Identify and describe soft computing techniques and their roles in building intelligent machines  • Recognize the feasibility of applying a soft computing methodology for a particular problem • Apply fuzzy logic and reasoning to handle uncertainty and solve engineering problems  • Apply genetic algorithms to combinatorial optimization problems  • Apply neural networks to pattern classification and regression problems  • Effectively use existing software tools to solve real problems using a soft computing approach  • Evaluate and compare solutions by various soft computing approaches for a given problem.
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai  Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                             Semester: VIII Subject: Environmental Pollution & Control                          Code: 337846(37) Total Theory Periods: 4 0                                                        Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                         Assignments: Two (Minimum) ESE Duration: Three Hours                     Maximum Marks: 80 Minimum Marks: 28 Course Objectives: • To provide an introduction to Environmental Pollution. • To develop an understanding of the causes, chemistry and effects of pollution.  • To build awareness of the strategies used to control and manage pollution. • To make aware of Environmental Laws & Acts UNIT-I Environmental Pollution – Introduction & Classification Sources and classification of air pollutants, aerosols, primary and secondary air pollutants, effect of air pollution on human health, effect of SO2, CO2, NO2 H2S and lead, economic effect of air pollution, mechanism of deterioration in polluted atmosphere. Factors influencing atmospheric deterioration, effect of air pollution on building materials, paints, textiles, rubber, leather, paper and electronic industry. UNIT – II Environmental Pollution - Sources Air pollution due to automobiles, exhaust, Crankcase and evaporative emissions and their control, effect of various parameters of I.C. engines on air pollution, photochemical air pollution, air pollution from ferrous metallurgical operations and thermal power plants. UNIT – III Chemistry of Pollution Definition of pollutant concentrations, mass concentration, volume concentration, mass-volume concentration and relationship between these concentrations, smoke and its control. Ningalmam smoke chart, smoke prevention and control of air pollution by process change, elementary ideas of control of gaseous contaminants for combustion and absorption. UNIT – IV Pollution Control Control of air pollution by equipment, objectives of using control equipment, objectives of using control equipment, settling chambers, inertial separators, cyclones, principle of electroscopic precipitators, descriptive study of the above equipment only, merits and demerits of the equipment, choice of equipment. UNIT – V Environmental Laws & Acts Air pollution indices, definition of air pollution index, type and use of air pollution indices, criteria for a standardized index, acid rain, causes of acid rain and its remedy, green house and its effect, air pollution legislation and regulations, constitution of the Board, functions of the central board and state boards, classification of pollution sources under Air Act 1981 and 1986. TEXT BOOKS 1. Environmental Chemistry and Pollution Control - S S Dara – S Chand , New Delhi  2. Air Pollution - M.N. Rao and H.V.N. Rao – TMH, New Delhi. REFERENCE BOOKS 1. Air Pollution Control Theory - Martin Crawford.- TMH, New Delhi 2. Encyclopaedia of Environment Control Technology & Air Pollution Control – Cheremisinott P N – Gulf  Publication, London 3. Pollution Control Hand Book - Utility Publication,Securndarabad 4. Environmental Pollution Conservation And Planning - Pashupatinath & Siddh Nath - Chugh Publications, Allahabad 5. Environmental Air Pollution and Its Control - Chhatwal, Mehra & Katyal - Anmol Publications, New Delhi 6. Environmental Pollution Control Engineering – Rao C S –Wiley, New Delhi 7. Environmental Pollution Analysis – Khopkar S M- Wiley, New Delhi 8. Air Pollution Control Technology - R.W. Bethewaven  - Van Nostrans. 9. Air Pollution & Control – KVSG Murali Krishnan – Kaushal & Company 10. Air Pollution & Control Technologies – Y. Anjaneyulu – Allied Publishers 11. Water & Air Pollution & Environmental Protection Laws, Vol. - II – M C Mehta – Delhi Law House Course Outcomes • Understand contemporary pollution issues.  • Have insight into specific examples of environmental pollution.  • Understand the causes and effects of key types of environmental pollution.  • Appreciate different pollution control strategies. • Awareness of  Environmental Laws & Acts
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai  Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                      Semester: VIII Subject: Mechanical Handling System and Equipments                Code: 337847(37) Total Theory Periods: 4 0                                                        Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                          Assignments: Two (Minimum) ESE Duration: Three Hours                     Maximum Marks: 80 Minimum Marks: 28 Course Objectives: • To introduce to the importance of proper material handling and storage techniques. • To introduce to selection of material handling equipment • To introduce to design considerations of mechanical handling equipment and load lifting attachments UNIT – I Elements of Material Handling System Importance, Terminology, objectives and benefits of better Material Handling, Principles and features of Material Handling System, Interrelationships between material handling and plant layout, physical facilities and other or organizational functions, Classification of Material Handling Equipment. UNIT – II Selection of Material Handling Equipment Factors affecting for selection, Material Handling Equation, Choices of Material Handling Equipment, General analysis Procedures, Basic Analytical techniques, the unit load concept Selection of suitable types of systems for applications, Activity cost data and economic analysis for design of components of Material Handling Systems, functions and parameters affecting service, packing and storage of materials. UNIT – III Design of Mechanical Handling Equipment  Design of Hoists, Drives for hoisting, components, and hoisting mechanisms, rail traveling components and mechanisms, hoisting gear operation during transient motion, selecting the motor rating and determining breaking torque for hoisting mechanisms. Design of Cranes, Hand-propelled and electrically driven E.O.T overheat traveling cranes, Traveling mechanisms of cantilever and monorail cranes, design considerations for structures of rotary and cranes with fixed radius, fixed post and overhead traveling cranes, Stability of stationary rotary and traveling rotary cranes. UNIT – IV Design of load lifting attachments  Load chains and types of ropes used in Material Handling System, Forged, Standard and Ramshorn Hooks, Crane Grabs and Clamps, Grab Buckets, Electromagnetic Design consideration for conveyor belts, Application of attachments. UNIT – V Study of systems and Equipment used for Material Storage  objectives of storage, Bulk material handling, Gravity flow of solid through slides and chutes, Storage in bins and hoppers, Belt conveyors, Bucket-elevators, Screw Conveyors, cabin vibratory  Mobile racks etc. Text Books: 1. Material Handling Equipments - N. Rudenko  - Peace Publishers, Moscow. 2. Material handling System Design - James M. Apple, John-Wiley Publication, New York. Reference Books: 1. Materials Handling Principals and Practice  - Allegri T H -  CBS Publication, New Delhi 2. Material Handling - John R. Immer - McGraw Hill Co. Ltd., New York. 3. Material Handling in Machine shops - Machinery Publication Co. Ltd., London. 4. Material Handling Equipment - M. P. Nexandrn - MIR Publication, Moscow. 5. Bulk Solid Handling - C. R. Cock and J. Mason - Leonard Hill Publication Co. Ltd. U.S.A. 6. Material Handling Hand Book - Kulwiac R. A -  John Willy Publication, New York.  Course outcomes • The students will be able to identify material handling equipment requirements for a specific process and for various locations and working conditions  • The students will be able to understand the benefit of an efficient material handling system  • The students will be able to recognize the importance of material storage equipments.
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai  Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                      Semester: VIII Subject: Safety Engineering                                                               Code:  300859(37) Total Theory Periods: 4 0                                                                    Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                    Assignments: Two (Minimum) ESE Duration: Three Hours                                Maximum Marks: 80 Minimum Marks: 28 Course Objectives:  • To Know safety philosophy and principles of accident prevention • To know the safety rules, regulations, standards and codes  • To achieve an understanding of principles of safety management.  • To learn about various functions and activities of safety department.   • To study various mechanical machines and their safety importance. UNIT – I Safety philosophy and principles of accident prevention Introduction, accident, injury, unsafe act, unsafe condition, reportable accidents, need for safety, break down of accidents, hazardous industries. Theories & principle of accidents casualty, cost of accident, computation of cost, utility of cost data. Accident reporting & Investigation, Identification of the key facts, corrective actions, classification of facts.  Regulation- American (OSHA) and Indian Regulation. UNIT – II Safety Management Division of responsibility, location of Safety function, size of safety department, qualification, for safety specialist, safety committee – structure and functions. UNIT – III Safe working condition and their development  Standard Operating Procedure (SOP) for various mechanical equipments, incidental safety devices and methods, statutory of provisions related to safeguarding of Machinery and working condition. UNIT – IV Safety in Operation and Maintenance Operational activities and hazards, starting and shut down procedures, safe operation of  pumps, compressor, heaters, reactors, work permit system, entry into continued spaces. UNIT – V Safety in Storage and Emergency Planning Safety in storage, handling of chemicals and gases, storage layout, ventilation, safety in chemical laboratories, emergency preparedness on site plan, off site plan, toxic hazard control. TEXT BOOKS 1. Safety Management : Strategy And Practice -  Pybus R - Butterworth Heinmann, Oxford 2. Safety and Accident Prevention in Chemical Operation – H.H. Faweett and Wood REFERENCE BOOKS 1. Industrial Safety Management- Trafdar N K, Tarafdar K J – Dhapat Rai, New Delhi 2. Safety Management In Industry- Krishna, N V- Jaico Publication House; New Delhi 3. Industrial Safety And Pollution Control Hand Book - Nagraj, J N & Rameshchandar, R V  - Associate Publisher, Securndabad 4. Fire and Safety Manual Refineries and Petrochemical Panel - National Safety Counsil, Bombay 5. Safety in Use of Compressed Gas Cylinders - National Safety Counsil, Bombay 6. Encyclopaedia of Occupational Health and Safety -  Stallman I M, Mccann M, Warshaw L, Brabant C - International Labour Office,Geneva 7. Industrial Safety Environmental Pollution Health Hazard And Nuclear Accidents -  A Chand  - Mittal Publication, New Delhi 8. Personal Protective Equipment – National Safety Counsil, Bombay 9. Accident Prevention Manual for Business and Industrial Administration and Programs - Krieger, G R Montgomerji - National Safety Council, Ittenois. 10. Major Hazard Control A Practical Manual – ILO - National Safety Counsil, Bombay Course Outcomes: • Ability to understand the functions and activities of safety engineering department.  • Apply knowledge of safety engineering specialization for hazard identification, risk assessment and control of occupational hazards.  • Communicate effectively on health and safety matters among the employees and with society at large.
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai  Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                      Semester: VIII Subject: Value Engineering                                                               Code: 300805(37) Total Theory Periods: 4 0                                                                    Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                     Assignments: Two (Minimum) ESE Duration: Three Hours                                 Maximum Marks: 80 Minimum Marks: 28 Course Objectives: • The objective of this course is to introduce students with the methodology of Value Engineering and its decision-making process. • To familiarize students with procedures that provides standards for Value Engineering applications.  • To teach value engineering in a practical, project-based manner.  • During the course student will be engaged in decision-making using Value Engineering tools to ensure quality and value while reducing the cost of projects.  • Student will know about a number of case study applications of the Value Engineering to gain practical experience.  UNIT – I : Basic Concepts Meaning of the term value, basic kind, reasons for poor value, value addition, origin and history. Benefits, relevance in Indian scenario. UNIT – II : Techniques Different techniques, organizing value engineering study, value engineering and quality. UNIT – III : Job Plan Different phases, General phase, Information phase, Functional Phase, Creation Phase, Evaluation Phase, Investigation Phase, Implementation Phase, Audit. UNIT – IV : Selection of evaluation of VE Projects Project selection, method selection, value standard, application of methodology. UNIT – V : Value Engineering Program VE operations in maintenance and repair activities, VE Cost, life cycle, cost model, training for VE, general value engineering, case studies. TEXT BOOKS 1. Value Engineering a How to Manul– S.S. Iyer – New Age International Publishers, New Delhi 2. Industrial Engineering & Management – O.P. Khanna – Dhanpat Rai & Sons REFERENCES 1. Techniques of Value Analysis and Engineering – L.D. Miles – McGraw Hill, New York 2. Value Engineering: A Systematic Approach – A.E. Mudge – McGraw Hill, New York 3. Getting More at Less Cost: The Value Engineering Way - Jagannathan G -  TMH,New Delhi 4. Value Engineering a Practical Approach for Owners Designers & Constructions – Zimmerman LW & Gilen HD – CBS, New Delhi. 5. Compendium on Value Engineering – H.G. Tufty – Indo-American Society. Course Outcome: • Understand the basics of Value Engineering (VE) to ensure that a standardized method is used for VE applications to projects  • Learn to perform function analysis for projects  • Understand the appropriate time to apply VE for projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                      Semester: VIII Subject: Managing Innovation & Entrepreneurship                      Code: 300811(37) Total Theory Periods: 40                                                                  Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                  Assignments: Two (Minimum) ESE Duration: Three Hours                              Maximum Marks: 80 Minimum Marks: 28
+
+Course Objective
+
+1. The course will provide a thorough coverage of conceptual framework on Entrepreneurship development. 2. Enhances student’s innovation skill. 3. Helps to provide a quick understanding of essential concepts and issues. 4. Enhance the students to have an understanding about international entrepreneurship. 5. Understand the problems and prospects related to setting up of any type of business.
+
+UNIT – I Introduction to Entrepreneurship  Evolution of entrepreneurship from economic theory Managerial and entrepreneurial growth and development.
+
+UNIT – II Creativity and Innovation  Creativity and Innovation: Concepts shifting composition of the Economy purposeful innovation and the seven sources of innovative opportunity the innovation process. Innovative strategies: Strategies that aim at introducing an innovation. Innovation and entrepreneurship: Can they together? Planning – innovation and entrepreneurship.
+
+UNIT – III Entrepreneurial Motivation  Need for continuous learning & relearning Acquiring technological Innovation Entrepreneurial motivation (nAch story) Achievement Motivation in Real life. Case Study.
+
+UNIT – IV International Entrepreneurship  Concepts and nature of international entrepreneurship. The changing international environment. Ethics and international entrepreneurship. Strategic issues in international entrepreneurship.
+
+UNIT – V Problem identification and problem solving  Problem identification. Problem solving. Innovation and diversification.
+
+TEXT BOOK 1. Managing innovation and entrepreneurship in technology based firm-Martin M J-John Willey 2. Managing technology innovation- Ettlite I E - John Willey & Sons. REFERENCE BOOKS 1. discipline of innovation - Drucker P F -The Harvard business school press , May-June1985. 2. The innovator’s solution: Creating and sustaining successful growth - Christensen, C. M. and Raynor, M.E. (2003) -  Boston, M. A.: Harvard Business School Press. 3. Innovation(Collection of articles) - Drucker, P. F. (1985) - Harvard Business School Press(2001). 4. Harvard Business Review on entrepreneurship(Collection of articles) -  Harvard Business School Press  5) Diffusion of innovations, 5th edition - Rogers, E. M. (2003) - New York: Simon and Schuster. Course Outcomes Work effectively with engineering and science teams
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                              Semester: VIII Subject: Robotics Lab                                                                 Code: 337861(37) Total Lab Periods: 24                                                                   Batch Size: 30 Maximum Marks: 40                                                                   Minimum Marks: 20
+
+List of Experiments: 1. Demonstration of Cartesian/ cylindrical/ spherical robot. 2. Demonstration of Articulated/ SCARA robot. 3. Virtual modeling for kinematics and dynamic verification any one robotic structure using suitable software. 4. Design, modeling and analysis of two different types of grippers. 5. Study of sensor integration. 6. Two program for linear and non-linear path. 7. Study of robotic system design. 8. Programming for forward kinematics problems. 9. Dynamic analysis of manipulators using software. 10. Study and demonstration of actuators and vision system. 11. Study of various robotic applications. 12. Setting robot for any one industrial application after industrial visit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                              Semester: VIII Subject: Finite Element Methods Lab                                       Code: 337862(37) Total Lab Periods: 2 4                                                                   Batch Size: 30 Maximum Marks: 40                                                                     Minimum Marks: 20
+
+
+Minimum eight assignments are to be completed on following area using appropriate Software.
+
+1. Structural Analysis 2. Thermal Analysis 3. Fluid Flow Analysis 4. Coupled Field Analysis 5. Modal Analysis
+
+Minimum four problems shall be solved with Manual calculations in any of area specified above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                 Semester: VIII Subject: Industrial Engineering & Management Lab               Code: 337863(37) Total Lab Periods: 24                                                                    Batch Size: 30 Maximum Marks: 40                                                                    Minimum Marks: 20
+
+
+EXPERIMENTS TO BE PERFORMED (MINIMUM TEN EXPERIMENTS)
+
+1. To prepare the charts & diagrams for a selected problem according to the existing method and an improved method -men type flow process chart. 2. To prepare the charts & diagrams for a selected problem according to the existing method and an improved method -material type flow process chart  3. To prepare the charts & diagrams for a selected problem according to the existing method and an improved method -machine type flow process chart  4. To prepare the charts & diagrams for a selected problem according to the existing method and an improved method – multiple activity chart.  5. Study of principles of fundamentals of hand motion. 6. Study & applications of principles of motion economy. 7. Performance of micro motion study of a job. 8. Problems in assignment of men & machines. 9. Training for a performance rating using walking exercises / audio visual aids. 10. Calculation of allowance for a job. 11. Standard time calculation problems. 12. Problems of wage incentive. 13. Case study of an industrial/service organization using a method study techniques. 14. Stop watch time study of a job.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Name of program: Bachelor of Engineering Branch: Common to all branches                                              Semester: VIII Subject: Report Writing & Seminar                                          Code: 337865(37) Total Lab Periods: 24                                                                    Batch Size: 30 Maximum Marks: 40                                                                     Minimum Marks: 24
+
+Unit -I Introduction to Technical Writing How differs from other types of written communication Purpose of technical writing, Correspondence: prewriting, writing and rewriting Objectives of Technical Writing. Audience Recognition: High-tech audience, Low tech audience, Lay audience, Multiple Audience.
+
+Unit - II Correspondence Memos, Letters, E-mails, Its differentiation, types of letters, Document  Design, its importance, Electronic Communication: Internet, Intranet, extranet, Writing effective e-mail.
+
+Unit - III Summary Report Strategies, Effective style of technical report writing: Structures: content, introduction, conclusions, references, etc., Presentation, Writing first draft, revising first draft, diagrams, graphs, tables, etc. report lay-out.
+
+Unit -IV Report Writing Criteria for report writing, Types of Report: Trip report, Progress report, lab report, Feasibility report, project report, incident report, etc. Case studies.
+
+Unit -V Proposals & Presentation Title page, Cover letter, Table of Content, list of illustrations, summary, discussion, conclusion, references, glossary, appendix, Case Studies. Oral Presentation/ Seminar:
+
+Text Books: 1. Technical Writing – Process & Product - Sharon J.Gerson & Steven M. Gerson - Pearson. 2. Business Correspondence & Report Writing – Sharma R C & Krishnamohan – TMH Reference Books: 1. Communication Skills for Engineers - Sunita Mishra - Pearson Education 2. Communication for engineering students - Longman 3. Effective Technical Communication – Eisenbergm- McGraw Hill. 4. Technical Writing & Professional Communication for Non Native Speakers of English – Huckin T N & Olsen  L A – Mcgraw Hill 5. Academic Writing: A Guide For Management Students And Researchers - Monippally M M and Pawar B S – Response Books,New Delhi.

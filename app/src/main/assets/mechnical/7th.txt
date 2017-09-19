@@ -1,0 +1,305 @@
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                       Semester: VII Subject: Automomile Engineeing                                       Code: 337731(37) Total Theory Periods: 40                                                Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                      Assignments: Two (Minimum) ESE Duration: Three Hours                 Maximum Marks: 80        Minimum Marks: 28
+
+Course Objectives
+
+• Understand the basic structure of an automobile • Understand construction of suspension system • Understand transmission system and its elements • Understand braking system, steering system and electrical system UNIT-I Vehicle structure :Type of automotive vehicles, general layout, vehicle construction-chassis, frame and body, types of frames, frameless and unitary construction, position of power unit. Suspension system :Objects & principles of suspension, system, types, rigid axle suspension & Independent suspension for front & rear ends, simple & double arm parallel & perpendicular type of suspension system. Gas filled suspension system. Springs - Purpose, types viz. leaf, coiled, rubber, air, suspension system, torsion bar, stabilizer, telescopic damper. UNIT – II Clutches :Characteristics, functions, principles of operation of clutch, friction clutch, single-plate, multi-plate, centrifugal clutch, positive clutch, friction plate clutch lining materials. Torque transmitted and related problems. Fluid flywheel :Construction, working principles & characteristics. UNIT – III Gear Box - Object of Gear Box, air, rolling & gradient resistance, tractive effort variation with speed, performance curve. Types of Gear Boxes - Sliding mesh, constant mesh, synchromesh device, automatic transmission, overdrive,lubrication of gear box. Torque Converter -  Principles of working, characteristics, Torque converter with direct drive. Testing of Automobiles UNIT – IV Universal Joint - Types, propeller shaft, slip joint. Differential – Functions, single & double reduction differential, limited slip differential. Front Axle - Live & dead axle, stub axle. Back Axle – Hotchkiss drive, torque tube drive. Tyres - Types specification, causes of tyre wear & rim. Brakes & Braking system - Purpose, principles, layout of braking system. Classification, mechanical, hydraulic, master cylinder, Tandem master cylinder, wheel cylinder, self energizing & self adjusting brakes, disc brakes, antiskid brakes, power operated brakes. UNIT – V Steering system:- Gear & links, types of steering gears, reversibility of steering, center point steering, steering geometry viz. castor, camber, king pin inclination toe in, toe out, cornering power, under-over steer; power steering, effect of shimmy, condition of true rolling, calculation of turning radius. Correct steering equation and related problems. Electrical System: Battery: construction, maintenance, testing and charging. Cut-out, lighting circuit, horn, signals etc. TEXT BOOKS 1. Automobile Engineering – Kripal Singh – Standard Publications,New Delhi 2. Automobile Mechanics -  N. K. Giri – Khanna Publishers,New Delhi REFERENCE BOOKS 1. Automobile Engineering – G.B.S. Narang – Khanna Publishers,New Delhi 2. Automotive Mechanics: Principles and Practices- W.H.Crouse, and D.L. Anglin, TMH  3. Automobile Engineering – K. R. Govindan – Anuradha Agencies 4. The Automobile-Harbans, Reyat Singh- S.Chand , New Delhi 5. Automotive Mechanics – Joseph Heitner-CBS Pub., New Delhi 6. Motor Vehicle – Newton & Steeds – Life & Sons Limited. Course Objectives  • Graduates will gain a strong foundation in core automobile engineering, both in theoretical and applied concepts. • Acquire knowledge and hands-on competence in the design and development of automobile. • Graduates will demonstrate the ability to identify and solve automobile engineering maintenance problems.
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                     Semester: VII Subject: Refrigeration And Air Conditioning                Code:  337732(37) Total Theory Periods: 40                                                    Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                           Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80  Minimum Marks: 28 Course Objectives    • Analyze vapour compression cycles  • Analyze alternative systems such as gas cycle refrigeration and vapour absorption etc.  • Understand psychrometry and psychrometric processes  • Select/ design equipment for refrigeration and air-conditioning systems. • Carry out air conditioning calculations   UNIT – I Introduction :Refrigeration and second law of Thermodynamics, Refrigeration effect and unit of Refrigeration, Heat pump, reversed Carnot cycle. Vapour Compression Refrigeration System, Analysis of simple vapour compression Refrigeration cycle by p-h and T-S diagram.  Effect of operating conditions, liquid vapour heat exchangers, actual refrigeration cycle. Introduction to Multiple Evaporator and compound compression systems. UNIT – II Gas cycle Refrigeration : Limitation of Carnot cycle with gas, reversed Brayton cycle, Brayton cycle with regenerative H.E. Air cycle for aircraft. Necessity of cooling of aircraft, Basic cycle, boot strap, regenerative type air craft refrigeration cycle. UNIT – III Vapour Absorption System :Simple vapour absorption system, Electrolux Refrigerator, Analysis of Ammonia absorption refrigeration system, Lithium Bromide Absorption Refrigeration System.  Refrigerants : Classification, Nomenclature, selection of Refrigerants, global warming potential of CFC Refrigerants. Refrigeration Equipments :Compressor, condenser, evaporator, expansion devices – types & working. UNIT – IV Psychrometry  :Psychrometric properties, psychometric relations, pyschrormetric charts, psychrometric processes,cooling coils, By-pass factor and air washers. Human Comfort Mechanism of body heat losses, factors affecting human comfort, effective temperature, comfort chart. UNIT – V Cooling load calculations :Internal heat gain, system heat gain, RSHF, ERSHF, GSHF, cooling load estimation, heating load estimation, psychrometric calculation for cooling, selection of air conditioning, apparatus for cooling and dehumidification,  Air conditioning system :Central, split and window air conditioning system. TEXT BOOKS 1. Refrigeration and Air Conditioning –C. P. Arora – TMH,Delhi 2. Refrigeration and Air Conditioning – Manohar Prasad – New Age - Delhi REFERENCE BOOKS
+
+1. Refrigeration and Air Conditioning – Arora & Domkundwar – Dhanpat Rai, Delhi 2. Refrigeration & Air Conditioning-R.K.Rajput-S.K. Kataria, Delhi 3. Refrigeration and Air Conditioning – P.L. Ballaney – Khanna Pub.,Delhi 4. Refrigeration & Air Conditioning – Ahmadul Ameen  - PHI, Delhi 5. Refrigeration and Air Conditioning- Stocker & Jones, McGraw Hill, Delhi 6. Basic Refrigeration and Air-Conditioning- P.N.Ananthanarayanan, TMH, Delhi 7. Principles of Refrigeration-Roy J.Dossat , -Pearson,Delhi 8. Refrigeration and Air Conditioning –R.C.Arora -PHI, Delhi Course Outcomes • Apply knowledge of Refrigeration and Air-Conditioning for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts in analysis and design of refrigeration and air-conditioning systems. • Demonstrate creativeness in designing new systems, components and processes in the field of engineering in general and mechanical engineering in particular. • Identify, analyse, and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.) Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                     Semester: VII Subject: Computer Aided Design and Manufacturing                   Code: 337733(37) Total Theory Periods: 40                                                                    Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                          Assignments: Two (Minimum) ESE Duration: Three Hours                                      Maximum Marks: 80                                                                                                           Minimum Marks: 28 Course Objective: • To introduce the student to be familiar with CAD/CAM terminology & its capabilities. • To become familiar with CAD/CAM software, Graphical user interface & basic tools. • To recognize geometric and graphical elements of engineering design problems • To apply a “hands-on” understanding of the basic concepts of computer-aided manufacturing and prototyping through group and individual projects • To study Basic features of CAM so as to be capable of accepting professional responsibilities and to understand the associativity between design and manufacturing. • Integrate the CAD system and the CAM system by using the CAD system for modeling design information and converting the CAD model into a CAM model for modeling the manufacturing information. UNIT-I Introduction: Introduction of CAD/CAM, Definition of CAD & CAM tools, the influence of computers on manufacturing environment, Benefits of CAD/CAM. The product cycle, product engineering, concurrent engineering. Window and View port: Window definitions, View port definitions, Window and View port relationship; World co-ordinates; Normalized device co-ordinates and Homogenous co-ordinates. UNIT – II Geometric Modeling: Requirement of Geometric Modeling, Geometric models, Geometric construction Methods, other modeling methods, 2D & 3D Transformations, Perspective and Parallel Projection, Viewing transformation. Geometric Modeling of Curves: Parametric and Non parametric, Explicit and Implicit, Representation of curves. Analytical Curve: Line, Circle, Conics. Synthetic curve: Hermite Cubic Splines, Bezier Curves, B-Spline Curves.  C0, C1 & C2 Continuity, Convex hull.  UNIT –III Representation of Surface: Parametric Representation of surfaces, Equation of surface, Tangent vector, Normal vector, Twist vector, parametric patches and surfaces, Analytical surfaces: Ruled surface, surface of revolution, Tabulated cylinder. Synthetic surface: Hermit bi-cubic surface, Bezier bi-cubic surface, B spline bicubic surface, Coon’s surface. Solid Modeling: Solid modeling techniques, Geometric and Topology, Valid solid, Types of solid modeling, Algorithms, Basic set theory, Solid Representation Schemes. CSG representation, 3D base primitives, Unary Operation, Boolean Operation, Sweeping Operation and CSG tree. UNIT – IV Numerical Control Introduction to Numerical Control, Basic components of an NC system, the NC procedure, NC coordinate systems, NC motion control systems, applications of Numerical Control, Introduction to Computer Control in NC, problems with conventional NC, Computer Numerical Control, Direct Numerical Control, Combined DNC/CNC system, Adaptive control machining system, NC Part Programming Introduction to NC Part Programming, Manual part programming, Computer assisted part programming, the APT (Automatically Programming Tool) language, MACRO statement in APT, Advantages of CAD/CAM in NC programming. UNIT –V Group Technology Introduction to group technology, part families, parts classification & coding, three parts classification & coding system, group technology machine cells, benefits and Limitation of group technology Computer integrated manufacturing (CIM) system Introduction of CAPP, Flexible Manufacturing System, Benefits. Text Books: 1. CAD/CAM Theory and Practice- Zeid, Ibrahim & Sivasubramanian,TMH, Delhi 2. CAM/CAD principle & Applications-P.N.Rao- TMH, New Delhi  Reference Books: 1. CAD/CAM-Milkell P. Groover, Emory W. Zimmer-Pearson Education, Delhi 2. Computer Aided Design & Manuacturing – Lalitnarayan – PHI,Delhi 3. Introduction to Computer Graphics- N. Krishnamoorty, TMH, Delhi  4. Computer Numeric Control-T.Jeyapoovan, Robert Quesada-Pearson Education 5. CAD/CAM – Surendra Kumar & A.K. Jha – Dhanpat Rai , New Delhi  Course Outcome: • Understand the various CAD/CAM and CNC processes. • Generate and verify the tool path and NC programs for milling and drilling manufacturing processes. • Recognize various types of Curves, surface and Solid and their application as used in geometric modeling. • Appreciate the concept of parametric modeling which is the mainstay of most of the 3D modeling system. • Write and prove sample part programs for CNC machining centres in planar milling operations using the word address format. • Understand the needs of master production schedule and methods to develop it. • Plan and execute the production activity control, which actually deals with operations in the shop floor.  • Skillfully use modern engineering tools and techniques for mechanical engineering design, analysis and application.
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                        Semester: VII Subject: Machine Tool Technology                                                     Code: 337734(37) Total Theory Periods: 40                                                      Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                          Assignments: Two (Minimum) ESE Duration: Three Hours                                                  Maximum Marks: 80    Minimum Marks: 28 Course objectives: • To impart knowledge about cutting tool geometry, tool material, mechanics of metal cutting, machinability and importance of cutting fluid.  • To understand the kinematics drive of machine tool. • To design speed gear box and feed gear box • To understand the procedure of  acceptance test of machine tool
+
+UNIT - I Cutting Tool – Types, requirements, specification & application Geometry of Single Point Cutting Tool - tool angle, Tool angle specification system, ASA, ORS and NRS and inter-relationship. Mechanics of Metal Cutting Theories of metal cutting, chip formation, types of chips, chip breakers, Orthogonal and Oblique cutting, stress and strain in the chip, velocity relations, power and energy requirement in metal cutting.
+
+UNIT - II  Machinability :Concept and evaluation of Machinability, Mechanism of Tool failure, Tool wear mechanism, Tool life, Tool life equation, Machinability index, factors affecting machinability. Thermal Aspects in Machining and Cutting Fluid Source of heat in metal cutting and its distributions, temp measurement in metal cutting, function of cutting fluid, types of cutting fluid.
+
+UNIT – III Design of Machine Tool Elements :Design of Lathe bed - Material and construction feature, various bed section, analysis of force under headstock, tail stock and saddle, torque analysis of lathe bed, bending of lathe bed, designing for torsional rigidity, use of reinforcing stiffener in lathe bed. Design of Guide ways, Material and construction features, over turning diagram, Antifriction guide ways.
+
+UNIT – IV Design of Speed Gear Box :Drives in Machine Tool, classification, selecting maximum and minimum cutting speeds, speed loss, kinematic advantage of Geometric progression, kinematic diagrams, design of Gear Box of  6,9,12 and 18 speed.
+
+UNIT – V Design of Feed Gear Box :Elements of feed gear box, classification-Norton drive, draw key drive, Meander’s drive, Design of feed gear box for longitudinal and cross feed and for thread cutting. Acceptance Test of Machine tool :Testing, Geometrical checks, measuring equipment for testing, acceptance test for Lathe and Radial drilling machines.
+
+
+TEXT BOOKS  1. Machine Tool Engineering – G.R. Nagpal – Khanna Publishers, New Delhi  2. Fundamentals of Metal Cutting & Machine Tool – B.L. Juneja, G.S. Sekhan, Nitin Sethi – New Age Publishers – New Delhi
+
+REFERENCE BOOKS  1. Production Engineering – P. C. Sharma – S. Chand & Company – New Delhi  2. Production Technology – R.K. Jain – Khanna Publisher – New Delhi  3. Principle of Metal Cutting -Sen, Bhattacharya – New Central Book Agency, Calcutta 4. Machine Tool Practices – Kibbe Richard R – PHI, New Delhi  5. Manuacturing Technology Vol.-II – P. N. Rao -   TMH  Delhi 6. Manufacturing Engineering & Technolgy – Serope Kalpakjian- Pearson, Delhi
+
+Course Outcomes:
+
+1. Graduates will gain a strong foundation in machine tool engineering 2. Acquire knowledge and hands-on competence in design and development of machine tool. 3. Develop an ability to identify, analyze and solve technical problems related to machine tools.
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                        Semester: VII Subject: Quality Control & Total Quality Management                   Code: 337741(37) Total Theory Periods: 40                                                                       Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                     Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives • Define and understand various terms associated with quality control • Enhance the students understanding of the complexity of statistical analysis and interpretation. • Provide an introduction to the fundamental concept of SPC, total quality management, six sigma, quality function deployment and applications of these concepts. • Understanding the philosophies of TQM in order to better evaluate the TQM implementation proposals. • Assess exactly where an organization stands on quality management with respect to ISO 9000 quality management.
+
+UNIT-I Basic Concept of Quality Quality and quality control, concept of quality, quality characteristics, Quality of design and quality of conformance ,History of quality control, Quality policy and objectives, Economics of quality. Statistical Concept of Variation Concept of variation frequency distribution, continuous and discrete, probability distributions viz. Normal, Exponential and Weibull distribution, pattern of variation, significance tests, Analysis of variance, statistical aids in  limits and tolerances.
+
+UNIT-II Quality Assurance Concept, advantages, field complaints, quality rating, quality audit, inspection planning, quality mindness, quality budget, vendor quality rating (VQR), vendor rating (VR), manufacturing planning for quality, Quality function deployment (QFD). Statistical Quality Control Objectives, Growth and applications of S.Q.C., S.O.C, Techniques in manufacturing planning. Process capability analysis, Control charts for variables and attributes and their analysis, process capability, concept of six sigma.
+
+UNIT III  ACCEPTANCE SAMPLING Fundamental concept in acceptance sampling, operating characteristics curve. Acceptance plans, single, double and introduction of multiple plans.
+
+ UNIT -IV Total Quality Management Total Quality Control (TQC), Concept of Total Quality Management (TQM), TQM philosophies, Deming approach to TQM, Juran ten steps to Quality Management, Taguchi Philosophy, Crosby fourteen steps, TQM models, Tools and techniques of TQM,
+
+UNIT V  Quality system Quality system, need for quality system, ISO 9000 Quality Managmeent Standards, ISO 9000:2000 requirement, Quality Auditing, ISO 14000, Benefits of ISO 14000.
+
+TEXT BOOKS 1. Quality Planning and Analysis - Juran & Gryana – McGraw Hill, New York 2. Statistical Quality Control – R.C. Gupta – Khanna Publishers, Delhi   REFERENCE BOOKS  1. Statistical quality control – Grant and Leavenworth – McGraw Hill, New York 2. Engineering Statistics and Quality Control – I. W. Burr- McGraw Hill, New York 3. Managing for Total Quality - Logothetis – PHI Delhi 4. Statistical Quality Control – M. Mahajan – Dhanpat Rai – New Delhi 5. Total Quality Management – Suganthi & Samuel - PHI, Delhi 6. Total Quality Management - Charantimath, Poornima – Pearson, Delhi 7. Total Quality Management – K.C. Arora -  S.K. Kataria- New Delhi
+
+Course Outcomes • Explain the importance of quality & role of statistical quality control  • Apply methods and techniques of statistical quality control, to studies and interpret the results in business. • Demonstrate motivation and responsibility to advocate for quality in business • Develop an understanding on quality management philosophies and frameworks • Develop in-depth knowledge on various tools and techniques of quality management
+
+
+
+
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.) Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                               Semester: VII Subject: Energy Management and Audit                                 Code: 337742(37) Total Theory Periods: 40                                                       Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                    Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives: To impart knowledge on Sources of Energy, Energy Utilization and Energy Conversion System, energy balance, energy action planning  to  identify and evaluate opportunities to reduce client operating cost through energy conservation and planning
+
+UNIT – I : Energy Sources Introduction, Sources of energy – conventional and non-conventional, elasticity of demand and application, concepts to energy, Indian energy scene, energy storage, solar energy, water, battery and mechanical storage Systems.
+
+UNIT – II :Energy Utilization and Conversion System Classification of furnaces, controlled atmosphere in furnaces, furnace fuels, efficient use of energy in furnaces, thermal efficiency, reducing heat losses. Combined Power and Heating System Characteristics of prime movers, heat and Power requirements, economics of a CHP System.
+
+UNIT – III : Material and Energy balance Facility as an energy system, methods for preparing process flow, material and energy balance diagrams. Energy Action Planning Key elements, force field analysis, energy policy purpose, perspective, contents, formulation, ratification, organizing –location of energy management, top management support, managerial function, roles and responsibilities of energy manager, accountability, motivation, Information system – design barriers, strategies, marketing and communicating-training and planning.
+
+UNIT – IV : Energy Audit Energy Management information system, thirty nine steps for energy management, types of energy audit, preliminary energy audits, technical assistance in energy audit, energy accounting and analysis, Instruments used in Energy auditing. UNIT – V :Economics and Finance Introduction, economics, discounted cash flow, loans, investments, option identification and analysis, optimization, conflict correction, constructing the optimal target investment schedule, project management, monitoring against the target financial schedule.
+
+TEXT BOOKS 1. Engineering Economics & Engineering Management – R. Raju – Anuradha Agencies. 2. Energy Engineering & Management -  Chakrabarti – PHI, Delhi.
+
+REFERENCE BOOKS 1. Energy Management – W.R. Murphy, G. Mckay – Elesvier, Gudgaon. 2. Energy Management – Paul O’Callaghan – McGraw Hill – New Delhi. 3. Principles of Energy Conversion – Archie W. Culp –– McGraw Hill,Delhi. 4. Energy Management in illuminating System – Kao Chen – CRC Publishers. 5. Industrial Energy Recovery - D.A. Reay – Wiley Publishers. 6. Thermal Energy Recovery – T.L. Boyer – Wiley Publishers. 7. Energy Conservation through Control – E.G. Shinskey – Academic Press. 8. Economics of Solar Energy & Conservation Systems, Vol-I & II – F. Kreith & R.E. West – CRC Press
+
+Course Outcomes:  • Application of concepts of the course leads to achieve and maintain optimum energy  procurement and utilization, throughout the organization  •  Minimize energy costs / waste without affecting production & quality •  Minimize environmental effects.
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                  Semester: VII Subject: Applied Elasticity  and  Plasticity                                                            Code: 337743(37) Total Theory Periods: 40                                                                 Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                    Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80 Minimum Marks: 28
+
+Course Objective • To study the classical theory of linear elasticity for two and three dimensional state of stress and obtain solutions for selected problems. • To understand the plastic stress strain relations, criteria of yielding and elasto- plastic problems.
+
+Unit-I  :Theory of Elasticity Introduction: Definition of stress and strain at a point, components of stress and strain at a point in cartesian and polar co-ordinates, constitutive relations, equilibrium equations, compatibility equations and boundary conditions in 2-D and 3-D cases. Transformation of stress and strain at a point, principal Stresses and principal strains, invariants of stress and strain, hydrostatic and deviatoric stress, spherical and deviatoric strains, maximum shear stress, maximum shear strain.
+
+Unit-II : Plain stress and plain strain  Airy's stress function approach to 2-D problems of elasticity, simple problems of bending of beams, solution of axis-symmetric problems, stress concentration due to the presence of a circular hole in planes.
+
+Unit-III : Elementary problems of elasticity in three dimensions, stretching of a prismatic bar by its own weight, twist of circular shafts, torsion of non-circular sections, membrane analogy, Propagation of waves in solid media. Applications of finite difference equations in elasticity
+
+Unit-IV :Theory of Plasticity: Stress-strain diagram in simple tension, Perfectly elastic, Rigid - Perfectly plastic, Linear work - hardening, Elastic Perfectly plastic, Elastic Linear work hardening materials, Failure theories, yield conditions, stress - space representation of yield criteria through Westergard stress space, Tresca and Von-Mises criteria of yielding.
+
+Unit-V :Plastic stress-strain relations  Saint Venant's Theory of Plastic flow, Elastic plastic Deformations, Prandtl's stress equations, Levy - Mises equation, Reuss theory of elastic - plastic deformation, Hencky's theory of small plastic deformations, Plastic potential, Flow Rule.
+
+TEXT BOOKS: 1. Theory of elasticity – Sadhu Singh – Khanna Publisher, New Delhi  2. Theory of Plasticity – Sadhu Singh - Khanna Publisher, New Delhi
+
+REFERENCE BOOKS 1. Theory of elasticity -Timoshenko and Goodier - McGraw Hill  2. Theory of Plasticity - J. Chakrabarthy - McGraw Hill 3. Plastic Analysis of Structures-P. S. Hodge-John Wiley and Sons. 4. Plastic Methods of Structural Analysis-Neal B. G.-Chapmen and Hall, 1977, III Edition. 5. Plasticity for Mechanical Engineers-W. Johnson and P. B. Mellor-D.Van Nostrand 6. Introduction to the Theory of Plasticity for Engineers-Haffman & Sachs-Mc,Graw Hill. 7. Theory of Inelastic structures-T. H. Lin-John Wiley and sons. 8. Plastic Analysis and Design of Plates, Shells and Discs- Massonnet-North Holland. 9. Plastic Design of Steel Frames-Beedle L. S.-John wiley. 10. Foundations of Solid Mechanics- Y. C. Fung- Prentice-Hall. 11. Continuum Mechanics fundamentals- S. Vallappan-Oxford and IBH. 12. Theory of Plasticity-M. Kachanov-Mir publishers, Moscow.
+
+Course outcomes: • Apply knowledge of applied elasticity and plasticity for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts in the design and development of mechanical systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering in general and mechanical engineering in particular.
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                 Semester: VII Subject: Product Design and Development                                 Code: 337744(37) Total Theory Periods: 40                                                                Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                       Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80 Minimum Marks: 28
+
+COURSE OBJECTIVES • To introduce design concepts and techniques to develop design ability in a product design. • To provide knowledge about estimating and evaluating the feasible manufacturing design. • To make aware of legal issue pertaining to product design. • To provide knowledge of management of product development projects
+
+UNIT-I :Product Development Process  Background for design, design theory, design materials, human factors in design applied ergonomics, product  development processes and organization, identifying customer needs, establishing product specifications, concept  generation and selecting product architecture.
+
+UNIT-II :Product Design Methods Generating concepts, selection of a concept, Testing of concept, product architecture, Creative and rational  clarifying objectives- the objective trees methods, establishing functions – the function analysis methods, setting  requirement- requirements specification methods determining characteristics – the QFD method, generating  alternatives-the morphological chart method, evaluating alternatives-the weighted objectives methods, improving  details-the value engineering method and design strategies.
+
+UNIT –III : Design for Manufacture  Estimating manufacturing costs, reducing component, assembly and support cost design for assembly, design for disassembly, design for environment, design for graphics and packaging, effective prototyping – principle and planning.
+
+
+UNIT –IV :Industrial Design  Its need - Ergonomic needs, Aesthetic needs, impact, accessing the quality, steps involved in Industrial design process, Management of Technology & user driven products.
+
+UNIT – V :Patents, Product Development & Project Management  Legal issues in product design, trademarks, trade-secret, copy rights, patents – types, steps for disclosure, design resources, economics – quantitative & qualitative analysis, management of product development projects, Design Structure Matrix, Gantt Chart, Project schedule, budget, risk plan, accelerating project, execution, assessing and correction, Intellectual property rights.
+
+TEXT BOOKS  1.  Product Design & Development - Karl. T. Ulrich and Steven D. Eppinger – TMH,Delhi. 2.  Product Design – Kevin Otto and Kristin wood - Pearson Education.
+
+REFERENCE BOOKS 1. Product Development - Chitale & Gupta - Tata McGraw Hill.  2. Product Design and Manufacturing – Chitale & Gupta – PHI, Delhi. 3. Product Design: Creativity, Concepts and Usability – Kumar – PHI, Delhi . 4. Concurrent Engineering in Product Design and Development- Imad Moustapha – New Age. 5. Operations Management- Monks, J.G - McGraw Hill. 6. Product Design and Development - Ulrich & Eppinger – TMH Delhi. 7. Facility Layout and Location - Francis, R. L., and White, J. A. -  Prentice Hall of India
+
+  Course Outcomes • The course enhance students understanding of  new product development  processes as well as useful tools, techniques and organizational structures that support new product  development practice. • Understands the legal issue pertaining to patent of product design. • Understand professional, ethical and social responsibilities resulting in a commitment to quality, timeliness, and continuous improvement.
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                   Semester: VII Subject: Numerical Control of Machine Tools                              Code: 337745(37) Total Theory Periods: 40                                                                   Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                          Assignments: Two (Minimum) ESE Duration: Three Hours                         Maximum Marks: 80   Minimum Marks: 28
+
+Course Objectives  • Understand the emergence and development of numerical control machine, characteristics and application areas. • Master basic knowledge of transmission of machine, numerical control machine tool working principle and composition. • Master CNC machinery structure and NC machining system technology and equipment. • Understand all kinds of typical numerically-controlled machine tool, in order to adapt to the needs of the development of the modern industry.
+
+UNIT - I : Introduction Fundamentals of numerical control, advantages limitations of N.C systems -classification of N.C systems. Computer Numerical Control Nomenclature, types and features of CNC machine tools, machine control unit, position control and its significance, engineering analysis of NC positioning systems, open loop and closed loop systems, precision in NC positioning systems-control resolution, accuracy and repeatability. Actuators: servomotors, stepper motors, transducers and feedback elements.
+
+UNIT - II :Features of N.C. Machine tools Design consideration of N.C machine tools - increasing productivity with N.C machines, tooling for CNC machine. System Device Feed back system-counting devices digital analog converters Interpolations DDA integrators, simple and symmetrical DD reference word CNC interpolators.
+
+UNIT - III : Part Programming Process planning and flow chart for part programming, systems nomenclature and tool geometries, Tool presetting & modular tooling. Selection of tools based on machining capacity, accuracy and surface finish, elements of programming for turning and milling, part programming. Preparatory codes G, miscellaneous functions M, Interpolation, tool compensations, cycles for simplifying programming, typical part programming Control Loops for N C Systems Introduction-control loops for point and counting systems.
+
+UNIT - IV :Computerized Numerical Control CNC concepts-advantage of CNC reference planes, sampled data techniques, microcomputers in CNC. Adaptive Control Systems Adaptive control with optimization and constraints-variable gains AC systems.
+
+UNIT - V : Modern CNC machines CNC lathes, turning centers, machining centres, automatic pallet changers, automatic tool changers, direct numerical control and applications, CNC machine design features.
+
+TEXT BOOKS 1. Numerical control of machine tool – Koren & Ben Uri – Khanna Publisher,Delhi 2. Automation, Production Systems and Computer Integrated Manufacturing - Groover – PHI.
+
+REFERENCE BOOKS 1. CNC Programming - S.K. Sinha - Galgotia  2. Mechatronics - HMT –TMH,Delhi 3. Numerical Control and Computer Aided Manufacturing -Tewari, Rao, Kundra- TMH, Delhi 4. Machine Tool Design and Numerical Control – N.K.Mehta – TMH Delhi 5. Fundamentals of Computer Numerical Control – NIIT – Prentice Hall, Delhi
+
+
+Course Outcomes: • Acquire knowledge and hands-on competence in applying the concepts in the design and development of machine tool. • Demonstrate creativeness in designing efficient processes in the field metal cutting.
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                 Semester: VII Subject: Thermal System Design                                                  Code: 337746(37) Total Theory Periods: 40                                                                 Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                         Assignments: Two (Minimum) ESE Duration: Three Hours                                  Maximum Marks: 80 Minimum Marks: 28
+
+Course Objectives • To enable  the students to understand the concepts of  thermal system design • To provide knowledge about economics of thermal system • Be familiar with modeling, simulation optimization techniques of thermal systems
+
+UNIT-I   Introduction to Thermal System Design - Thermal system design, concept and major applications, categories of thermal system design.  Designing A Workable Thermal System - Introduction, Workable vs. Optimum system, various design basis, design of a food freezing plant and several other examples.
+
+UNIT–II   Economics of Thermal Systems - Introduction, Major and minor costs, Interest, present and future worth, economic evaluation of thermal system design, Life cycle costing (LCC)method of economic evaluation, Effect of inflation, Present worth of yearly installment taking inflation into account, Preliminary cost estimation, equipment cost estimating parameter, effect of time factor on costs, energy costs, Taxes, Depreciation.   UNIT– III   Modeling of Thermal Systems - Introduction, curve fitting  or equation fitting for one, two and polynomial independent variable, Example of curve fitting for thermal systems, Best fit equation, least square method with example, Some example of mathematical modeling of thermal systems.
+
+UNIT-IV   Thermal System Simulation - Introduction, classes of systems, information flow diagrams, Sequential and simultaneous calculations, Formulation of information flow diagram of thermal systems some example like water pumping systems, waste heat utilization systems. Methods of Simultaneous Calculations- Successive substitution method and Newton-Raphson method, Newton-Raphson method for multiple functions, Simulation of Gas turbine system.
+
+UNIT – V    Optimization of Thermal Systems - Introduction, Mathematical representation of optimization problem with example of water chilling system, Lagrange multipliers, Heat exchanger optimization with Lagrange multipliers
+
+TEXT BOOKS:  1. Design of Thermal Systems - Stoecker W.F. - McGraw Hill  2. Advanced Thermodynamic for Engineers - Wark K. - John Wiley
+
+REFERENCE BOOKS:  1. Advanced Engineering Thermodynamics - Bejan A. - John Wiley  2. Advanced Engineering Thermodynamics - Annamalai K. & Puri - CRC Press 3. Thermal Design & Optimization - Bejan A., Tsatsarones G. & Moran M - John Wiley 4. Fundamentals of Engineering Thermodynamics - Moran M.J. & Shapiro H.N - John Wiley
+
+Course Outcomes • Demonstrate a basic understanding of concepts of thermal system design.  • Acquire knowledge and hands-on competence in the design and development of thermal systems that meet specific energy demands, are economically feasible and have a minimal impact on the environment.
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                   Semester: VII Subject: Cyber Security /Information security                             Code:  337747(37) Total Theory Periods: 40                                                 Total Tutorial Periods: 10 Class Tests: Two (Minimum)                                                        Assignments: Two (Minimum) ESE Duration: Three Hours                                    Maximum Marks: 80                                  Minimum Marks: 28
+
+Course  objectives Introduce students to cyber security concepts and techniques and foster their abilities in designing and implementing solutions for real-world problems, As in today’s networked world, most of the organizations and enterprises depend on different kinds of Information Technology solutions, say e-commerce, e-governance, e-learning, e-banking etc. All communications must be secured and under control since the information stored and conveyed is ultimately an invaluable resource of the business.
+
+UNIT-I :Security Policies and Management Security Policy Design, Designing Security Procedures, Risk Assessment Techniques, Security standards. Security Models - Biba Model, Chinese Wall, Bell La Pedula Model, Physical and Environmental Security, Server Room Design, Firefighting equipment, Temperature/humidity  Control etc
+
+UNIT-II :Application Security Databases, Email and Internet etc, Communications and Operations Management: Network Architecture, Network Operations Security Devices (Firewalls, IDS/IPS, Antivirus etc), Routers/Switches.
+
+UNIT-III :Business Continuity Planning and Management - Business Impact Analysis, Business Continuity/Disaster Recovery Plans, Access Control - Logical and physical access Control
+
+UNIT-IV :Software development, maintenance and support  Security in development methodology ,Security testing, Segregation of duties
+
+UNIT-V : Cyber Forensics Introduction to forensic tools, Evaluation of crime scene and evidence collection, Usage of tools for disk imaging and recovery processes. Introduction to Information Security Standards - ISO 27001, PCI DSS .Compliance - IT Act, Copy Right Act, Patents etc
+
+Bibliography:  1. Security Engineering: A Guide to Building Dependable Distributed Systems - Ross J. Anderson - John Wiley, New York, NY, 2001. ISBN: 0471389226.  2.  Computer Security: Art and Science -  Matt Bishop - Addison Wesley, Boston, MA,2003. ISBN: 0-201-440997.  3. Security for Ubiquitous Computing - Frank Stajano -  John Wiley, 2002. ISBN: 0470844930.
+
+Internet Web Sites:  1. Online Textbook Materials www.securityplusolc.com
+Course outcomes:
+
+Acquire knowledge and hands-on competence in applying cyber security solutions to work professionally in the areas of information security.
+
+
+
+
+
+
+
+
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                            Semester: VII Subject: Automobile Engineering Lab                                    Code: 337761(37) Total Lab Periods: 24                                                                 Batch Size: 30 Maximum Marks: 40                                                            Minimum Marks: 20
+
+STUDIES TO BE CARRIED OUT (MINIMUM TEN EXPERIMENTS) 1. Study of frame and chassis. 2. Study of clutches – single plate, multi plate and centrifugal 3. Study of gear boxes – sliding mesh, constant mesh, synchro-mesh. 4. Study of differential, universal joints, axles and slip joints. 5. Study of brakes – mechanical, hydraulic, air brake and disc brake. 6. Study of steering system used with rigid axle suspension and independent suspension   system, power steering 7. Study of different types of springs used in automobiles. 8. Study of rigid axle suspension system. 9. Study of front independent suspension system. 10. Study of independent suspension system. 11. Study of battery, starting and generating system and battery charging system. 12. Study of automotive electrical system. 13. Study of educational car model.
+
+LIST OF EQUIPMENTS/MACHINES REQUIRED 1. Working model of single plate, multi-plate & centrifugal clutch 2. Working model of actual differential system 3. Working model of universal joint, axles & slip joints 4. Working model of mechanical, hydraulic and air brake 5. Working model of steering system used with rigid axle suspension system 6. Working model of steering system used with independent suspension system 7. Different types of springs used in automobiles 8. Working model of rigid axle suspension system 9. Working model of front independent suspension system 10. Working model of rear independent suspension system 11. Working model of battery, staring and generating system along with charging unit 12. Working model of electrical system 13. Cut section of actual master cylinder of hydraulic brake system 14. Educational car model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                              Semester: VI Subject: Refrigeration & Air Conditioning Lab                   Code: 337762(37) Total Lab Periods: 24                                                                  Batch Size: 30 Maximum Marks: 40                                                                   Minimum Marks: 20
+
+EXPERIMENTS TO BE PERFORMED (MINIMUM SEVEN NUMBERS) 1. To study Domestic Refrigerator. 2. To study the Hermetically Sealed Compressor. 3. To study Refrigeration Tutor and to determine the following:- a. Theoretical coefficient of Performance b. Actual Coefficient of Performance. c. Theoretical capacity of the plant d. Actual capacity of the plant. 4. To Study the Mechanical Heat Pump and to determine the following:- a. Theoretical coefficient of Performance b. Actual Coefficient of Performance. c. Theoretical capacity of the plant d. Actual capacity of the plant 5. To study the Air and Water Heat Pump and to determine the following:- a. Theoretical coefficient of Performance of the system as a refrigerator and as a heat pump. b. Actual Coefficient of Performance of the system as a refrigerator and as a heat pump. c. Capacity of the system in tons as a refrigerator. d. Capacity of the system in kW as a heat pump under the following conditions of operation:- i. Water cooled condenser and water-cooled evaporator. ii. Water-cooled condenser and air-cooled evaporator. iii. Air-cooled condenser and air-cooled evaporator. iv. Air-cooled condenser and water-cooled evaporator. 6. To study the following processes on the Air Conditioning Test Rig. a. Sensible Heating b. Sensible Cooling c. Sensible Cooling/cooling dehumidification d. Humidification and cooling 7. To Find the Efficiency of Cooling Tower Test Rig. 8. To Study the Simple Vapor Absorption System. 9. To study the AC Simulator and to determine the following:- a. Sensible Heating b. Sensible Cooling c. COP of R-22 d. Air Washer Efficiency e. Sensible heat load applied f. Latent heat load applied g. RSHF h. ESHF i. Creation of different climatic conditions in AC simulator
+
+LIST OF EQUIPMENTS/MACHINES REQUIRED 1. Domestic Refrigerator 2. Cut Section of Hermitically Sealed Compressor 3. Refrigeration Tutor Test Rig 4. Mechanical Heat Pump Test Rig 5. Air & Water Heat Pump Test Rig 6. Air Conditioning Test Rig 7. Simple Absorption System Test Rig 8. Cooling Tower Test Rig 9. Air Conditioning Simulator Test Rig
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+
+Name of program: Bachelor of Engineering Branch: Mechanical Engineering                                                Semester: VII Subject: Computer aided design and manufacturing Lab                      Code: 337763(37) Total Lab Periods: 2 4                                                                            Batch Size: 30  Maximum Marks: 40                                                                     Minimum Marks: 20
+
+Total TEN Experiments are to be carried out. FIVE Experiments each from CAD and CAM.
+
+A. CAD Experiments 1. Line Drawing or Circle Drawing experiment: Writing and validation of computer program. 2. Geometric Transformation algorithm experiment for translation/rotation/scaling: Writing and validation of computer program. 3. Design of machine component or other system experiment: Writing and validation of computer program. 4. Understanding and use of any 3-D Modeling Software commands. 5. Experiment: Solid modeling of a machine component using Advanced-modeling software. 6. Root findings or curve fitting experiment: Writing and validation of computer program. 7. Numerical differentiation or numerical integration experiment: Writing and validation of computer program.
+
+B. CAM Experiments 1. To study the characteristic features of CNC machine 2. Part Programming (in word address format) experiment for turning operation (including operations such as grooving and threading) and running on CNC machine 3. Part Programming (in word address format or ATP) experiment for drilling operation (point to point) and running on CNC machine 4. Part Programming (in word address format or ATP) experiment for milling operation (contouring) and running on CNC machine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+
+Name of program: Bachelor of Engineering Branch: Common to All Branches                                              Semester: VII Subject: Innovative and Entrepreneurial skills                        Code: 337765(76) Total Lab Periods: 24                                                                    Batch Size: 30 Maximum Marks: 40                                                                     Minimum Marks: 24
+
+Unit I Innovation Innovation- an abstract concept; creativity, innovation and imagination; types of innovation classified according to products, processes or business organizations.
+
+Unit II Entrepreneurship Who is an entrepreneur? Entrepreneurship- A state of Mind, Emergence of entrepreneur; Role of Entrepreneur; A Doer not a Dreamer- Characteristics of an entrepreneur; Factors affecting entrepreneurial growth – Social, cultural, personality factors, psychological and Social Factors. Impact of entrepreneurship for sustainable development.
+
+Unit III Difference between entrepreneur and entrepreneurship Difference between entrepreneur and entrepreneur, Common Entrepreneurial competencies/Traits; Entrepreneurship stimulants, Obstacles inhibiting entrepreneurship; Types of entrepreneurs, Functions of an entrepreneur.
+
+Unit IV Identification of Business Opportunities Introduction, Sources of Business of Product Ideas, Steps in Identification of Business opportunity and its SWOT Analysis.
+
+UNIT-V Techno-Economic Feasibility of the project Introduction, Techno- Economic feasibility of the Project, Feasibility Report, Considerations while preparing a Feasibility Report, Proforma of Feasibility Report, Role of Institutions and entrepreneurship.
+
+Text and Reference Books: 1. Competing through Innovation-Bellon & Whittington - Prentice Hall of India 2. A Guide to Entrepreneurship – David Oates- JAICO Publishing House. 3. Entrepreneurship- Robert D Hisrich, Peters, Shepherd- TMH 4. Entrepreneurship in Action- Coulter - Prentice Hall of India 5. Entrepreneurship Management and Development – Ajith Kumar - HPH 6. Fundamentals of entrepreneurship- Mohanty - PHI 7. Patterns of Entrepreneurship- Jack M Kaplan – Wiley 8. Innovation and Entrepreneurship Practice And Principles- Drucker, Petere- East West Press
+

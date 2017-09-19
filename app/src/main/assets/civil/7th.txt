@@ -1,0 +1,250 @@
+S. No. Board of Study Subject Code Subject 1 Civil Engg. 320741(20) Quality Control and Assurance in Construction 2 Civil Engg. 320742(20) Safety in Construction 3 Civil Engg. 320743(20) Fabrication and Erection of Structures 4 Civil Engg. 320744(20) Construction Equipments and Techniques 5 Civil Engg. 320745(20) Expansive Soils 6 Civil Engg. 320746(20) Geotechnical Processes 7 Civil Engg. 320747(20) Foundation Engineering 8 Civil Engg. 320748(20) Transportation Planning and Management 9 Civil Engg. 320749(20) Advanced Transportation Engineering 10 Civil Engg. 320750(20) Traffic Engineering
+
+Note: (1) 1/4th of total strength of students subject to minimum of twenty students is required to offer an elective in the college in a particular academic session. (2) Choice of elective course once made for an examination cannot be changed in future examinations.
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Structural Engineering Design-III ESE Duration: 4 Hours Subject Code: 320731(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Note:  1. All designs should be as per latest version of code (IS:800-2007) 2. IS: 800-2007 and Steel Tables are permitted in Examination. 3. Theory Paper of Four Hours Duration.
+Objectives of the Subject:
+1. Understand the behavior of plate girders. 2. Understand the behavior of members subjected to combined forces. 3. Understand the behavior of column bases and gantry girders. 4. Understand the behavior of eccentric and moment connections. 5. Understand the behavior of roof trusses under different loads.
+
+Outcomes of the Subject:
+1. Capable of designing Plate Girders. 2. Capable of designing members subjected to combined forces. 3. Capable of designing Column bases & Gantry Girders. 4. Capable of designing eccentric and Moment connections. 5. Capable of designing Roof trusses.
+Unit-1: Plate Girders with solid webs
+Components of a Plate Girder, Typical sections, Proportioning of the section, Design bending strength, Design shear strength, Stiffened Web panels, minimum web thickness, bearing stiffeners, load carrying stiffeners, intermediate stiffeners, stiffener design, Design of beams and plate girders with solid webs.
+Unit-2: Members subjected to combined forces
+Combined shear & bending, combined axial force & bending moment, section strength, over all member strength, Design of members subjected to combined forces.
+Unit-3: Column Bases and Gantry Girders
+Types of column bases, slab base, gusset base, moment resisting base plates. Loads and load combinations, Typical sections, Design of gantry girders.
+Unit-4: Eccentric and Moment Connections
+Analysis of Bolt / Weld Group, Connection Configurations, Beam to Column connections, Beam to Beam connections, web splice and its connections, column splice and its connections.
+Unit-5: Roof Trusses
+Types of roof trusses, Loads - Dead , Imposed and wind loads, load combinations, Design of Purlins, Analysis & Design of roof trusses (with angle sections).
+Text Books:
+1. Design of Steel Structures - N. Subramanian (Oxford University Press) 2. Limit State Design of Steel Structures – S. K. Duggal (Tata McGraw Hill)
+Reference Books:
+1. Indian Standard – General Construction in Steel –Code of Practice (3rd Revision) (IS:800 – 2007) 2. Design of Steel Structures – K. S. Sai Ram (Pearson Education) 3. Structural Steel Design : LRFD Method – J. C. McCormac, J. K. Nelson (Pearson Education) 4. Limit State design in Structural Steel – M. R. Shiyekar (PHI Learning) 5. Limit State Design of Steel Structures (IS:800-2007) – V. L. Shah, V. Gore (Structures Publications)   6. Design Manual for Designing Steel Structures according to New IS:800, Publication Number INS/PUB/114 – Institute for Steel Development and Growth, Kolkata 7. Teaching Resource for Structural Steel Design, Vol. I – III, Publication Number INS/PUB/051, Institute for Steel Development and Growth, Kolkata
+♦♦♦
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Water Resources Engineering-I ESE Duration: 3 Hours Subject Code: 320732(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To understand basic concepts of irrigation and water requirements of crops. 2. To understand the concepts of design of canal. 3. To learn about water logging  4. Be familiar with the concepts of river training. 5. To understand the concepts of reservoir planning.
+
+Outcomes of the Subject:
+1. Students are able to understand the different types of irrigation. 2. Students should be able to design the canal. 3. Students can explain the effects of water logging. 4. Students should be able to understand the behavior of river. 5. Students can plan the reservoir for different demands.
+Unit-1: Methods of Irrigation and Water Requirements of crops
+Need for Irrigation, Advantages and Disadvantages of irrigation, development of irrigation in India. Types of Irrigation systems – Flow Irrigation, Tank Irrigation, Lift Irrigation, Tube Well Irrigation. Soil-Water-Crop relationship, Soil groups in India. Methods of Irrigation: Introduction, requirement of irrigation methods, surface and sub surface irrigation, sprinkler and drip irrigation. Water Requirement of Crops: Introduction, Water requirement of crop, quantity of water for irrigation, consumptive use of water or evapo-transpiration, crop season and crops of India, crop period and base period, delta, duty of water, relationship between delta duty and base period, factors affecting duty, methods of improving duty, Intensity of irrigation, irrigation requirement of crops.
+Unit-2: Canal Irrigation
+Classification of canal, parts of canal irrigation system, canal alignment, lay-out of canal system, typical canal cross section, command areas, losses in irrigation systems, and water requirement of irrigation channels. Design of Stable Channels in Alluvium: Introduction, Kennedy’s silt theory, Garret’s diagram, Lacey’s Theory, Lacey’s regime equations, Lacey’s shock theory, Design of channels by Kennedy’s and Lacey’s theories, Use of Lacey’s diagrams, maintenance of Irrigation channels, sediment transport, silting of canals and its control.
+Unit-3: Water Logging and its Control
+Causes and ill effects of water logging, prevention and control, reclamation of water logged and saline lands, surface drainage. Design of Lined Channels: Introduction, benefits of lining, types of lining, economics of lining, procedure and design of lined canals. Distribution of canal waters:System of regulation and control, requirement of a good outlet, types of outlet.
+Unit-4: River behaviour, Control and Training
+Objects, river characteristics, river patterns, classification of river training works, methods of river training embankments, bank protection, spurs, cutoffs, pitched island, river diversion, meandering causes and parameters. Flood Control: Introduction, Flood estimation, levees and embankments, channel improvement, flood ways evacuation and flood plain zoning, economics of flood control, National Policy of floods, flood forecasting.
+Unit-5: Reservoir Planning
+Introduction, Type of reservoirs, storage zones of a reservoir, mass curve and demand curve, determination of reservoir capacity, safe field. Flood Routing:Graphical method, trial and error method, reservoir losses, reservoir sedimentation, life of reservoir, environmental effects of reservoirs.
+Text Books:
+1. Irrigation Engineering and Hydraulic Structures – S.K. Garg (Khanna Publications) 2. Irrigation Engineering – B.C. Punmia (Laxmi Publications)
+Reference Books:
+1. Irrigation, Water Resources and Water Power Engineering – Dr. P.N. Modi (Standard Book House) 2. Theory and Design of Irrigation Structures (Volume – I & II) – Varshney (Nem Chand & Bros.) 3. Irrigation Engineering – Asawa G.L. (New Age International Publications) 4. Fundamentals of Irrigation Engineering – Bharat Singh (Nem Chand & Bros.)
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Environmental Engineering-II ESE Duration: 3 Hours Subject Code:320733(20) Total Theory Periods: 50 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To give an overview of importance of proper sewage disposal and various sewerage systems. 2. To introduce the students the estimation of domestic sewage and other sewer appurtenances. 3. To impart a detailed knowledge in the design of various sewage treatment processes. 4. To impart knowledge about the different industrial waste treatment technique. 5. To provide knowledge about the environmental social and health implications of solid waste and its management.
+
+Outcomes of the Subject:
+1. A student must be capable of designing a sewer system for a city taking into consideration the variations in flow. 2. The student should be capable of managing controlling the sewage treatment plant with complete knowledge of the design values and this functioning. 3. The student must be able to decide upon the quantum of treatment to be given to the wastewater from different sources before they are discharged to open water courses. 4. The student must be able to analyze coming from various processes in an industry and decide upon the techniques of treatment to be given. 5. The student will be socially responsible and aware of the social, environmental and health implications of solid waste and its management.
+Unit-1: Estimation of Sewage
+Sewage and Sewerage, definitions and some common terms, object of sewage disposal. System of sanitation: Conservancy systems, Water system, sewage systemcombined, separate and partially separate, patterns of collection system.
+Amount of sewage: Estimation of domestic and storm sewage, variations in the quantity of sewage, Design of sewers (Only circular sewer) Manholes, Pumping stations, Wet well capacity.
+Unit-2: Sewage Treatment
+Characteristics of sewage: Physical, chemical and biological characteristics, fundamentals of aerobic & anaerobic process.
+Sewage treatment: Preliminary treatment systems, Racks and screens, comminute Grit chambers.
+Primary treatment systems: Plain sedimentation, detention time and over-flow rates, types of inlets and outlets, onsite wastewater treatment- septic tank, Imhoff tank, oxidation pond .
+Unit-3: Secondary treatment systems
+Attached growth process: Trickling filters, standard and high rates, efficiency (NRC) formula, and operational problems of trickling filters. Suspended growth process, principle of suspended growth process, Activated sludge process, Oxidation ditch aeration and mixing techniques, Operational problems of activated sludge systems, stablisation tools aerobic, anaerobic and facultative lagoon.
+Unit-4: Sewage Sludge Treatment and Sewage Disposal
+Importance, amount and characteristics of sludge, sludge digestion, Anaerobic digestion, aerobic digestion, sludge drying beds.
+Disposal by dilution, self purification of polluted streams, factors affecting self purification, Sag curve, disposal on land surfaces. Stream standards, Effluent standards, theories of waste treatment (Volume reduction, strength reduction, new Equalization and proportioning) Summery of Industrial waste, its origin, character and treatment.
+Unit-5: Solid Waste Management
+Solid waste management, source and characteristics, environmental and health implications, refuse characteristics, collection methods, disposal of solid waste by land filling, composting and incineration methods. Collection and disposal of refuse, Composting of refuse.
+Text Books:
+1. Environmental Engineering – Peavy & Rowe (Tata McGraw Hill, New Delhi).  2. Waster Water Engineering – S.K. Garg (Khanna Publication).  3. Waste Water Engineering – B.C. Punmia (Laxmi Publication, New Delhi)
+Reference Books:
+1. Environmental Science and Engineering – Henry and Heinke (Pearson Education).  2. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi).  3. Introduction to Environmental Science – Y Anjaneyulu (B S Publications).  4. Environmental Science and Engineering – henry and heinke (Pearson Education).  5. Waste Water Engineering – Metcalt Eddy (Tata McGraw Hill, New Delhi)
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Quantity Survey and Cost Evaluation ESE Duration: 3 Hours Subject Code: 320734(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To provide an understanding of estimate, their types, items and units of work, and types of approximate estimate. 2. To provide an understanding of determining quantity estimate of civil engineering works. 3. To provide an understanding of rate analysis and its application to different items. 4. To provide an understanding of general requirements of contracts. 5. To provide an understanding of the concept of valuation of properties.
+
+Outcomes of the Subject:
+1. Students are expected to identify various items of building and able to determine approximate estimate of buildings. 2. Students are expected to determine quantities estimate of civil engineering works from given details. 3. Students are expected to know about determination of quantities of materials and rate analysis of any items in residential building works. 4. Students are expected to know contract and its types. 5. Students are expected to know concept of valuation.
+Unit-1: Introduction to Estimation Introduction to quantity surveying, methods of measurements and units of measurements of various items of work, Principles of estimating, different types of estimates, procedure for computation of stage I estimate. General Terms: Administrative approval, technical sanction, competent authority, Deposit works, suspense account, imprest account, indent of stores, muster roll. Measurement book, material at site account, stock account, establishment charges, contingencies. Unit-2: Quantity Estimate Methods, data required for estimation detailed estimates of residential building works of single and double storey, determining quantities of actual reinforcement in building components, bar bending schedule, making bill of quantities, determination of earth work in road and canals. Unit-3: Analysis of rates Purpose and principles factors affecting the rates of items of works, Analysis of rates of different items such as cement concrete of different proportions, brick masonry in different mortars, flooring (tiles, mosaic, cement concrete flooring), use of Schedule of rates. Specifications: Purpose and basic principles, types of specifications: brief and detailed specifications for various items of works. Unit-4: Contracts General requirements of contract, types of contract, conditions, termination of contract, brief idea about types of tender, tender notice, earnest money, security deposit, liquidated damages, arbitration, and escalation. Unit-5: Valuation of property General, object of valuation, definitions of terms related to valuation, methods of determining value of property, development method and rental method of valuation, concept of capitalized value and year purchase, depreciation, lease, mortgage, easement. Text Books: 1. Estimating and Costing in Civil Engineering – B.N. Dutta (UBS Publishers, New Delhi) 2. Estimating and Costing and specifications – M. Chakrabarty (UBS Publishers, New Delhi) Reference Books: 1. Textbook of Estimating and Costing – G.S. Birdi (Dhanpat Rai Publications) 2. Valuation of real properties – S.C. Rangwala (Charotar Publication) 3. A Textbook of Estimating and Costing – Kohli & Kohli (S. Chand & Co.) ♦♦♦
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Quality Control and Assurance in Construction) ESE Duration: 3 Hours Subject Code: 320741(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques for quality control and assurance in construction.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to quality control and assurance in construction.
+Unit-1: Construction Projects Agencies involved in Construction Projects, mutual relationship, quality control at site; and whose job is it.
+Unit-2: ISO / IS Requirements IS 9000 (Parts 1 to 4) (Pt 1; 1994, Pt 2; 1993, Pt 3; 1991, Pt 4; 1993) for Total Quality Management. ISO 14000 – 1988 for environment – Impact of large construction projects.
+Unit-3: Quality Control on Construction Projects Inspection of reinforced concrete, masonry and steel works, testing techniques and quality at reports.
+Unit-4: Statistical Analysis Sampling frequencies, statistical and reliability analysis, optimum sample size.
+Unit-5: Quality Assurance Quality Assurance in constructions.
+Text Books: 1. ISO 9000 in Construction – Nee, Paul A. (Wiley Interscience Publication, 1994) 2. IS: 14000, Quality System – Guidelines for Selection and Use of Standards on Quality System 1988.
+Reference Books: 1. ISO 9000 in Construction – Wah, L.S., Min., L.C. & Ann, T.W. (McGraw Hill Book Company, 1996) 2. Construction Engineering and Management – S. Seetaraman (Umesh Publication) ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Safety in Construction) ESE Duration: 3 Hours Subject Code: 320742(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques for ensuring safety in construction.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to safety in construction.
+Unit-1: Construction Project A brief outline project definition, elements, relation to safety, types of projects and safety hazards.
+Unit-2: Construction sites and safety Tools: Electrical, Pneumatic, Grinding, Hand tools. Machinery: Earth moving, Concrete Breaker, Carpenters, Transporting, Batching Plant and Concrete Mixer, Dumpers. Material Handling: Various materials and their effects, storing materials. Common Risks and Hazards.
+Unit-3: Planning Safety for Construction Projects Safety Construction Safety, Legal Requirements, First-Aid, Safety Clauses in contract, Safety Policy, Safety deposit, Safety Officer, Safety Committees, Safety of Contractors Worker.
+Unit-4: Safety Practices Roads and bridges, tunneling, buildings, and structures, (excavation, blasting, consent, machinery, transportation, concrete structures, piling, deep foundations, compressed air, tunneling, dewatering, structural steel erection, floors, and walk opening, demolition, use of ladders, electrical works, welding and cutting, grinding and chipping, hoisting apparatus, A.C. Roofs.
+Unit-5: Modern project Special Safety practices for Modernisation Project. Planning for sequential operations and emergencies first aid, fire hazards and preventive methods.
+Text Books: 1. Construction Safety, Security and Loss Prevention – B. Fulman
+Reference Books: 1. Fundamental of Construction Safety – P.T. Armstrong 2. Construction Engineering and Management – S. Seetaram (Umesh Publication) ♦♦♦
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Fabrication and Erection of Structures) ESE Duration: 3 Hours Subject Code: 320743(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques for fabrication and erection of structures.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to fabrication and erection of structures.
+Unit-1: General Various slopes, size and properties of rolled steel sections, tubes and hollow rectangular sections: Chemical composition, physical properties and weldability of various types of structures steel, their suitability for various purposes. Planning, Estimating and costing: Scope, components of costing for fabrication and erection, Economy and cost control, various processes for joining, forming, cutting and welding. Fabrication Operations: Various operations like interpretation of drawings, shop-floor operations, fastenings, assembling, finishing and shipping, sub-assemblies and main assemblies, fabrication of pipes and peristocks. Inspection of fabrication: Code provisions for tolerances and deviations, Inspection of welds, radiographic and ultrasonic techniques. Unit-2: Fabrication Drawings Structural connections, their classification, symbols for their representation, layout of an industrial building, preparation of fabrication drawing and detailing for columns, trusses, beams and cladding, detailing of truss-joints, column bases, beam to beam and column to beam connection (Seated and framed). Note: At least three drawing sheets on above shall be prepared as class work. The examination paper shall contain questions on above to be illustrated with sketches. Unit-3: Erection (Part-I) Principle of erection, Erection organisation, Preparation and reading of erection drawing, Assembly marks, common types of structures to be erected, erection of tackle and false work equipments for lifting and rigging, Code provisions for erection. Methods of erection, levelling and alignment, setting out and grouting, allowable tolerances for plumbing, levelling and alignment. Tools and equipments for erection, various types of derricks, cranes and winches. Unit-4: Erection (Part-II) Miscellaneous small tools for erection like drifts, shakles and grips, erection of shed type buildings, portal frames, multi-storeyed buildings, prefabricated tanks, towers and chimneys. Unit-5: Inspection, Quality Control and Safety – Various stages of inspection, Quality control departments, prescribed tolerances and deviations, methods of rectification of defects, Accidents and their causes, Various unsafe acts and precautions for their prevention, Rules for safety for cranes, winches, etc. Safety during electrical operations and while using X-ray equipments, Maintenance of erected structures, surface treatment against corrosion, etc. Text Books: 1. Structural Steel Fabrication and Erection – S.K. Saxena and R.B. Asthane (Somaiya Publications, 172, Mumbai Marathi Granth, Sangrahalaya Marg, Dadar, Bombay-14) Reference Books: 1. Structural Steel Drafting and Detailing – Shivagunde and Asthana (Somdiya Publications) ♦♦♦
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Construction Equipments and Techniques) ESE Duration: 3 Hours Subject Code: 320744(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about various equipments for construction and the techniques for systematic construction using these equipments.
+
+Outcomes of the Subject:
+1. To be able to plan and handle construction equipments and techniques related to construction.
+Unit-1: Construction Equipments Fundamentals of earthwork operations - Earth moving operations -Types of Earthwork Equipment-Tractors, Motor Graders, Scrapers, Front end waders, Earth Movers. Equipment for Dredging, Trenching, Tunnelling, Drilling, Blasting-Equipment for compaction-Erection Equipment. Types of pumps used in construction - Equipment for Dewatering and Grouting -Foundation and Pile Driving Equipment. Forklifts and Related Equipment - Portable Material Bins – Conveyors - Hauling Equipment. Unit-2: Equipment for Production of Aggregate and Concreting Crushers-Feeders-Screening Equipment-Handling Equipment-Batching and Mixing Equipment-Hauling, Pouring and Pumping Equipment-Transporters. Unit-3: Sub-structure Construction Techniques Box jacking -Pipe Jacking-Under Water Construction of diaphragm walls and basement -Tunnelling techniques piling techniquesdriving well and caisson-sinking cofferdam-cable anchoring and grouting-driving diaphragm walls, sheet piles-laying operations for built up offshore system-shoring for deep cutting-Large reservoir, construction with membranes and Earth system-well pointsDewatering and stand by Plant equipment for underground open excavation Unit-4: Super Structure Construction Vacuum Dewatering of concrete flooring-Concrete paving technology-Techniques of construction for continuous concreting operation in Tall buildings of various shapes and Varying sections-Launching Techniques-Suspended from work-erection techniques of tall structures, Large span structures-Launching techniques for heavy decks in situ prestressing in high rise structures, aerial transporting handling erecting light weight components on tall structures-erection of latice tower as and rigging of transmission line structures. Unit-5: Repair Construction Mud jacking grout through slab foundation-micropiling for strengthening floor and shallow profile-pipeline laying protecting sheet piles, screw anchors-sub grade water proofing under pining advanced techniques and sequence in demolition and dismantling. Text Books: 1. Construction Planning, Equipment and Methods (5th Edition) – Peurifoy, R.L., Ledbetter, W.B. and Schexnayder, C. (McGraw Hill, Singapore, 1995). 2. Construction Equipment and Management – Sharma S.C. (Khanna Publishers New Delhi, 1988). Reference Books: 1. Construction Equipment and Job Planning – Deodhar, S.V. (Khanna Publishers, New Delhi, 1988). 2. Construction Equipment and its Planning and Application – Dr. Mahesh Varma (Metro-politan Book Company, New Delhi-, 1983). 3. Practical foundation engineering hand book – Robertwade Brown (McGraw Hill Publications, 1995). 4. Construction Dewatering: New Methods and Applications – Patrick Powers. J. (John Wiley and Sons, 1992). 5. Advanced Construction Techniques – Jerry Irvine (CA Rocketr, 1984) ♦♦♦
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Expansive Soils) ESE Duration: 3 Hours Subject Code: 320745(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques related to construction in expansive soils.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to construction in expansive soils.
+Unit-1: Introduction and Identification
+Expansive Soils of India, related civil engineering problems, formation of expansive soils in field, identification of expansive solids in laboratory by X-ray diffraction method and differential thermal analysis.
+Unit-2: Physical and Chemical Properties
+Soil structure and clay minerology of expansive soil, atomic bond and molecular bonds, honey comb structure, base exchanges capacity, clay water relation, electrolysis processes.
+Unit-3: Foundation on Black Cotton Soil
+Foundations on swelling soils, swelling potential and mechanism of volume change, chemical composition of black cotton soil, construction techniques in black cotton soil, modern method of construction in under reamed coil.
+Unit-4: Ground Improvement Techniques
+Stabilization of expansive soils with lime, slag (silica fume and aluminium sludge), cement, fly ash, chemicals, reinforced earth technique, micro reinforced vegetation, vibro floatation, grouting and soil nailing.
+Unit-5: Liquefaction Hazard Mitigation
+Factors affecting the expansive soil, method of assessment for liquifaction, effect instrumentation for monitoring, consolidation of marine clay deposits, expansive soil model of Bingham fluid bounded by porous beds.
+Text Books: 1. Design Aids in Soil Mechanics and Foundation Engineering – S.R. Kaniraj (Tata McGraw Hill, New Delhi). 2. Foundation Engineering – Dr. B.J. Kasmalkar (Pune Vidyarthi Griha Prakashan, Pune).
+Reference Books: 1. Basic and applied Soil Mechanics (Revised Edition) – Gopal Rajan and Rao A.S.R. (New Age, New Delhi. 1998). 2. Foundation Engineering (2nd Edition) – Peck,R.B., Hanson (W.E. and Thornburn. W.H. Johan Wiley, New York 1976). 3. Foundation Analysis and Designing – J.E. Bowles (McGraw Hill). 4. Soil Engineering in Theory and Practice (Vol. - II) – Alam Singh (Asia Publishing House, New Delhi, 1981) ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Geotechnical Processes) ESE Duration: 3 Hours Subject Code: 320746(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about various geotechnical processes used in construction.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to various geotechnical processes used in construction.
+Unit-1: Dewatering Methods, selection, analysis and design of dewatering system.
+Unit-2: Grouting Types of grouts and their properties; Methods of grouting; Grout selection and control.
+Unit-3: Compaction Diffused double layer theory of compaction; Methods of compaction; Engineering properties of compacted soil; Field compaction and its control.
+Unit-4: Soil Stabilisation Stabilisation using chemical additives and other methods.
+Unit-5: Reinforced Earth Concept, materials, application and design of reinforced earth wall.
+Text Books: 1. Modern Geotechnical Engineering – Alam Singh (IBT Publishers, Delhi, 1987). 2. Analysis and Design of Substructures – Swami Saran (Oxford and IBH, New Delhi, 1996).
+Reference Books: 1. Foundation Design and Construction (5th Edition) – Tomlinson, M.J. (ELBS, Singapore, 1988). 2. Foundation Engineering (Ed.) – Leonards, G.A. (McGraw Hill, New York, 1962). 3. Geotechnical Engineering – Lee, I.K., White, W. and Ingles, O.G. (Pitman, Marshfield, Mass (U.S.A.), 1983). ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Foundation Engineering) ESE Duration: 3 Hours Subject Code: 320747(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques related with construction of different types of foundations.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related with construction of different types of foundations.
+Unit-1: Site Investigation and Selection of Foundation Introduction, Scope and objectives, Method of exploration boring, Sampling, disturbed and undisturbed sampling, sampling techniques, Bore log and report, Penetration tests (SPT and SCPT), Data interpretation, Selection of foundation based on soil condition.
+Unit-2: Shallow Foundation Introduction, Location and depth of foundation, codal provisions, bearing capacity of shallow foundation on homogeneous deposits, bearing capacity from insitu tests, Factors influencing bearing capacity, codal provisions, Settlement, Components of settlement, Settlement of foundations on granular and clay deposits, Allowable and maximum differential settlements of buildings, Codal provision, Methods of minimising settlement.
+Unit-3: Footings and Rafts Types of foundation, structural design of spread footing, Design aspects of combined and mat foundation, Codal provisions.
+Unit-4: Piles Types of piles, Factors influencing the selection of pile, Carrying capacity in granular and cohesive soils, Static and dynamic formulae, Capacity from insitu tests (SPT and SCPT), Piles subjected to uplift, Negative skin friction, Group capacity, Settlement of pile groups, Interpretation of pile load test, Pile caps, Codal provisions.
+Unit-5: Retaining Walls Earth pressure theory, Plastic equilibrium in soils, active and passive states, Rankine’s theory, Coloumb’s wedge theory, Classical and limit equilibrium solution, Earth pressure on retaining walls of simple configurations, pressure on the wall due to single line load alone, Graphical method (Culmann’s method alone), Stability of retaining wall.
+Text Books: 1. Soil mechanics and foundations – Punmia, B.C. (Laxmi publications Pvt. Ltd., New Delhi, 1995). 2. Soil Mechanics and Foundation Engineering – Arora, K.R. (Standard publishers and distributors, New Delhi, 1997).
+Reference Books: 1. A Textbook of Geotechnical Engineering – Khan, I.H., (Prentice Hall of India, New Delhi, 1999). 2. Basic and applied soil mechanics – Gopal Ranjan and Rao, A.S.R. (Wiley Eastern Ltd., New Delhi (India), 1997). 3. Foundation Analysis and Design – Bowles J.E. (McGraw Hill, 1994). ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Transportation Planning and Management) ESE Duration: 3 Hours Subject Code: 320748(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques related to transportation planning and management.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related with transport planning and management.
+Unit-1: Introduction Urbanization and transportation problems, transportation sector in five year plans, regional transportation plans, comprehensive transportation planning, goals and objectives, principles of transport planning, process of urban transport planning.
+Unit-2: Trip Generation Analysis Trip classification, multiple regression analysis, trip rate analysis, category analysis.
+Unit-3: Trip Distribution Analysis Methods of trip distribution, uniform factor method, average factor method, frator method, furness method, limitations of growth factor methods, elementary gravity model.
+Unit-4: Model Choice Analysis Determinants of mode choice, theoretical framework for discrete choice model, binomial and multinomial logit model, choice-set determination, model specification, functional form, statistical estimation, validation. Assignment: Basic concepts, traffic assignment methods, all-or-nothing assignment, multiple route assignment, capacity restraint assignment, diversion curves.
+Unit-5: Economic Evaluation of Transport Plans Need, costs and benefits of transport projects, methods of economic evaluation, benefit-cost ratio method, first year rate of return, net present value methods, internal rate of return method. Major Issues: Public transport policy, intermediate public transport, non motorized transport, transport facility for elderly population, women and children.
+Text Books: 1. Traffic Engineering and Transport Planning – Kadiyali, L.R. (Khanna Publishers, Delhi, 1996). 2. Transport Planning and Traffic Engineering – Flaherty, CAO (John Wiley & Sons, Inc., New York, 1997).
+Reference Books: 1. Principles of Urban Transport Systems Planning – Hutchinson, B.G. (Scripta Book Company, Washington, D.C., 1974). 2. Modelling Transport – Ortuzar, title D. and Willumson, L.G. (John Wiley & Sons, New York, 1995). ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Advanced Transportation Engineering) ESE Duration: 3 Hours Subject Code: 320749(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To learn about techniques for economical design of rigid and flexible pavements.
+
+Outcomes of the Subject:
+1. To be able to plan and handle issues related to economical design of rigid and flexible pavements.
+Unit-1: Highway Economics and Financing Benefits from highway improvement, cost of highway transportation, highway method, benefit cost ratio method, methods of raising highway finances.
+Unit-2: Highway Materials Evaluation of subgrade soil, group index, plate bearing test, C.B.R. test Bituminous paving mixes – Requirements, Design of mixes, Marshall Method, Modified Hubbard-Field Method. Highway Construction: Material, Equipment, Construction procedure and quality control in construction of water bound macadam roads, Bituminous roads and cement Concrete roads, Construction of joints in cement concrete pavements, Joint fillers and scalers.
+Unit-3: Design of flexible pavements Design wheel loads, climatic variations, Empirical and semi-empirical methods of design, Group Index, C.B.R. Triaxial, Mc Load Lumister’s layered system, North Dakota cone method, design of airport pavements, various design factors, design of flexible airport pavements.
+Unit-4: Design of rigid Pavements Design considerations, wheel load stresses, temperature stresses, design of joints in cement concrete pavements, design of rigid airport pavements.
+Unit-5: Soil Stabilized road Basic Principles of soil stabilization, various methods of soil stabilization, proportioning of materials, Mehra’s method of soil stabilization, design of soil cement, soil lime and soil bitumen mixes, stabilization of black cotton soil and desert sand pavement failure, evaluation and strengthening failure of flexible and rigid types of pavements, a Road nic and periodic maintenance, design of overlay with bankelmn beam, different types of overlays, airport pavement overlays.
+Text Books: 1. Traffic Engineering and Transport Planning – Kadiyali, L.R. (Khanna Publishers, Delhi, 1996). 2. Transport Planning and Traffic Engineering – Flaherty, CAO (John Wiley & Sons, Inc., New York, 1997).
+Reference Books: 1. Principles of Urban Transport Systems Planning – Hutchinson, B.G. (Scripta Book Company, Washington, D.C., 1974). 2. Modelling Transport – Ortuzar, title D. and Willumson, L.G. (John Wiley & Sons, New York, 1995). ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th Subject: Professional Elective-II (Traffic Engineering) ESE Duration: 3 Hours Subject Code: 320750(20) Total Theory Periods: 40 Total Tutorial Periods: 12 Class Tests: 2  Assignments: 2 Maximum Marks: 80  Minimum Marks: 28 Objectives of the Subject:
+1. To develop the fundamental knowledge of Traffic Engineering. 2. To know the problems occurring due to mixed traffic in developing country. 3. To know the details of traffic flow. 4. Develop the use of sign, signal, and island. 5. To develop the knowledge about accidents and its reduction. 6. To develop the knowledge of different pollution occurring and its remedial measures.
+
+Outcomes of the Subject:
+1. This subject will provide the knowledge of traffic, its problem and remedial measures in mixed traffic in developing country. 2. It will provide the knowledge of traffic characteristic in details. 3. It will help in reducing the accidents. 4. It will help in geometric design of road, road lightening. 5. It will help in controlling the different pollution occurring in road.
+Unit-1: Introduction Traffic Engineering, Growth of Traffic, Function of Traffic Engineer, 3E’s of traffic Engineering, Special problems due to mixed traffic and other conditions in developing countries, Measures to meet the Problem, Concept of PCU.
+Unit-2: Traffic Characteristics Road user characteristics, Vehicular characteristics, Traffic flow characteristics, Capacity, Traffic studies, Volume, Spot speed, Speed and delay, Origin and destination, Parking and accident, Design of Parking Facilities.
+Unit-3: Traffic Operations Traffic regulations, Controls on vehicles, Drivers and flow, One way street tidal flow operation, priority for high occupancy vehicles, Traffic control devices, Signs, Signals, Islands and markings, Design of isolated traffic signals by IRC method.
+Unit-4: Traffic Safety Accidents, Analysis of traffic accidents, Preventive Measures, Highway lighting, Effect of road conditions and road geometrics on traffic safety, Traffic safety awareness.
+Unit-5: Traffic and Environment Pollution problems of cities, Noise pollution, Air pollution, Vibration, Environmental Impact Assessment, Mitigative Measures, and Road site development and Arboriculture.
+Text Books: 1. Traffic Engineering – McShane, W.R. and Roes, R.P. (Prentice Hall, New Jersey, 1990). 2. Traffic Engineering and Transport Planning – Kadiyali, L.R. (Khanna Publishers, Delhi, 1996).
+Reference Books: 1. Transport Planning and Traffic Engineering – Flaherty, CAO’(Ed.) (John Wiley & Sons, Inc., New York, 1997) 2. Traffic Flow Fundamentals – May, A.D. (Prentice Hall, Englewood Cliffs, New Jersey, 1990). ♦♦♦
+
+ Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th PracticalSubject: Structural Engineering Drawing - I Lab Total Practical Periods: 40 PracticalSubject Code: 320761(20) Maximum Marks: 40
+Experiments to be performed (Min 10 experiments):
+1. Drawing of plan and section of various types of bolted and welded joints.  2. Detailing of a Axially Loaded angle Tension Member  3. Detailing of an Axially Loaded Compression Member with base plate.  4. Detailing of an Axially Loaded Built up Laced Compression Member.  5. Detailing of an Axially Loaded Built up Battened Compression Member.  6. Detailing of a Riveted / Bolted Plate girder.  7. Detailing of a Welded Plate girder.  8. Detailing of flexible connections  9. Detailing of Semi – Rigid Connections  10. Detailing of Rigid Connections  11. Detailing of a Industrial shed  12. Detailing of a Truss Bridge Railway Bridge.  13. Preparation of Bill of Materials  14. Preparation of Fabrication drawings.  15. Preparation of Erection drawings.
+List of Equipments / Machine Required:
+1. List of Equipments – Not Required.
+Text and Reference Books: 1. Design of Steel Structures – K. S. Sai Ram (Pearson Education) 2. Structural Steel Design : LRFD Method – J. C. McCormac, J. K. Nelson (Pearson Education) 3. Limit State design in Structural Steel – M. R. Shiyekar (PHI Learning) 4. Limit State Design of Steel Structures (IS:800-2007) – V. L. Shah, V. Gore (Structures Publications)   ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th PracticalSubject: Environmental Engineering - II Lab Total Practical Periods: 40 PracticalSubject Code: 320762(20) Maximum Marks: 40
+Experiments to be performed (Min 10 experiments):
+1. To determine acidity of Sewage / Industrial wastewater sample.  2. To determine Alkalinity of Sewage / Industrial wastewater sample.  3. To determine Hardness of Sewage / Industrial wastewater sample.  4. To determine Chloride Content of Sewage / Industrial wastewater sample.  5. To determine DO Content of Sewage / Industrial wastewater sample.  6. To determine Estimation of BOD of Sewage / Industrial wastewater sample.  7. To determine Optimum Coagulant Dose Test of Sewage / Industrial wastewater.  8. Determination of Total Solids in Sewage / Industrial wastewater.  9. Determination of Turbidity in Sewage / Industrial wastewater.  10. Determination of MPN in Sewage / Industrial wastewater.  11. Determination of COD in Sewage / Industrial wastewater.  12. Determination of Fluoride content in Sewage / Industrial wastewater.  13. Determination of Nitrates in Sewage / Industrial wastewater.  14. Determination of Phosphates in Sewage / Industrial wastewater.  15. Determination of Iron in Sewage / Industrial wastewater.  16. Microbiological Examination of Sewage / Industrial wastewater.
+List of Equipments / Machine Required:
+1. BOD Incubar 2. Turbidity meter 3. Microscope 4. pH meter 5. Muffle Furnace 6. Hot Air Oven 7. Jar Test Apparatus 8. Spectrophotometer
+Text and Reference Books: 1. Environmental Engineering Lab Manual – Dr. B. Kottaiah & N. Kumaraswamy (Charotar Publications). 2. Environmental Science and Engineering – Henry and Heinke (Pearson Education). 3. Waste Water Engineering – Metcalf Eddy (Tata McGraw Hill, New Delhi). 4. Introduction to Environmental Engineering and Science – Masters, G.M. (Prentice Hall of India Pvt. Ltd., 1991). ♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Civil Engineering Semester: 7th PracticalSubject: Quantity Surveying and Cost Evaluation Lab Total Practical Periods: 40 PracticalSubject Code: 320763(20) Maximum Marks: 40
+Experiments to be performed (Min 10 experiments):
+1. Estimating cost of a proposed building on Plinth area method, Volume area method. 2. Estimated cost of a proposed building from materials and labour by CBRI method. 3. Calculation of wall area in a building by measuring floor area for ordinary building and framed structure. 4. Calculation of approximate cost of water supply, sanitation, electrical works for a building. 5. Preparation of approximate estimate for road projects. 6. Preparation of detailed estimate of a building. 7. Analysis of rates: Concrete work, Brick work, Plaster, Flooring. 8. Use of PWD schedule of rates for determining cost of a building project. 9. Determination of present value of a building valuation. 10. Development method of valuation of plots in a locality. 11. Estimation of quantity of reinforcement and preparing bar bending schedule from a working and drawing for a building. 12. Rate analysis using software: R.C.C. items, Masonry work, Plastering, Road work. 13. Valuation by software. 14. Quantity estimate by estimation software. 15. Calculation of present value, anmity by software.
+List of Equipments / Machine Required:
+1. List of Equipments – Not Required.
+Text & Reference Books: 1. Estimating and Costing – Rangawala (Charotar Publications). 2. Estimating and Costing – Dutta B.N. (UBS Publishers & Distributors).
+♦♦♦
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai (C.G.)
+Name of program: Bachelor of Engineering  Branch: Common to all branches Semester: 7th PracticalSubject: Innovative & Entrepreneurial Skill Total Practical Periods: 28 PracticalSubject Code: 320765(76)
+Unit-1: Innovation Innovation- an abstract concept; creativity, innovation and imagination; types of innovation - classified according to products, processes or business organizations.
+Unit-2: Entrepreneurship Who is an entrepreneur? Entrepreneurship- A state of Mind, Emergence of entrepreneur; Role of Entrepreneur; A Doer not a Dreamer- Characteristics of an entrepreneur; Factors affecting entrepreneurial growth – Social, cultural, personality factors, psychological and Social Factors. Impact of Entrepreneurship for sustainable development.
+Unit-3: Difference between entrepreneur and entrepreneurship, Difference between entrepreneur and intra-preneur, Common Entrepreneurial competencies/Traits; Entrepreneurship stimulants, Obstacles inhibiting Entrepreneurship; Types of entrepreneurs, Functions of an entrepreneur.
+Unit-4: Identification of Business Opportunities Introduction, Sources of Business of Product Ideas, Steps in Identification of Business opportunity and its SWOT Analysis.
+Unit-5: Techno-Economic Feasibility of the project Introduction, Techno- Economic feasibility of the Project, Feasibility Report, Considerations while preparing a Feasibility Report, Proforma of Feasibility Report, Role of Institutions and entrepreneurship.
+Text and Reference Books: 1. Competing through Innovation-Bellon & Whittington, Prentice Hall of India  2. A Guide to Entrepreneurship – David Oates- JAICO Publishing House.  3. Entrepreneurship- Rober D Hisrich, Peters, Shepherd- TMH  4. Entrepreneurship in Action- Coulter, Prentice Hall of India  5. Entrepreneurship Management and Development – Ajith Kumar, HPH  6. Fundamentals of entrepreneurship- Mohanty, PHI  7. Patterns of Entrepreneurship- Jack M Kaplan, Wiley, student Edition.
+♦♦♦

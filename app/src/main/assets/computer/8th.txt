@@ -1,0 +1,417 @@
+S.No. Board of Studies Code Name of Subject Management 300851(76) Enterprise Resource Planning  Information Technology  300852(33) E-Commerce & strategic IT  Management  300853(76) Technology Management  Information Technology  300854(33) Decision Support & Executive Information system  Computer Science & Engg.  300855(22) Software Technology  Management  300856(76) Knowledge Entrepreneurship  Management  300857(76) Finance Management  Management  300858(76) Project Planning, Management & Evaluation  Mechanical Engg.  300859(37) Safety Engineering  0 Computer Science & Engg.  300801(22) Bio Informatics   Mechanical Engg.  300802(37) Energy Conservation & Management  2 Nanotechnology  300803(47) Nanotechnology  3 Management  300804(76) Intellectual Property Rights  4 Mechanical Engg.  300805(37) Value Engineering  5 Civil Engg.  300806(20) Disaster Management  6 Civil Engg.  300807(20) Construction Management  7 Civil Engg.  300808(20) Ecology and Sustainable Development  8 Chem. Engg. 300809(19) Non Conventional Energy Sources 9 Electrical Engg. 300810(24) Energy Auditing and Management 0 Mechanical Engg. 300811(37) Managing Innovation & Entrepreneurship   Information Technology 300812(33) Biometrics 2  Information Technolgy 300813(33) Information Theory & Control 3 Computer Science & Engg. 300814(22) Supply Chain Management 4 Computer Science & Engg. 300815(22) Internet & Web Technology 5 Electrical Engg. 300816(24) Electrical Estimation and Costing 26 Electrical& Electronics Engg. 300817(25) Non Conventional Energy Sources ote (1)‐1/4th of total strength of students subject to minimum   Note -1/4th of total strength of students is required to offer an elective in thecollege in a particular academic session.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY BHILAI (C.G.) Semester: VIII      Branch: Computer Science & Engg. Subject: Artificial Intelligence & Expert Systems Code: 322831(22) Total Theory Periods: 50     Total Tutorial Periods: 12 Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02 Course objective: • Introduce the basic principles of AI towards problem solving, inference, perception, knowledge representation and learning. • Investigate applications of AI techniques in intelligent agents, expert systems, artificial neural Networks and other machine learning models. • Experiment with a machine learning model for simulation and analysis. • Explore the current scope, potential, limitations, and implications of intelligent systems. • To have a basic proficiency in a traditional AI language including an ability to write simple to intermediate programs and an ability to understand code written in that language. UNIT I Overview & Search Techniques: Introduction to AI, Problem Solving, State space search, Blind search: Depth first search, Breadth first search, Informed search: Heuristic function, Hill climbing search, Best first search, A* & AO* Search, Constraint satisfaction. Game tree, Evaluation function, Mini-Max search, Alpha-beta pruning, Games of chance. UNIT II Knowledge Representation (KR): Introduction to KR, Knowledge agent, Predicate logic, WFF, Inference rule & theorem proving forward chaining, backward chaining, resolution; Propositional knowledge, Boolean circuit agents. Rule Based Systems, Forward reasoning: Conflict resolution, backward reasoning: Use of Back tracking, Structured KR: Semantic Net - slots, inheritance, Frames- exceptions and defaults attached predicates, Conceptual Dependency formalism and other knowledge representations. UNIT III Handling uncertainty & Learning:  Source of uncertainty, Probabilistic inference, Bayes’ theorem, Limitation of naïve Bayesian system, Bayesian Belief Network (BBN), Inference with BBN, Dempster-Shafer Theory, Fuzzy Logic, Fuzzy function, Fuzzy measure, Non monotonic reasoning: Dependency directed backtracking, Truth maintenance systems. Learning: Concept of learning, Learning model, learning decision tree, Paradigms of machine learning, Supervised & Unsupervised learning, Example of learning, Learning by induction, Learning using Neural Networks. UNIT IV Natural Language Processing (NLP) & Planning: Overview of NLP tasks, Parsing, Machine translation, Components of Planning System, Planning agent, State-Goal & Action Representation, Forward planning, backward chaining, Planning example: partial-order planner, Block world. UNIT V Expert System & AI languages: Need & Justification for expert systems- cognitive problems, Expert System Architectures, Rule based systems, Non production system, knowledge acquisition, Case studies of expert system. Ai language: Prolog syntax, Programming with prolog, backtracking in prolog, Lisp syntax, Lisp programming. Course outcome: After successful completion of the course, students will be able • Demonstrate fundamental understanding of artificial intelligence (AI) and expert systems. • Apply basic principles of AI in solutions that require problem solving, inference, perception, knowledge representation, and learning. • Demonstrate awareness and a fundamental understanding of various applications of AI techniques in intelligent agents, expert systems, artificial neural networks and other machine learning models. • Demonstrate proficiency in applying scientific method to models of machine learning. Text Books:- 1. Artificial Intelligence by Elaine Rich and Kevin Knight, Tata MeGraw Hill. 2. Introduction to Artificial Intelligence and Expert Systems by Dan W.Patterson, Prentice Hall of India. Reference Books :- 1. Principles of Artificial Intelligence by Nils J.Nilsson, Narosa Publishing house. 2. Programming in PROLOG by Clocksin & C.S. Melish, Narosa Publishing house. 3. Rule based Expert Systems-A practical Introduction by M. Sasikumar, S.Ramani, et. al., Narosa Publishing House.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY BHILAI (C.G.) Semester: VIII      Branch: Computer Science & Engg. Subject: Data mining and warehousing  Code: 322832(22) Total Theory Periods: 40     Total Tutorial Periods: 12 Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02 Course objective: • To understand the overall architecture of a data warehouse. • The different data mining models and techniques will be discussed in this course. • Evaluate different models used for OLAP and data pre-processing; • Design and implement systems for data mining and evaluate the performance of different data mining algorithms; • Propose data mining solutions for different applications. • Differentiate Online Transaction Processing and Online Analytical processing
+
+Unit-I: Overview and Concepts: Need for data warehousing, basic elements of data warehousing, Trends in data ware housing. Planning and Requirements: Project planning and management, Collecting the requirements. Architecture And Infrastructure: Architectural components, Infrastructure and metadata.
+
+Unit-II: Data Design And Data Representation: Principles of dimensional modeling, Dimensional modeling advanced topics, data extraction, transformation and loading, data quality.
+
+Unit-III: Information Access and Delivery: Matching information to classes of users, OLAP in data warehouse, Data warehousing and the web. Implementation And Maintenance: Physical design process, data warehouse deployment, growth and maintenance.
+
+Unit-IV: Data Mining: Introduction: Basics of data mining, related concepts, Data mining techniques Data Mining Algorithms: Classification, Clustering, Association rules. Knowledge Discovery: KDD Process.
+
+Unit-V: Web Mining: Web Content Mining, Web Structure Mining, Web Usage mining. Advanced Topics: Spatial mining, Temporal mining. Visualization : Data generalization and summarization-based characterization, Analytical characterization: analysis of attribute relevance, Mining class comparisons: Discriminating between different classes, Mining descriptive statistical measures in large databases Data Mining Primitives, Languages, and System Architectures: Data mining Primitives, Query language, Designing GUI based on a data mining query language, Architectures of data mining systems Application and Trends in Data Mining: Applications, Systems products and research prototypes, Additional themes in data mining, Trends in data mining
+
+Course outcome: After successful completion of this course students will be  • Design a data warehouse for an organization • Develop skills to write queries using DMQL • Extract knowledge using data mining techniques • Adapt to new data mining tools. • Explore recent trends in data mining such as web mining, spatial-temporal mining.
+
+Text Books: 1. Data warehousing- concepts, Techniques, Products and Applications by Prabhu, Prentice hall of India 2. Insight into Data Mining: Theory & Practice by Soman K P, Prentice hall of India. 3. Data Mining Introductory and Advanced Topics by M.H. Dunham, Pearson Education. Name of Reference Books: 1. Data Warehousing Fundamentals by Paulraj Ponniah, John Wiley. 2. Introduction to Data mining with Case Studies by Gupta, PHI. 3. The Data Warehouse Lifecycle toolkit by Ralph Kimball, John Wiley. 4. Introduction to Building the Data warehouse, IBM, PHI.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY BHILAI (C.G.) Semester: VIII      Branch: Computer Science & Engg. Subject: Cyber Security    Code: 322833(22) Total Theory Periods: 40     Total Tutorial Periods: 12 Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course objective: • To Create cyber security awareness and to understand principles of web security • To understand key terms and concepts in cyber law, intellectual property and cyber crimes, trademarks and domain theft. • To make attentive to students about possible hacking and threats in this communication era.  • Discuss Issues for creating Security Policy for a Large Organization. Unit – 1: Cyber Security Fundamentals Security Concepts: Authentication, Authorization, Non-repudiation, Confidentiality, Integrity, availability. Cyber Crimes and Criminals: Definition of cyber-crime, types of cyber-crimes and types of cyber-criminals. Unit – 2: Cyber attacker Techniques and Motivations Anti-forensics: Use of proxies, use of tunneling techniques. Fraud techniques: Phishing and malicious mobile code, Rogue antivirus, Click fraud. Threat Infrastructure: Botnets, Fast Flux and advanced fast flux. Unit – 3: Exploitation Techniques to gain foothold: Shellcode, Buffer overflows, SQL Injection, Race Conditions, DoS Conditions, Brute force and dictionary attacks. Misdirection, Reconnaissance, and Disruption Methods: Cross-Site Scripting (XSS), Social Engineering, WarXing, DNS Amplification Attacks. Unit – 4: Information Technology Act 2000 Overview of IT Act 2000, Amendments and Limitations of IT Act, Electronic Governance, Legal Recognition of Electronic Records, Legal Recognition of Digital Signature, Certifying Authorities, Cyber Crime and Offenses, Network Service Providers Liability, Cyber Regulations Appellate Tribunal, Penalties and Adjudication. Unit – 5: Cyber Law and Related Legislation Patent Law, Trademark Law, Copyright, Software Copyright or Patented, Domain Names and Copyright disputes, Electronic Data Base and its Protection, IT Act and Civil Procedure Code, IT Act and Criminal Procedural Code, Relevant Sections of Indian Evidence Act, Relevant Sections of Bankers Book Evidence Act, Relevant Sections of Indian Penal Code, Relevant Sections of Reserve Bank of India Act, Law Relating To Employees And Internet, Alternative Dispute Resolution, Online Dispute Resolution (ODR).
+
+Course Outcome – • Students will be able to acknowledge about the cybercrime, cyber criminal, and intellectual property rights.  • Encouraging Open Standards.  • Protection and resilience of Critical Information Infrastructure. • To enable effective prevention, investigation and prosecution of cybercrime and enhancement of law enforcement capabilities through appropriate legislative intervention. Text Books 1. Cyber Security Essentials, James Graham et al. CRC Press 2. Cyber Laws: Intellectual property & E Commerce Security, Kumar K. Dominant Publisher Reference Books 1. Cyber Law Text & Cases, Gerald R. Ferrera, Margo E. K. Reder, CENGAGE LEARNING Publication. 2. Ethics in Information Technology, George W. Reynolds, CENGAGE LEARNING Publication. 3. Cyber Laws & IT Protection, Harish Chander, PHI Publication. 4. Ross J. Anderson. Security Engineering: A Guide to Building Dependable Distributed Systems. John Wiley, New York, NY, 2001.  5. Matt Bishop. Computer Security: Art and Science. Addison Wesley, Boston, MA, 2003.   6. Frank Stajano. Security for Ubiquitous Computing. John Wiley, 2002.  7. Online Textbook Materials www.securityplusolc.com
+CHHATTISGARH SWAMI VIVEKANAND TECHNICAL UNIVERSITY, BHILAI (C. G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Artificial Intelligence & Experts Systems Lab Code: 322861(22) Total Practical Periods: 40    Duration of period: 50 minutes     Total Marks in End Semester Exam: 40   Number of Periods per Week: 3
+
+Course Objectives:
+
+Suggested List of Experiments (but should not be limited to):
+
+1. Write a prolog program to find the rules for parent, child, male, female, son, daughter, brother, sister, uncle, aunt, ancestor given the facts about father and wife only. 2. Write a program to find the length of a given list 3. Write a program to find the last element of a given list 4. Write a program to delete the first occurrence and also all occurrences of a particular element in a given list. 5. Write a program to find union and intersection of two given sets represented as lists. 6. Write a program to read a list at a time and write a list at a time using the well defined read & write functions. 7. Write a program given the knowledge base, If x is on the top of y, y supports x. If x is above y and they are touching each other, x is on top of y. A cup is above a book. The cup is touching that book. Convert the following into wff’s, clausal form; Is it possible to deduce that `The book supports the cup’. 8. Write a program given the knowledge base, If Town x is connected to Town y by highway z and bikes are allowed on z, you can get to y from x by bike. If Town x is connected to y by z then y is also connected to x by z. If you can get to town q from p and also to town r from town q, you can get to town r from town p. Town A is connected to Town B by Road 1. Town B is connected to Town C by Road 2. Town A is connected to Town C by Road 3. Town D is connected to Town E by Road 4. Town D is connected to Town B by Road 5. Bikes are allowed on roads 3, 4, 5. Bikes are only either allowed on Road 1 or on Road 2 every day. Convert the following into wff’s, clausal form and deduce that `One can get to town B from town D’. 9. Solve the classical Water Jug problem of AI. 10. Solve the classical Monkey Banana problem of AI. 11. Solve the classical Crypt arithmetic problems such as DONALD + GERALD = ROBERT of AI. 12. Solve the classical Missionary Cannibals problem of AI. 13. Solve the classical Travelling Salesman Problem of AI. 14. Solve the classical Blocks World Problem of AI. 15. Write a program to search any goal given an input graph using AO* algorithm.
+
+List of Equipments/Machine required : (i) PC with Wndows xp (ii) Visual prolog compiler
+
+Recommended Books : 1. Ivan Bratko : Logic & prolog programming. 2. Carl Townsend : Introduction to Turbo Prolog, BPB, Publication. 3. W.F. Clocksin & Mellish : Programming in PRLOG, Narosa Publication House.
+
+
+
+CHHATTISGARH SWAMI VIVEKANAND TECHNICAL UNIVERSITY, BHILAI (C. G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Network Security Lab    Code: 322862(22) Total Practical Periods: 40    Duration of period: 50 minutes     Total Marks in End Semester Exam: 40   Number of Periods per Week: 3
+
+Course Objectives: • To understand the fundamentals of Cryptography through practical implementation. • To implement standard algorithms used to provide confidentiality, integrity and authenticity. • To understand the various key distribution and management schemes. • To understand how to use cutting edge simulation tools • To design security applications in the field of Information technology.
+
+The following exercises are based on the cryptographic algorithms. They can be implemented using C, C++, Java, etc. However the students are advised to use Java cryptographic packages to implement the programs in UNIX environment. Minimum 12 experiments should be performed.
+
+1. Write a C program that contains a string(char pointer) with a value ‘Hello world’. The program should XOR each character in this string with 0 and displays the result. 2. Write a C program that contains a string(char pointer) with a value ‘Hello world’. The program should  a. AND and  b. XOR  Each character in this string with 127 and display the result. 3. Write a Java program to perform encryption and decryption using the following algorithms a. Ceaser cipher b. Substitution cipher c. Hill Cipher 4. Write a C/Java program to implement the 8 bits simplified DES algorithm logic 5. Write a C/Java program to implement the Blowfish algorithm logic. 6. Write the RC4 logic in Java 7. Implement the Euclid Algorithm to generate the GCD of an array of 10 integers in ‘C’. 8. Implement Rabin-Miller Primality Testing Algorithm. 9. Write a Java program to implement RSA algorithm. 10. Implement the Diffie-Hellman Key Exchange mechanism using HTML and JavaScript. 11. Write a Java program to calculate the message digest of a text using the SHA-1 algorithm. 12. Calculate the message digest of a text using the MD5 algorithm in JAVA. 13. Create a digital certificate of your own by using the Java keytool. 14. Write Java program to hide of confidential information within Image using Steganography technique 15. Configure a firewall to block the following for 5 minutes and verify the correctness of this system using the configured parameters: a. Two neighborhood IP addresses on your LAN b. All ICMP requests c. All TCP SYN Packets Course outcome: Students will be able to • Develop programs to implement various encryption and decryption techniques. • Develop programs to implement symmetric and asymmetric key crypto system. • Develop programs to implement message authentication codes, digital signature. • Use the cryptographic packages available in JDK.  
+CHHATTISGARH SWAMI VIVEKANAND TECHNICAL UNIVERSITY, BHILAI (C. G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Software Technology Lab   Code: 322863(22) Total Practical Periods: 40    Duration of period: 50 minutes     Total Marks in End Semester Exam: 40   Number of Periods per Week: 3
+
+Course Objectives: • The objective of this lab is to develop an ability to design and implement static and dynamic website • To learn how to create a simple& advanced web page using html along with the usage of style sheets, lists, creation or tables with borders, padding and colors. • To get acquainted with JavaScript procedures and usage of regular expressions in JavaScript.
+
+Expt-1: Develop and demonstrate a XHTML document that illustrates the use external style sheet, ordered list, table, borders, padding, color, and the <span> tag.
+
+Expt-2: Develop and demonstrate a XHTML file that includes Java script for the following problems: a) Input : A number n obtained using prompt       Output : The first n Fibonacci numbers b) Input : A number n obtained using prompt       Output : A table of numbers from 1 to n and their squares using alert
+
+Expt-3: Develop and demonstrate a XHTML file that includes JavaScript script that uses functions for the following problems: a) Parameter: A string Output: The position in the string of the left-most vowel b) Parameter: A number Output: The number with its digits in the reverse order  Guideline: 1. Declare the script tag as text/javascript in the beginning of the <body> of html program 2. Get the number to be reversed from the user using prompt() 3. Validate input number (should be a positive number between 0 to 9) using the regular expression “/^[0-9]+$/ “ and alert the user for invalid input using alert() 4. Reverse the number using modulus operation. 5. Use math.floor(number/10) to get the floor of number after division (used for reversing) 6. Display the reversed string using alert()
+
+Expt-4(a): Develop and demonstrate, using Java script, a XHTML document that collects the USN ( the valid format is: A digit from 1 to 4 followed by two upper-case characters followed by two digits followed by two upper-case characters followed by three digits; no embedded spaces allowed) of the user. Event handler must be included for the form element that collects this information to validate the input. Messages in the alert windows must be produced when errors are detected. (b): Modify the above program to get the current semester also (restricted to be a number from 1 to 8)
+
+Expt-5: Develop and demonstrate, using JavaScript script, a XHTML document that contains three short paragraphs of text, stacked on top of each other, with only enough of each showing so that the mouse cursor can be placed over some part of them. When the cursor is placed over the exposed part of any paragraph, it should rise to the top to become completely visible.
+
+
+Expt-6: Design an XML document to store information about a student in an engineering college affiliated to CSVTU. • The information must include Enrolment, Univ_Roll, Name, Name of the College, Brach, Year of Joining, and e-mail id.  • Create sample data for 10 students. Create a CSS style sheet and use it to display the document.
+
+Expt-7:  (a) Write a Perl program to display various Server Information like Server Name, ServerSoftware, Server protocol, CGI Revision etc.  (b) Write a Perl program to accept UNIX command from a HTML form and to display the output of the command executed.
+
+Expt-8: Write a Perl program to accept the User Name and display a greeting message randomly chosen from a list of 4 greeting messages.
+
+Expt-9: Write a Perl program to display a digital clock which displays the current time of the server
+
+Expt-10: Write a Perl program to insert name and age information entered by the user into a table created using MySQLand to display the current contents of this table.
+
+EXPT-11: Write a PHP/.Net program to store current date-time in a COOKIE and display the “Last visited on  datetime on the web page upon reopening of the same page.
+
+EXPT-12: Write a PHP/.Net program to store page views count in SESSION, to increment the count on each refresh, and to show the count on web page.
+
+EXPT-13: Create a XHTML form with Name, Address Line 1, Address Line 2, and E-mail text fields. On submitting, store the values in MySQL table. Retrieve and display the data based on Name.
+
+EXPT-14: Using PHP/.Net develop a program to accept book information viz. Accession number, title, authors, edition and publisher from a web page and store the information in a database and to search for a book with the title specified by the user and to display the search results with proper headings.
+
+EXPT-15: Using PHP/.Net Technology develop an online portal of an online Book store. The pages should resemble www.amazon.com the website should consist the following pages. • Home page • Registration and user Login • User Profile Page • Books catalog • Shopping Cart • Payment By credit card • Order Conformation Validate the Registration, user login, user profile and payment by credit card pages using JavaScript.
+
+Course outcome: At the end of the course, students should be able to:  • Design and implement dynamic websites with good aesthetic sense of designing and latest technical knowhow's.  • Have a Good grounding of Web Application Terminologies, Internet Tools, E – Commerce and other web services
+
+
+
+
+CHHATTISGARH SWAMI VIVEKANAND TECHNICAL UNIVERSITY, BHILAI (C. G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Major Project     Code: 322864(22) Total Practical Periods: 7 per week   Duration of period: 50 minutes     Total Marks in End Semester Exam: 100   Number of Periods per Week: 7
+
+Guideline for Allocation of project:
+
+1. Information regarding broad area must be made available to the students well in advance (may be during previous semester). 2. Information must cover following parameters. I. Broad area: Subject or expertise/application area. II. Required skills: Knowledge of subject(s), software, tools & other characteristics. III. Type of project: Hardware, software, design, survey, study based etc. IV. Guide available: Name of Guide (S) from Department & Institute. V. Other related information depending upon specific branch & institute. 3. It is also recommended to give proper counseling to pick up suitable project. 4. Students must get chance to select projects as per their choice or decided mutually between students and department faculty (HoD) concern. 5. One project group must contain maximum four students, however students can do project individually but it should be approved by department. 6. Compiled list of projects must be submitted to the University within 25 days of start of semester. 7. Compiled list may contain following parameters.
+
+Monitoring of project: 1. It is recommended to give projects as per the specializations of existing faculty of the department instead of outside person/agency. 2. Project must be allocated, developed and monitored by department / institution itself, but not by outside agencies. 3. Regular review by guide is recommended to ensure development & contribution of students.
+
+Internal Evaluation & Submission of project: 1. Evaluation of project would be as per the examination scheme of the University, which is based on internal as well as external evaluation. 2. Internal assessment requires submission of project report for getting approved by the concern authority. However printing and binding would be as per the conventional format. 3. Evaluation will be based on live demonstration / presentation and Viva. 4. Final submission of project is expected as, • Submission of a copy to the University, • One copy to the Institution central library, • One copy to the department.
+
+External Evaluation: External assessment of project would be like conduction of practical exams of University, and must be executed as per the norms of practical exams. NOTE: Completion of Project outside the department/Institution should not be encouraged.
+
+
+
+
+
+
+CHHATTISGARH SWAMI VIVEKANAND TECHNICAL UNIVERSITY, BHILAI (C. G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Report writing and Seminar   Code: 322865(22) Total Practical Periods: 28    Duration of period: 50 minutes     Total Marks in End Semester Exam: NIL  Minimum Number of class test to be conducted: Two Teacher's Assessment: 40 marks
+
+Number of Periods per Week: 7
+
+Unit –I: Introduction to Technical Writing: how differs from other types of written communication Purpose of technical writing, Correspondence: prewriting, writing and rewriting Objectives of Technical Writing. Audience Recognition: High-tech audience, Low tech audience, Lay audience, Multiple Audience. Unit – II: Correspondence: Memos, Letters, E-mails, Its differentiation, types of letters, Document Design, its importance, Electronic Communication: Internet, Intranet, extranet, Writing effective e-mail. Unit – III: Summary: Report Strategies, Effective style of technical report writing: Structures: content, introduction, conclusions, references, etc., Presentation, Writing first draft, revising first draft, diagrams, graphs, tables, etc. report lay-out. Unit –IV: Report Writing: Criteria for report writing, Types of Report: Trip report, Progress report, lab report, Feasibility report, project report, incident report, etc. Case Studies. Unit –V: Proposals & Presentation: Title page, Cover letter, Table of Content, list of illustrations, summary, discussion, conclusion, references, glossary, appendix, Case Studies. Oral Presentation/ Seminar:
+
+Text Books: 1. Sharon J. Gerson & Steven M. Gerson "Technical Writing - Process& Product", Pearson Education.
+
+Reference Books: 1. Sunita Mishra, "Communication Skills for Engineers" Pearson Education 2. Davies J.W. "Communication for engineering students", Longman 3. Eisenberg, "Effective Technical Communication", Mc. Graw Hill.
+
+
+
+
+
+
+
+
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: SUPPLY CHAIN MANAGEMENT              Code:  300814(33) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective The objective of this module is to provide the participants with a good knowledge on supply chain management and how these topics can be related with the organization and their business needs.
+Outcomes:  On completion of this program student will know how the Supply chain management is essential to company success and customer satisfaction and also how SCM knowledge and capabilities can be used to support medical missions, conduct disaster relief operations, and handle other types of emergencies. SCM also plays a role in cultural evolution and helps improve our quality of life.
+
+UNIT I FUNDAMENTALS OF SUPPLY CHAIN MANAGEMENT
+Supply chain networks, Integrated supply chain planning, Decision phases in s supply chain, process view of a supply chain, supply chain flows, Overview of supply chain models and modeling systems, Supply chain planning: Strategic, operational and tactical, Understanding supply chain through process mapping and process flow chart.
+UNIT II SCM STRATEGIES, PERFORMANCE
+Supply chain strategies, achieving strategic fit, value chain, Supply chain drivers and obstacles, Strategic Alliances and Outsourcing, purchasing aspects of supply chain, Supply chain  performance measurement: The balanced score card approach, Performance Metrics. Planning demand and supply: Demand forecasting in supply chain, Aggregate planning in supply chain, Predictable variability.
+UNIT III PLANNING AND MANAGING INVENTORIES
+ Introduction to Supply Chain Inventory Management. Inventory theory models: Economic Order Quantity Models, Reorder Point Models and Multiechelon Inventory Systems, Relevant deterministic and stochastic inventory models and Vendor managed inventory models.
+UNIT IV DISTRIBUTION MANAGEMENT
+ Role of transportation in a supply chain - direct shipment, warehousing, cross-docking; push vs. pull systems; transportation decisions (mode selection, fleet size), market channel structure, vehicle routing problem. Facilities decisions in a supply chain. Mathematical foundations of distribution management, Supply chain facility layout and capacity planning,
+UNIT V STRATEGIC COST MANAGEMENT IN SUPPLY CHAIN
+The financial impacts, Volume leveraging and cross docking, global logistics and material positioning, global supplier development, target pricing, cost management enablers, Measuring service levels in supply chains, Customer Satisfaction/Value/Profitability/Differential Advantage.
+REFERENCES 1. David Simchi-Levi, Philip Kaminsky, and Edith Simchi-Levi Designing and Managing the Supply Chain: Concepts, Strategies, and Case Studies, Second Edition, , McGraw-Hill/Irwin, New York, 2003. 31 2. Sunil Chopra and Peter Meindel. Supply Chain Management: Strategy, Planning, and Operation, Prentice Hall of India, 2002. 3. Sunil Chopra & Peter Meindl, Supply Chain Management , Prentice Hall Publisher, 2001 4. Robert Handfield & Ernest Nichols, Introduction to Supply Chain Management , Prentice hall Publishers, 1999.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Biometrics     Code: 300813(33) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective The basic objective in offering this course is to study the state-of-the-art in biometrics technology can explore the way to improve the current technology. The students can learn and implement various biometrics technologies using advanced algorithm.
+Course outcomes:
+On completion of this program student will: 1. Understand the basic definition of ‘Biometric Recognition’ and the distinctive of this form of biometrics. 2. Be able to state precisely what functions these systems perform. 3. Be able to draw a system-level diagram for any biometric system and discuss its components. 4. Be able to solve verification, identification, and synthesis problems for a variety of biometrics such as fingerprint, face, iris, hand gestures and cryptography. 5. Be able to use the biometrics ingredients of existing system to obtain a given security goal. 6. Judge the appropriateness of proposal in research papers for a given applications. 7. Be able to design a biometric solution for a given application.
+
+Unit I: Introduction of Biometrics Biometrics: definition, history, basic working architecture, types; Performance measures of biometrics; applications and benefits of biometrics; design of biometrics; biometric identification versus verification. Unit II:  Face and Iris Biometrics Background of face and iris recognition; Face recognition methods: Eigen face methods, contractive transformation method; Challenges of face biometrics; Design of iris biometrics: image segmentation, image preprocessing, determination of iris region; Advantages and disadvantages of face and iris biometrics. Unit III: Fingerprint and Sign Language Biometrics Fingerprint matching: image acquisition, image enhancement and segmentation, image binarization, minutiae extraction and matching; Sign language biometrics: Indian sign language (ISL) biometrics, SIFT algorithm, advantages and disadvantages of ISL and fingerprint biometrics. Unit IV: Biometric Cryptography and Privacy Enhancement Introduction to biometric cryptography; general purpose cryptosystems; Cryptographic algorithms: DES and RSA; Privacy concerns and issues related to biometrics; biometrics with privacy enhancement; soft biometrics; comparison of various biometrics; Identity and privacy. Unit V: Scope of Biometrics and Biometric Standards Multimodal biometrics: basic architecture and fusion scheme, application, example of AADHAAR; scope and future market of biometrics; role of biometrics in enterprise and border security; DNA biometrics; biometric standards; biometric APIs.  Suggested Books:
+1. Biometrics: concepts and applications by Dr G R Sinha and Sandeep B. Patil, Wiley India Publications, 2013. 2. Introduction to biometrics by Anil K Jain, Arun Ross and Karthik Nandakumar, Springer, 2011. 3. Biometrics Identity verification in a networked world by Samir nanawati, Michael Thieme and Raj Nanawati, US edition of Wiley India, 2012.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Decision Support and Executive Information System               Code: 300854(33) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective 1. To review and clarify the fundamental terms, concepts and theories associated with Decision Support Systems, computerized decision aids, expert systems, group support systems and executive information systems. 2. To examine examples and case studies documenting computer support for organizational decision making, and various planning, analysis and control tasks. 3. To discuss and develop skills in the analysis, design and implementation of computerized Decision Support Systems. Course outcomes: On completion of this program student will: 1. Recognize the relationship between business information needs and decision making  2. Appraise the general nature and range of decision support systems  3. Appraise issues related to the development of DSS 
+
+UNIT-I Decision Support System: What  is  a  DSS,  Decision Making    Rational Decisions, Definitions of Rationality, Bounded Rationality and Muddling Through, The Nature of Managers, Appropriate Data Support, Information Processing Models, Group Decision Making?
+
+UNIT-II Component OF DSS: Data Component : Information and its Usefulness, Characteristics of Information, Databases to Support Decision Making, Database Management Systems, Data Warehouses, Data Mining and Intelligent Agents Model Component-:Models Representation Methodology, TimeModel Based ManagementSystems, Access to Models Understandability of Results, Integrating Models Sensitivity of aDecision, Brainstorming and Alternative Generation, Evaluating Alternatives, Running External Models. Mail Component: Integration of Mail Management Examples of Use implications for DSS.
+
+Unit-III Intelligence and Decision Support Systems: Programming Reasoning, Backward Chaining Reasoning, Forward Chaining Reasoning, Comparison, Certainty Factors,User-Interface Component:User Interface Components, The Action Language, Menus, Command Language, I/O Structured Formats, Free Form Natural Language, The Display or Presentation Language, Windowing Representations, Perceived Ownership of Analyses, Graphs and Bias Support for All Phases of Decision Making, The Knowledge Base Modes of Communication
+
+Unit-IV Designing A DSS:Planning for DSS, Designing a Specific DSS, Interviewing Techniques,OtherTechniques, Situational AnalysisDesign Approaches, Systems Built from Scratch, Using Technology to Form the Basis of the DSS, Evaluating a DSS Generator, Using a DSS Generator,The Design Team, DSS Design and Re-engineering Discussion .
+
+Unit-V Implementation and Evaluation of DSS : Implementation Strategy , Prototypes, Interviewing ,User Involvement , Commitment to Change, Managing Change, Institutionalize System, Implementation and System Evaluation, Technical Appropriateness, Measurement Challenges , Organizational Appropriateness.
+
+
+Name Of Text Books-:
+ Decision Support System By Vicki l Sauter Management Information system-Gerald V. Post & David L. Anderson
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Software Technology    Code: 300855(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective
+• The basic objective in offering this course is to be employed as a practicing engineer in fields such as design, research, development, testing, and manufacturing
+
+
+UNIT-1 ASSEMBLY LANGUAGE PROGRAMMING Pentium Assembly languages-Registers, Memory Model, Addressing mode, 1source Link, Installation, Assembler Directives. ASSEMBLER DESIGN Simple manual Assembler, Assembler Design Process, Load and Go Assembler, Object File Formats.
+
+UNIT-2 LINKERS
+ Linking   -Combining  Object  Modules,  Pass  I,  Pass  II;  Library  Linking;  Position  Independent  Code
+ (PIC); Shared Library Linking. LOADERS- Binary Image; Types of Loaders.
+
+UNIT 3  MACROPROCESSORS
+ Macro in NASM- Local Labels in Macro Body, Nested Macros.; Design of Macroprocessors – Major Data Structures, Macroprocessing Technique, Simple macroprocessors without nesting, Nested calls & definitions
+
+UNIT – 4 COMPILERS Lexical    Analysis;    Syntax    Analysis;    Intermediate    Code    Generation;    Target    Code    Generation;
+ Optimizing Transformation
+
+UNIT – 5 TEXT EDITORS Design of a Text Editor ; Data Structures for Text Sequences; Text Document Design; Text view Design DEBUGGER Features; Breakpoint mechanism; Hardware support; context of Debugger; Check pointing & reverse Execution
+
+
+Outcomes: After successful completion of the course, student will be able to 1. an ability to apply knowledge of mathematics, science, and engineering. 2. an ability to design and conduct experiments, as well as to analyze and interpret data.
+
+Textbooks
+ 1. SYSTEM SOFTWARE by Santanu Chattopadhyay ; Prentice Hall of India
+ 2. Software Engineering By Roger S Pressman ; Mc -Graw Hill
+
+
+References
+ 1. Foundations of Software Technology and Theoretical Computer Science, By V. (Venkatesh) Raman: Springer  2. Software Visualization by John Stasko; MIT press  3. Software Engineering By Rajib Mall : PHI
+
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Bio Informatics                 Code: 300801(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective 1. This course aims to provide students with a practical and hands-on experience with common bioinformatics tools and databases. 2.  Students will be trained in the basic theory and application of programs used for database searching, protein and DNA sequence analysis, prediction of protein function.
+
+UNIT-1
+ Bioinformatics-introduction, Application, Data Bases and Data Management, Central Dogma; information search and Data retrieval, Genome Analysis and Gene mapping- Analysis, Mapping, Human Genome Project (HGP).
+
+UNIT-2
+ Alignment of Pairs and Sequences; Alignment of Multiple Sequences and Phylogenetic Analysis; Tools for similarity Search and Sequence Alignment- FASTA BLAST.
+
+UNIT-3
+ Profiles and Hidden Marcov Models (HMMs); Gene Identification and Prediction-Basics, Pattern Recognition, Methods and Tools; Gene Expression and Micro arrays.
+
+UNIT-4
+ Protein Classification and Structure Visualization; Protein Structure Prediction; Proteomics; Computational methods-Analysis of Pathways, Metabolic Network Properties, Metabolic Control Analysis, Stimulation of Cellular Activities, Biological Mark Up Languages.
+
+UNIT-5
+ Drug Discovery-Introduction, Technology and Strategies, Cell Cycle, G-protein, Coupled, Receptors. Computer Aided Drug Design-Introduction, Drug Design Approaches, Designing methods, ADME-Tox Property Prediction.
+
+Outcomes: After successful completion of the course, student will be able tohave a good working knowledge of basic bioinformatics tools and databases such as GenBank, BLAST, multiple alignment, and phylogenetic tree construction. Further students will understand the basic theory behind these procedures and be able to critically analyze the results of their analysis using such tools.
+
+
+TEXT BOOKS
+
+I. BIOINFORMATICS by S.C. Rastogy, 2nd Edition, Prentice Hall of India. II. BIOINFORMATICS by V. R Srinivas, Prentice Hall of India
+
+REFERENCES
+ 1. BIOINFORMATIC COMPUTING by Bergeron, MIT Press.   2. Evolutionary Computation in Bioinformatics, Gary B. Fogel, David W. Corne (Editors), 2002   3. Introduction to Bioinformatics, Arthur M. Lesk, 2002, Oxford University Press  4. Current Topics in Computational Molecular Biology (Computational Molecular Biology), Tao Jiang, Ying Xu, Michael Zhang (Editors), 2002, MIT Press
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Neural Network and Fuzzy Logic.  Code: 322840(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To provide the student with the basic understanding of neural networks and fuzzy logic fundamentals, Program the related algorithms and Design the required and related systems. • To cater the knowledge of Neural Networks and Fuzzy Logic Control and use these for controlling real time systems.
+
+UNIT-I Introduction to Artificial Neural Networks: Elementary Neurophysiology, Models of a Neuron, Neural Networks viewed as directed graphs, Feedback, from neurons to ANN, Artificial Intelligence and Neural Networks; Network Architectures, Single-layered Feed forward Networks, Multi-layered Feed forward Networks, Recurrent Networks, Topologies.
+
+UNIT-II Learning and Training: Activation and Synaptic Dynamics, Hebbian, Memory based, Competitive, Error-Correction Learning, Credit Assignment Problem: Supervised and Unsupervised learning, Memory models, Stability and Convergence, Recall and Adaptation.
+
+UNIT-III A Survey of Neural Network Models: Single-layered Perceptron – least mean square algorithm, Multi-layered Perceptrons – Back propagation Algorithm, XOR – Problem, The generalized Delta rule, BPN Applications, Adalines and Madalines – Algorithm and applications.
+
+UNIT-IV Applications: Talking Network and Phonetic typewriter: Speech Generation and Speech recognition, Neocognitron – Character Recognition and Handwritten Digit recognition, Pattern Recognition Applications.
+
+UNIT-V Neural Fuzzy Systems: Introduction to Fuzzy sets, operations, relations, Examples of Fuzzy logic, Defuzzification, Fuzzy Associative memories, Fuzziness in neural networks and examples.
+
+Course outcome: • To provide adequate knowledge about concepts of feed forward neural networks and feedback neural networks. • To teach about the concept of fuzziness involved in various systems.  • To provide adequate knowledge about fuzzy set theory. • To provide comprehensive knowledge of fuzzy logic control and adaptive fuzzy logic and to design the fuzzy control using genetic algorithm. • To provide adequate knowledge of application of fuzzy logic control to real time systems.
+
+Text Books: 1. Artificial Neural Networks by B. Yagna Narayan, PHI 2. Neural Networks Fuzzy Logic & Genetic Alogrithms by Rajshekaran & Pai, Prentice Hall Reference Books: 1. Neural Networks by James A. Freeman and David M. Strapetuns, Prentice Hall,. 3. Neural Network & Fuzzy System by Bart Kosko, PHI. 4. Neural Network Design by Hagan Demuth Deale Vikas Publication House
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Distributed Parallel Processing.  Code: 322841(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To develop structural intuition of how the hardware and the software work, starting from simple systems to complex shared resource architectures. • Get a broad understanding of parallel computer architecture and different models for parallel computing. • To learn about strategies for how algorithms that were originally developed for single-processor systems can be converted to run efficiently on parallel computers. • To know about current practical implementations of parallel architectures. • To learn how to design parallel programs and how to evaluate their execution • To understand the characteristics, the benefits and the limitations of parallel systems and distributed infrastructures
+
+UNIT – I: Parallel processing – Definition, Architectures; Programmability- Operating Systems Support, Types of Os, Parallel Programming Models, Software Tools; Data Dependency Analysis; Shared Memory Programming: Thread based Implementation- Management, Example, Attributes Mutual exclusion, Events & condition Variables, Deviation computation UNIT-II: Distributed Computing -I- message passing, general model, programming model, PVM-Process Control, Information, Message Buffers, Signaling, Sending, receiving, Group Operations, Starting PVM, Compiling PVM Application, PVM Console Commands. UNIT-III: Distributed Computing-II- remote procedure call, parameter passing, Locating the server, semantics, security, problem areas, Java Remote method invocation, DCE, Deploying application in DCE, POSIX Thread reference-Creation, Attributes, Termination, Mutual Exclusion primitives, Condition Variables, Cancellations, Specific data Functions. UNIT-IV: Algorithms for parallel machines- Computations, Histogram Computation, Parallel Reduction, Quadrature problem, Matrix Multiplication, Parallel Sorting Algorithms, solving linear systems, probabilistic algorithms. UNIT-V: Parallel programming languages- Sample Problem; Fortran 90; n-CUBE C; Occam; C-Linda. Debugging parallel programming- techniques, message passing, shared memory; Data Flow Computing, Systolic Architecture, functional and logical paradigms, distributed shared memory. Distributed Data Bases- Objectives, Issues, System, Distribution Options Data Base Integrity, Concurrency Control, DDBMS Structure. Distributed Operating Systems-Need, Network Operating Systems, DOS Goals, Design Issues, Amoeba.
+
+Course outcome: On completion of this subject the student is expected to: • Have an understanding of parallel algorithms, analysis and architectures. • Obtain experience developing parallel algorithms for various parallel architectures. • Be able to reason about ways to parallelize a problem and evaluate a parallel platform for a given problem • Become familiar with programming with MPI and Map Reduce/Hadoop
+
+TEXT BOOKS 1. Introduction to Parallel Processing by M. Sasikumar et al- Prentice Hall of India. 2. Parallel Distributed Processing by David E Ramulhat , MIT press
+
+REFERENCE BOOKS 1. Parallel Processing by Rajaraman V - Prentice Hall of India. 2. An Introduction to Distributed and Parallel Processing by John A. Sharp; Alfred Waller Ltd 3. Parallel and Distributed Processing by Rolim, Jose; Springer
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Distributed Multimedia.   Code: 322842(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To understand the systems aspects of creating and deployinginteractive multimedia applications.  • To study the datacoding, streaming multimedia servers, temporal specification languagesand rendering systems required to store and deploy multimediainformation in distributed, networked environments.
+
+Unit-I: Components of Distributed system: Application software, Document store, Image and still video store, Audio and full motion video store, Object directory service agent, Components service agent, User interface service agent. Distributed Client- Server Operation: Clients in distributed work group computing, Database operations, Middleware in distributed work group computing.
+
+Unit-II: Multimedia object server: Types of multimedia server, mass storage for multimedia servers, write once read many optical disks, rewritable optical disks, Optical disk libraries, network topologies for multimedia object servers. Multi server Network topologies: traditional LANs, Extended LANs, High Speed LANs, WANs, Network performance issues.
+
+Unit-III: Distributed Multimedia database: Database organization for multimedia applications, transaction management for multimedia system, managing hypermedia records as objects. Managing distributed object: Inter server communication, object server architecture, object identification, object revision management, optimizing network location of object, object directory services, multimedia object retrieval, database replication techniques, Object migrations schemes, Optimizing object storage.
+
+Unit-IV: System Design Methodology and Considerations Fundamental Design issue, key deliverables, data mining enterprise requirements, technology assessments, Business information model, Examining current architecture and feasibility, Performance analysis: Performance analysis and monitoring, Impact of performance issues on design.
+
+Unit-V: Designing for performance: Storage management, Access management and optimization of storage distribution, Maximizing network transportation, managing system performance. Multimedia system design: System design methodology, designing system object, object oriented multimedia system, designing objects, system design analysis, system extensibility.
+
+Course outcome: End of the course students  • Be familiar with multimedia data types and the conversion between analogue and digital forms. • Have gained experience in the use of multimedia systems and the ability to manipulate multimedia data programmatically. • Have gained an understanding of the issues that arise when multimedia communication is attempted across the Internet. • Understand the issues that arise when designing and building multimedia systems.
+
+Text Books 1.  Multimedia system design Prabhat K.Andleigh, Kiran Thakrar 2.  Multimedia: Computing, Communication and Application by Ralf Steinmetz and Klara Nahrstedt.
+
+Reference Books 1. Data and Computer Communication by William Stallings
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Decision Support System   Code: 322843(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To review and clarify the fundamental terms, concepts and theories associated with Decision Support Systems, computerized decision aids, expert systems, group support systems and executive information systems. • To examine examples and case studies documenting computer support for organizational decision making, and various planning, analysis and control tasks. • To discuss and develop skills in the analysis, design and implementation of computerized Decision Support Systems. • To understand that most Decision Support Systems are designed to support rather than replace decision makers and the consequences of this perspective for designing DSS. • To discuss organizational and social implications of Decision Support Systems.
+
+Unit-I: Overview of different types of decision-making: Strategic, tactical and operational. Consideration of organizational structures. Mapping of databases, MIS, EIS, KBS, expert systems OR modeling systems and simulation, decision analytic systems onto activities within an organization. Extension to other 'non organizational' areas of decision making. Relationship with knowledge management systems
+
+Unit-II: Studies of human cognition in relation to decision making and the assimilation of information. Cultural issues. Implications for design of decision-making support. Communication issues.
+
+Unit –III: Normative, descriptive and prescriptive analysis: requisite modeling. Contrast with recognition primed decision tools.
+
+Unit –IV: Database, MIS, EIS, KBS, Belief nets, data mining. OR modeling tools: simulation and optimization. History, design, implementation: benefits and pitfalls. Risk assessment. Decision analysis and strategic decision support.
+
+Unit –V: Group decision support systems and decision conferencing. Intelligent decision support systems: tools and applications. Cutting-edge decision support technologies. History, design, implementation: benefits and pitfalls. Deliberative e-democracy and e-participation
+
+Course outcome: At the end of the course students will • Recognize the relationship between business information needs and decision making  • Appraise the general nature and range of decision support systems  • Appraise issues related to the Analyse, design, development and implement a DSS  • Select appropriate modeling techniques
+
+Text Books 1. P.R. Kleindorfer, H.C. Kunreuther, P.J.H. Schoemaker , “Decision Sciences: an integration Perspective”,  Cambridge University Press 1993 2. G.M. Marakas, Decision support Systems in the 21st Century, Prentice Hall.
+
+Reference Books 1. E. Turban and J.E. Aronson, Decision support Systems and Intelligent Systems. Prentice Hall 2. V.S.Janakiraman and K.Sarukesi, Decision Support Systems, PHI 3. Efrem G. Mallach, Decision Support and Data Warehouse Systems, tata McGraw-Hill.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Embedded Systems    Code: 322844(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: 1. To introduce students to the modern embedded systems and to show how to understand and program such systems using a concrete platform built around A modern embedded processor like the Intel ATOM.
+
+UNIT I EMBEDDED COMPUTING
+
+Challenges of Embedded Systems – Embedded system design process. Embedded processors – ARM processor – Architecture, ARM and Thumb Instruction sets
+
+UNIT II EMBEDDED C PROGRAMMING
+
+C-looping structures – Register allocation – Function calls – Pointer aliasing – structure arrangement – bit fields – unaligned data and endianness – inline functions and inline assembly – portability issues.
+
+UNIT III OPTIMIZING ASSEMBLY CODE
+
+Profiling and cycle counting – instruction scheduling – Register allocation – conditional execution – looping constructs – bit manipulation – efficient switches – optimized primitives.
+
+UNIT IV PROCESSES AND OPERATING SYSTEMS
+
+Multiple tasks and processes – Context switching – Scheduling policies – Interprocess communication mechanisms – Exception and interrupt handling - Performance issues.
+
+UNIT V EMBEDDED SYSTEM DEVELOPMENT Meeting real time constraints – Multi-state systems and function sequences. Embedded software development tools – Emulators and debuggers. Design methodologies – Case studies – Complete design of example embedded systems. Course outcome: • Describe   the differences between the general computing system and the embedded     system, also recognize the classification of embedded systems.. •  Become aware of  the architecture of  the ATOM processor and its programming aspects (assembly  Level) •  Become aware of interrupts, hyper threading and software optimization. • Design real time embedded systems using the concepts of RTOS. • Analyze various examples of embedded systems based on ATOM processor
+
+
+Text books and Reference books: 1. Andrew N Sloss, D. Symes, C. Wright, “ARM System Developers Guide”, Morgan Kaufmann / Elsevier, 2006. 2. Michael J. Pont, “Embedded C”, Pearson Education , 2007. 3. Wayne Wolf, “Computers as Components: Principles of Embedded Computer System Design”, Morgan Kaufmann / Elsevier, 2nd. edition, 2008. 4. Steve Heath, “Embedded System Design” , Elsevier, 2nd. edition, 2003.
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Real Time Systems    Code: 322845(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02 Course Objective: • To study real-time computer control systems and their implementation techniques. • Provide examples of real-time systems including functionality and implementation platforms. • Describe and exemplify design parameters for real-time systems including execution time, implementation, communication & user interface. • Study a range of methodologies for specifying and designing real time systems. • Understand hardware and software design and implementation of real-time systems • Describe and apply systems engineering methods and techniques in the design and analysis of real-time systems. Unit-I: Basic Real- Time Concepts, Computer Hardware, Language Issues: Basic component Architecture, terminology, Real Time Design Issues, CPU, Memories, Input- Output, Other Devices Language Features, Survey of Commonly Used Programming Languages, Code Generation Unit-II: Software life cycle, Real Time Specification and Design Techniques, Real Time Kernels: Phases of software life cycle, Non-temporal Transition in the software life cycle, Spiral model, Natural languages, Mathematical Specification, Flow Charts, Structure Charts, Pseudocode and programmable Design Languages, Finite state Automata, Data Flow Diagrams, Petrinets, Statecharts, Polled Loop Systems, phase/State Driven Code, Coroutines, Interrupt Driven System, Foreground/Background Systems Full Featured Real Time OS Unit-III: Intertask Communication and Synchronization, Real Time memory Management, System Performance Analysis and Optimization: Buffering Data, Mail boxes Critical Region, Semaphores, Event Flags and Signals, Deadlock, Process Stack Management, Dynamic Allocation, Static Schemes, Response Time Calculation, Interuupt Latency, Time Loading and its Measurement, Scheduling NP Complete, Relocating Response Times And time Loading, Analysis of Memory Requirements, Reducing Memory Loading, I/O Performance. Unit-IV: Queuing Models, Reliability, Testing, And Fault Tolerance, Multiprocessing Systems: Basic Buffer size Calculation, Classical Queuing Theory, Little’s Law, Faults, Failures ,bugs AND effects. Reliability, Testing, Fault Tolerence, Classification of Architectures, Distributed Systems, Non Von Neumann Architectures. Unit-V: Hardware/ Software Integration, Real Time Applications: Goals of Real Time System Integration, Tools, Methodology, The Software Hesisenberg Uncertainity Principle, Real Time Systems As Complex System, First Real Time Application Real Time Databases, Real time Image Processing Real Time UNIX, building Real Time Applications with Real Time Programming Languages. Course outcome: • Clearly differentiate the different issues that arise in designing soft and hard real-time, concurrent, reactive, safety-critical and embedded systems. • Explain the various concepts of time that arise in real-time systems. • Describe the design and implementation of systems that support real-time applications. Justify and critique facilities provided by real-time operating systems and networks. • Design, construct and analyze a small, concurrent, reactive, real-time system. • Select and use appropriate engineering techniques, and explain the effect of your design decisions on the behavior of the system. Text Books : 1. Real Time System, Jane W.S.Liu 2. Real Time Systems Design and Analysis by Phillip A. Laplante,PHI Reference Books: 1 Hard Real Time Computing Systems Predictable Scheduling Algorithms and applications by Giorgio C. Buttazzo 2 Real Time Design Patterns: Robust Scalable Architecture for Real Time System by BrucePowel Douglass  3. Real Time System: Scheduling, Analysis and Verification by Albert M.K. Change
+
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Pattern recognition     Code: 322846(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To provide the quintessential tools to a practicing engineer faced with everyday signal processing classification and data mining problems.  • To the theoretical concepts and practical issues associated with pattern recognition.
+
+UNIT 1: Introduction; Probability-Probability of events, Random Variables, Joint distributions and density , Moments of Random Variables, estimation, Minimum Risk Estimator.; Matrix Algebra –Eigenvalues & Eigen Vectors.
+
+UNIT 2: Statistical Decision Making-Bayes’ Theorem, Multiple features, Conditional independent features, Decision boundaries, Unequal cost of errors, Leaving-one-out technique, Characteristics curves Nonparametric Decision making-Histograms, Kernel & window estimation, Nearest neighbor Classification technique, Adaptive Decision boundaries & Discriminant Function, choosing a decision making Technique; Clustering.
+
+UNIT 3: Artificial Neural Networks-Introduction, Nets without hidden layers, Nets with hidden layers, The BackPropagation Algorithm, Hopfield Nets, Classifying Sex from facial Images. Pattern recognition using SAS.
+
+UNIT 4: Processing of Waveforms and Images-Introduction, Gray level scaling Transformation, Equalization, Interpolation, Edge detection, Line detection & Template Matching, The Statistical Significance of Image Features.
+
+UNIT 5: Image Analysis-Scene segmentation & labeling, Counting Objects, Perimeter measurement, Representing boundaries, Projection, Hough transformation, shapes of regions, texture, color, system design, the classification of white blood cell, Image Sequence Computer Vision.
+
+Course outcome: At the end of the course students will be able to;  • Formulate and describe various applications in pattern recognition • Understand the Bayesian approach to pattern recognition  • Mathematically derive, construct, and utilize Bayesian-based classifiers, and non-Bayesian classifiers both theoretically and practically. • Understand basic concepts such as the central limit theorem, the curse of dimensionality, the bias-variance dilemma, and cross-validation • validate and assess different clustering techniques
+
+Text Books:   1. Pattern Recognition and Image Analysis, by Earl Gose ; Prentice Hall of India 2. M. I. Schlesinger, V. Hlavác, Ten Lectures on Statistical and Structural Pattern Recognition, Kluwer Academic Publishers.
+
+Reference books: 1.  S. Theodoridis, K. Koutroumbas, Pattern recognition, Academic Press. 2.  J. Sklanski and G.N. Wassel, Pattern Classifiers and Trainable Machines, Springer, New York 3 . Foryth , Computer Vision, PHI
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Internet and Multimedia Technology            Code: 322847(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To understand the technical details of common multimedia data formats, protocols, and compression techniques of digital images, video and audio content. • To understand the technical details of JPEG and MPEG families of standards. • To understand the principles and technical details of several wired and wireless networking protocols. • To understand and describe technical aspects of popular multimedia web applications including VoD and VoIP.
+
+UNIT-I: Theory of Internet:- Introduction, Evolution of Internet, Internet applications, Internet Protocol: TCP/IP, Protocol, Versions, Class full addressing, IP data gram, ICMP & IGMP. Functions of ARP and RARP, User Data gram Protocol (UDP), Transmission Control Protocol (TCP): Flow-Control, Error-Control. Internet Security & Firewalls. UNIT-III Bounded Media for Internet :- Cable media, Telephone network, ISDN: Overview, Interfaces & functions, Physical Layer, Data Link Layer, Network Layer Services, Signaling System Number 7. ATM & BISDN: Introduction Services & Applications, Principles & building blocks of B-ISDN, DIAS network. UNIT-III Un-Bounded Media for Internet:- Wireless media : Components and working of Wireless network, IEEE 802.11 standards and WLAN types, Ad-hoc networks, MACAW Protocol. Features and Goals of Bluetooth, Bluetooth products and security, TCP Over Wireless & Ipv6 : Mobile IP, support of Mobility on the Internet, Mobile TCP, Traffic Routing in Wireless Networks, Circuit switched Data Services, Packet switched Data services. WLL Architecture, WLL Technologies and frequency spectrum, Local Multipoint Distribution Service (LMDS), Ultra Wideband Technology. UNIT-IV Introduction to Multimedia:- Concept of Non-Temporal and Temporal Media. Hypertext and Hypermedia. Presentations: Synchronization, Events, Scripts and Interactivity, Compression Techniques: Basic concepts of Compression. Still Image Compression.: JPEG Compression., Features of JPEG2000. Video Compression: MPEG- 1&2 Compression Schemes, MPEG-4 Natural Video Compression. Audio Compression: Introduction to speech and Audio Compression, MP3 Compression Scheme. Compression of synthetic graphical objects. UNIT-V Multimedia Systems Technology: Architecture for Multimedia Support: Multimedia PC/Workstation Architecture, Characteristics of MMX instruction set, I/O systems: IEEE 1394 interface, Operating System Support for Multimedia Data: Resource Scheduling with real time considerations, File System, I/O Device Management. Multimedia Information Management: Multimedia Database Design, Content Based Information Retrieval: Image Retrieval, Video Retrieval, Overview of MPEG-7, Design of Video-ondemand systems.
+
+Course outcome: After successfully completing this course, students will be able  • To develop a thorough understanding of the major aspects of multimedia data representation and multimedia content delivery platforms.  • Proper evaluate, develop, and enhance the distributed multimedia applications Text Books:- 1.  TCP/IP Protocol Suite By Behrouz A. Forouzan. TMH. 2.  Multimedia Concept & Practice, Hartman & Carey, PHI Reference Books:- 1. Multimedia Technology, TAY Vaughan, McGraw-Hill 2. Virtual Reality Systems, John Vince, Addison Wesley 3. ATM Network by Rainer Handel, Manfred N Huber Stijan Schoder, LPE.
+
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Software Testing    Code: 322848(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • To study software testing objectives, process, criteria, strategies, and methods. • To study various software testing issues and solutions in software unit, integration, regression, and system testing. • To study planning of a test project, design test cases, conduction of testing operations, generation of a test report. • To understand automation testing process, its problems and solutions.
+
+Unit-I: Quality Revolution, Software Quality, Role of Testing, Objectives of Testing, Concept of Complete Testing,  Central Issue of Testing, Sources of Information for Test Case selection, Test Planning and Design, Monitoring and Measuring Test Execution, Test Tools and Automation, Test Team Organization and Management.
+
+Unit-II: Basic Concepts of Testing Theory, Theory of Goodenough and Gerhart, Theory of Weyuker and Ostrand, Theory of Gourlay, Adequacy of Testing, Limitations of Testing, Static Unit Testing, Defect Prevention, Dynamic Unit Testing, Debugging.
+
+Unit-III: Outline of Control Flow Testing, Control Flow Graph, Paths in Control Flow Graphs, Path Selection Criteria, Data Flow Testing criteria, Comparison of Data Flow and Test Selection Criteria, Domain Error, Testing of Domain Errors.
+
+Unit-IV: System Test design, Test design Factors, Requirement Identification, Test Objective Identification, Structure of a System Test Plan, Assumptions, Test Approach, Test Suite Structure, Types of Acceptance Testing
+
+Unit-V: Five Views of Software Quality, Quality Control, Quality assurance, Cost of quality, Software Quality Assurance, SQA Plan, ISO 9000, Capability Maturity Model, McCall s Quality Factors.
+
+Course outcome: After successful completion of the course, students will be • To design and conduct a software test process for a software testing project. • To identify various software testing problems, and solve these problems by designing and selecting software test models, criteria, strategies, and methods. • To use software testing methods and modern software testing tools for their testing projects.
+
+Text Books 1. Kshirasagar Naik, “Software Testing and Quality Assurance”, John Wiley & Sons. 2. William Perry, “Effective Methods for Software Testing”, John Wiley & Sons.
+
+Reference Books 1. Cem Kaner and Jack Falk, “Testing Computer Software”, Wiley. 2. Ron Patton, “Software Testing”, SAMS Publications.
+
+
+
+
+
+
+
+CHHATTISGARH SWAMI VIVEKANAD TECHNICAL UNIVERSITY, BHILAI (C.G.)
+
+Semester: VIII      Branch: Computer Science & Engg. Subject: Wireless Networks    Code: 322849(22) Total Theory Periods: 50     Total Tutorial Periods: NIL Total Marks in End Semester Exam: 80  Minimum number of CT to be conducted: 02
+
+Course Objective: • Understand the architecture and applications of current and next generation wireless networks: Cellular, WLANs, sensor networks, mobile ad-hoc networks and intermittently connected mobile networks. • Learn how to design and analyze various medium access and resource allocation techniques wireless networks. • Learn to design and analyze transport layer protocols, with an emphasis on congestion control, including TCP over wireless, congestion sharing mechanisms, explicit and precise rate control, utility optimization-based approaches, and backpressure-based utility optimization. UNIT-1 Wireless Communication Standard-First, Second and Third Generation Wireless Communication Network, Coverage Extension, Types; Characterization of Wireless Channels- multipath Propagation, Linear Time Variant, Channel Model, Channel Correlation Function, Large Scale Path Loss and Shadowing, Fading. UNIT-2 Bandpass Transmission Technique for Mobile Radio- Signal Space and Decision Region, Digital ModulationMPSK, MSK, GMSK,OFDA, Power Spectral Density, Probability of Transmission Error; Receiver Technique for Fading Dispersive Channels. UNIT-3 CELLULAR COMMUNICATION-Frequency reuse and mobility Management, Cell Cluster Concept, Co Channel and Adjacent Channel Interference, Call Blocking and Delay at Cell Site, Cell Splitting, Sectoring; UNIT-4 Multiple Access Technique, Random Access, Carrier Sense Multiple Access( CSMA), Conflict Free Multiple Access Technology and Spectral Efficiency-FDMA, TDMA, CDMA; Mobility management and In wireless network-CAC, Handoff Management, Location Management for Cellular Network and PCS network, Traffic calculation. UNIT-5 Wireless Internetworking-Mobile IP , Internet Protocol (IP), Transmission Control Protocol (TCP), Network Performance, Wireless Application Protocol(WAP) , Mobile AD HOC Network
+
+Course outcome: • Have knowledge and understanding of basic mobile network architecture • Have knowledge and understanding of some basic technologies that are in use • Be able to make critical assessment of mobile systems • Be able to analyze and propose broad solutions for a range of mobile scenarios
+
+Text Books: 1. WIRELESS COMUNICATION & NETWORKING by Mark & Zuang , PHI 2. Wireless Communications And Networks, WILLIAM STALLINGS , PHI
+
+Reference Books: 1. Wireless Network Performance Handbook , by SMITH , McGraw- Hill 2. Principles Of Wireless Networks, By PAHLAVAN , PHI
+

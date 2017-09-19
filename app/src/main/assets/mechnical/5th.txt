@@ -1,0 +1,274 @@
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Branch: Mechanical Engineering/Mechatronics Engineering Semester:  V Subject: Machine Design I Code:  337551(37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Four Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Note:  Design data book by PSG and ISI data sheets are allowed in the examination.
+
+Course Objectives: • To choose proper materials to different machine elements depending on their physical and mechanical properties.  • To design and analyze basic elements of machine e.g. key, shaft and axle. • To design and analyze various type of joints for members with axial load • To design and analyze couplings and clutches for members in  torsion • To design and analyze threaded fastener and power screws • To design and analyze riveted and welded joint
+
+Course outcomes: • Apply knowledge of machine design for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts in the design and development of mechanical systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering in general and mechanical engineering in particular. • Identify, analyze, and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+UNIT I General Considerations: Selection of Materials, Design Stress, Factor of Safety, Stress concentration factor in tension, bending and torsion, theories of failures. Notch sensitivity, design stress for variable and repeated loads, fatigue stress concentration factor, endurance diagrams. UNIT II Basic Elements Design: Design of socket-spigot cotter joint, sleeve and cotter joint, design of Knuckle joint. Keys and Couplings: Types of keys, design of keys, design of splines. Types of couplings, design of flange and flexible couplings, compression coupling, muff coupling. UNIT III Shafts and Axles: Transmission shaft, Design against static load, Design for strength, rigidity and stiffness, design under continuous loading for fatigue. Clutches: Friction clutches, Friction materials, Torque transmitting capacity, Single & Multiple plate clutch, centrifugal clutches. UNIT IV Threaded fasteners: Geometry of thread forms, terminology of screw threads and thread standards, specifications of steel bolts, initial tension, and relation between bolt tension and torque, design of statically loaded tension joints, design of bolted joints due to eccentric loading. Power Screws: Power screws, Force analysis-square and trapezoidal threads, Collar friction, Stresses in screw, coefficient of friction, efficiency of thread. UNIT V Riveted Joints: Types of rivet heads, types of riveted joints, failure of riveted joint, strength of rivet joint, efficiency of riveted joint, design of riveted joint for boiler. Welded joints: Types of welded joints, stresses in butt and fillet welds, strength of welded joints, location and dimension of weld design, eccentrically loaded joint, welded joint subjected to bending moment, design procedure, fillet welds under varying loads, stress relieving techniques.
+
+TEXT BOOKS: 1. Design of Machine Elements- V.B.Bhandari - TMH, New Delhi 2. Mechanical Engineering Design - Shigley – McGraw Hill, Delhi
+
+REFERENCE BOOKS: 1. Machine Design - Movnin – MIR Publishers,Moscow 2. Machine Design - Fundamental & Application – Gope –PHI, New Delhi 3. Machine Design - Sharma &Agrawal – Katson, New Delhi 4. Principles of Mechanical Design - R. Phelan – McGraw Hill, New Delhi. 5. Machine Design – Sundarajamoorthy&Shanmugum– Anuradha Agencies, Chennai
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Branch: Mechanical Engineering Semester:  V Subject: Turbo Machinery Code:  337552(37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Four Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28 Note: Steam tables are allowed in the Examination
+
+Course Objectives  • To study classifications of turbo-machines.  • To  study construction and working of different turbo- machines To acquire the knowledge and skill of analyzing different turbo- machines
+
+Course Outcomes: 1. Apply knowledge of turbo machinery for understanding, formulating and solving engineering problems. 2. Acquire knowledge and hands-on competence in the design and development of mechanical systems. 3. Identify, analysis, and solve mechanical engineering problems useful to the society. 4. Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+UNIT I Impulse Turbine: Steam turbine – Principal of operation of steam turbine, types of impulse turbine, compounding of steam turbine-pressure compounded, velocity compounded and pressure velocity compounded impulse turbine. Velocity diagram for impulse turbine, force on the blade and work done.  Blade or diagram efficiency, axial thrust, gross stage efficiency.  Influence of ratio of blade velocity to steam velocity on blade efficiency in a single stage impulse turbine.  Efficiency of multi-stage turbine. Impulse blade sections, choice of blade angle.  Blade height in velocity compounded impulse turbine. UNIT II Impulse Reaction Turbine: Velocity diagram, degree of reaction, impulse-reaction turbine with similar blade section and half degree of reaction.  (Parson’s turbine) Height of reaction turbine blading ,Losses in steam turbine ,Internal losses-throttling losses, ,Nozzle friction losses, blade friction losses, disc friction losses, blade windage losses or partial admission losses, leakage or clearance losses, loss due to wetness of steam, carry-over  loss. , residual loss, radiation loss, external losses-Mechanical friction and bearing losses. UNIT III State Point Locus and Reheat Factor: Stage efficiency of impulse turbines, stage point locus of an impulse turbine, state point locus for multistage turbine, reheat factor. Internal efficiency, overall efficiency, relative efficiency, Governing of steam turbine.Throttle governing, nozzle governing, bypass governing, combination of throttle and nozzle, governing and combination of bypass and throttle governing. Effect of governing on the performance of steam turbine. UNIT IV Gas Turbine: Classification of gas turbine. Applications, Simple open cycle gas turbine, Ideal and actual cycle  for gas turbine, polytropic or small stage efficiency, cycle air rate, cycle work ratio, Optimum pressure ratio for maximum specific output in actual gas turbine ,optimum pressure ratio for maximum cycle thermal efficiency, means of improving the efficiency and specific output. Open cycle gas turbine with regeneration, reheat and inter cooling and effect of these modification on efficiency and output. Closed cycle gas turbine. UNIT V Turbo Compressors: Introduction, classifications of Centrifugal compressors – components, working, velocity diagrams, calculations of power and efficiencies. Slip factor, surging and choking, power and efficiencies. Axial Flow Compressor: Construction and working, velocity diagram, calculation of power and efficiencies. Degree of reaction, work done factor, stalling, comparison of centrifugal and axial flow compressor.
+
+
+TEXT BOOKS  1. Steam and Gas Turbine and Power Plant Engineering-R. Yadav  - Central Publishing House, Allahabad 2. Turbine, Compressors and Fan- S.M. Yahya  - TMH, Delhi
+
+REFERENCE BOOKS 1. Gas Turbine – V. Ganeshan – TMH, Delhi 2. Fundamental Of Compressible Flow- S.M. Yahya  - TMH, Delhi 3. Gas Dynamics with Application:  S.K. Kulshrestha 4. Fundamentals Of Compressible Fluid Dynamics- P.Balachandran- PHI, Delhi 5. Fundamental of Gas Dynamics-K.L.Yadao-Khanna Publications,Delhi
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Branch: Mechanical Engineering/Mechatronics Engineering Semester:  V Subject: Dynamics of Machines Code:  337553 (37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Course Objectives: • To study  types of mechanical governors and to analyze its performance parameters • To Apply the theory of balancing to rotating and reciprocating masses. • To analyze gyro-effect on moving bodies • To understand the concepts of mechanical vibration   • To perform inertia force analysis of machine elements  • To  draw turning moment diagram of reciprocating engines • To analyze performance parameters flywheel
+
+Course Outcome • Apply knowledge of Dynamics of machine for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts Dynamics of machine in the design and development of mechanical systems. • Demonstrate creativeness in designing new systems components and processes in the field of engineering • Identify, analyze and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary designs.
+
+UNIT I Governors: Characteristics of centrifugal governors, Gravity controlled governors, Porter and proell. Spring controlled centrifugal governor: Hartung, &Hartnell governor. Performance parameter: Sensitivity, stability, Isochronisms, Governor Effort and power.
+
+UNIT II Balancing: Balancing of rotating masses, Static and dynamic balancing, Determination of balancing masses in two plane balancing, Balancing of internal combustion engines, Balancing of in-line engines, Firing order, Balancing of V-twin and radial engines, Forward and reverse crank method, Balancing of rotors.
+
+UNIT III Gyroscope: Gyroscopic forces and couple, gyroscopic effect in Airplanes, Ship motion and Vehicles moving on curved path.
+
+UNIT IV Mechanical Vibrations: One-dimensional, longitudinal, Transverse, and torsional vibrations, Natural frequency, Effect of damping on vibrations, Different types of damping.Forced vibration, Forces and displacement, Transmissibility, Vibration Isolation, Vibration sensors: seismometer and Accelerometers, Whirling of shafts with single rotor.
+
+UNIT V (a) Inertia force analysis: Effective force and inertia force on link, Inertia force on reciprocating engine. Inertia force in four bar chain mechanism. (b)Turning moment diagram and flywheel: Turning moment diagram for single and multi cylinder internal combustion engine, Coefficient of fluctuation of speed, Coefficient of fluctuation of energy, Flywheel.
+
+
+TEXT BOOKS 1. Theory of Machine- S.S.Rattan - Tata McGraw Hill,New Delhi 2. Theory of Machines - Thomas Bevan, - CBS/ Cengage Publishers
+
+REFERENCE BOOKS 1. Theory of Machines and Mechanism– Uicker, Pennock, &Shigley – Oxford Univ. Press 2. Theory of Mechanisms and Machines- A. Ghosh, A. K. Mallik – EWP Press. 3. Mechanism and Machine theory-Ambekar-PHI,Delhi 4. Theory of Machine – P.L. Ballaney – Khanna Publishers, New Delhi  5. Theory of Machine -JagdishLal- Metro Politan Books, New Delhi
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Branch: Mechanical Engineering Semester:  V Subject: Fluid Machinery Code:  337554 (37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Course Objectives:  • To understand  boundary layer theory • To formulate basic equations for impact of free jets • To understand construction and working and performance of various Turbines   • To understand construction and working  & performance of various Pumps • To solve and analyze a variety of fluid mechanics and fluid machinery related problems.
+
+Course Outcomes: • Apply knowledge of fluid mechanics and fluid machinery for understanding, formulating and solving engineering problems. • Acquire knowledge and hands-on competence in applying the concepts of fluid mechanics and fluid machinery in the design and development of mechanical systems. • Identify, analysis, and solve mechanical engineering problems useful to the society. • Work effectively with engineering and science teams as well as with multidisciplinary designs. Skillfully use modern engineering tools and techniques for mechanical engineering design, analysis and application.
+
+UNIT I Boundary Layer Theory : Boundary layer definition and characteristics, momentum equation, Laminar and turbulent boundary Layer, Total drag, separation and control. Flow around submerge bodies Force exerted by flowing fluid on a body:  Drag and lift; stream lined and bluff body, Drag on sphere and cylinder, circulation and lift on circular cylinder, lift of an air foil, induced drag.
+
+UNIT II Impact of Free Jets: Impulse momentum principle, force exerted by the jet on stationary flat and curved plate, hinged plate, moving plate and moving curve vanes, jet propulsion of ship.  Impulse Turbine: Classification of turbine, impulse turbine, Pelton wheel,  Construction working, work done, head efficiency and Design aspects, Governing of impulse turbine.
+
+UNIT III Reaction Turbine : Radial flow reaction turbine, Francis turbine: construction, working, work done, efficiency, design aspect, advantages & disadvantages over Pelton wheel. Axial flow reaction turbine Propeller and Kaplan turbine, bulb or tubular turbine, draft tube, specific speed, unit quantities, cavitation, degree of reaction, performance characteristics, surge tanks, governing of reaction turbine.
+
+UNIT IV Centrifugal Pumps  : Classification of Pumps, Centrifugal pump, Construction, working, work done, heads, efficiencies, multistage centrifugal pump, pump in series and parallel, specific speed, characteristic, net positive suction head, cavitation.
+
+UNIT V Reciprocating Pumps: Classification, component and working, single acting and double acting pump, discharge, work-done and power required, slip & coefficient of discharge, indicator diagram, air vessels.
+
+
+TEXT BOOKS: 1. Fluid Mechanics and Fluid Power Engineering – D.S. Kumar– Kataria & Sons -Delhi  2. Fluid Mechanics- Yunush A Cengel, John M. Cimbala- TMH, Delhi
+
+REFERENCES BOOKS: 1. A text of Fluid Mechanics – R. K. Rajput –  S. Chand & Company Ltd., Delhi 2. Fluid Mechanics & Hydraulics Machines-R.K.Bansal- Laxmi Publications, Delhi 3. Mechanics of Fluid – B.S. Massey – English Language Book Society (U.K.) 4. Introduction to Fluid Mechanics and Fluid Machines – S.K. Som and G. Biswas- TMH, Delhi 5. Hydraulics and Fluid Mechanics Including Hydraulic Machine- PN Modi, & SM Seth-Standard, Delhi 6. Hydraulic Machines: Fundamentals of Hydraulic Power Systems – P. Kumar – BSP Books Pvt, Ltd., Hyderabad
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Mechanical Engineering Semester:  V Subject: Manufacturing Science - II Code:  337555 (37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Course Objectives:  • To understand grinding and other surface finishing operations.  • To understand various non conventional machining processes and their applications.  • To get knowledge of various metal forming processes. • To understand principle of sheet metal forming operations • To understand the process of Gear Shaping and Gear Hobbing. • To understand the design considerations of Jigs and Fixtures.
+
+Course Outcomes:  • Acquire knowledge and hands on competence in applying concept of manufacturing science in design and development of mechanical and other engineering systems.  • Skillfully use modem engineering tools and techniques for mechanical engineering design, analysis and application.  • Demonstrate creativeness in designing new system components and processes in the field of engineering in general and mechanical engineering in particular.   • Work effectively with engineering and science teams as well as with multidisciplinary design.
+
+UNIT I Grinding : Processes. Grinding wheels, compositions- abrasives, bonding materials. Grinding wheel characteristics-abrasive type, grain size, bonding material, structure, and grade. Wheel specification and selection. Wheel life. Types of grinding operations, design consideration for grinding, specification of grinding wheel, process parameters, economics of grinding.  Surface finishing operations: Honing, lapping, super finishing, polishing, buffing, process parameters and attainable grades of surface finish. UNIT II Unconventional Machining: Advantages, application and limitation, Processes- Electro Discharge Machining (EDM), Electro Chemical Machining (ECM), Ultrasonic Machining (USM), Abrasive Jet Machining  (AJM), Electron Beam Machining (EBM), Laser Beam Machining (LBM), Electro Chemical grinding(ECG) .Mechanics of metal removal, tooling, equipment, process parameters and surface finish obtained & specific applications. UNIT III Introduction to metal forming: Classification, Hot and Cold working. Forging:  Principle. Forging operations, drawing out and upsetting. Types of forging method-smith, drop, press and machine forging. Forging equipment. Forging dies. Tools and fixture of forging, forging dies. Forging design, Forging designs factors. Drop forging die design, Upset forging die design. Forging practice – sequence of steps. Forging defects. Inspection and testing of forged parts.  Extrusion: Principle, extrusion processes-hot extrusion, cold extrusions. Process parameters. Extrusion equipment. Extrusion of seamless tubes. Extrusion defects.  UNIT IV Rolling : Principle, classification of rolled products, Types of rolling mills, rolling mill train components, Roll pass sequences-break down passes, roughing passes, finishing passes. Roll passes design for continuous mill. Roll separating force. Rolling load calculation. Power required in rolling. Effect of front and back tensions. Effect of friction. Shape rolling operations-ring rolling, thread rolling. Defects in rolled products. Drawing: Principle. Wire drawing, tube drawing. Drawing equipments and dies. Calculation of drawing load and power requirement  UNIT V Sheet metal forming Types of presses: Selection of press, components of a simple press, press working operations – shear, bending. Shearing operations: Blanking, piercing, trimming, shaving, nibbling and notching .Calculation of punching force and shear force. Punch and die size calculation. Drawing operation: Principle of operation. Draw die design. Bending operation: Principle of operation. Bend allowances. Bending force. Length of sheet estimation. Bend radius. Spring back effect. Other operation: Spinning. Stretch forming, Embossing and Coining.
+
+
+TEXT BOOKS:  1. Manufacturing Technology (Vol. - I & II) – P.N. Rao – Tata McGraw Hill Pub. Company, New Delhi  2. A Text Book of Production Technology (Manufacturing Processes)  – P.C. Sharma – S. Chand and Company Ltd., New Delhi
+
+REFERENCE BOOKS:  1. Manufacturing Engineering and Technology – S. Kalpakjian & S.R. Schmid – Addision Wesley Longman, New Delhi  2. Tool Engineering & Design – G.R. Nagpal – Khanna Publishers – New Delhi  3. A Text Book of Production Technology – O.P. Khanna – Dhanpat Rai & Sons, New Delhi  4. Manufacturing Science – A. Ghosh & A.K. Mallik – East  West Press Pvt. Ltd., New Delhi  5. Production Technology – R.K. Jain – Khanna Publishers,  New Delhi
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Mechanical Engineering Semester:  V Subject: Operation Research Code:  337556 (37) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+
+
+
+Course Objectives:  • Understand definition, scope, objectives, phases, models & limitations of operations research. • To understand different application areas of operations research like transportation problem, assignment model, sequencing models, dynamic programming, game theory, replacement models & inventory models
+
+Course Outcomes: • Identify and develop operational research models from the verbal description of the real system.  • Understand the mathematical tools that are needed to solve optimization problems.  • Use mathematical software to solve the proposed models.  • Develop a report that describes the model and the solving technique, analyze the results and propose recommendations in language understandable to the decision-making processes in Management Engineering. •  A student will   be   able   use   knowledge   of operations research to solve transportation problems, assignment problems, sequencing problems, dynamic programming & game theory.
+
+UNIT I Introduction: Various stages of O.R., Fields of application, optimization and its classification. General Linear Programming Problems- Introduction, maximization and minimization of function with or without constraints, formulation of a linear programming problem, graphical method and simplex method, Big M method degeneracy, application of L.P.P. in Mechanical Engineering.
+
+UNIT II The Transportation Problems: Mathematical formulation computational procedures, Stepping stone method, Modified Distribution Method, Vogels Approximation Method, Solution of balanced and unbalanced transportation problems and case of Degeneracy. The Assignment Problems: Mathematical formulation of assignment problems, solution of assignment problems, traveling salesman problems, Air crew Assignment problems.
+
+UNIT III Waiting Line Theory: Basic queuing process, basic structure of queuing models, some commonly known queuing situations Kendall’s service time, solution to M/M/1: ∞ /FCFS models. Network Analysis: CPM/PERT, Network Representation, Techniques for drawing network. Resource smoothing and leveling, project cost, Optimum project duration, project crashing, updating, Time estimation in PERT.
+
+UNIT IV Game Theory: Introduction, two person zero sum game, methods for solving two person zero sum game: when saddle point exists, when no saddle point exists, solution of 2xn and mx2 game. Simulation: Basic concept of simulation, applications of simulation, merits and demerits of simulation, Monte Carlo simulation, simulation of Inventory system, simulation of Queuing system.
+
+
+TEXT BOOKS: 1. Operation Research , Sasien Yaspan 2. Operation Research – N. D. Vohra – TMH 3. Operation Research– Hira & Gupta – S. Chand & Co. 4.Engineering Optimization: Theory and Practice- S.S.Rao- New Age Publishers
+
+REFERENCE BOOKS: 1. Operation Research – H. Gillette – TMH, New Delhi 2. Operations Research – Hamdy.M. Taha – TMH, New Delhi 3. Fundamentals of Operation Research – Ackof Sasieni – Dhanpat Rai & Sons 4. Quantitative Approach to Management – Lovin and Krit Patrick – TMH 5. Operation Research– S.D. Sharma – S. Chand & Com. New Delhi
+
+
+Note: Four questions of 20 marks to be set taking one from each unit.
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Mechanical Engineering Semester: V Subject: Machine Design I Laboratory Code: 337561(37) Total Lab Periods: 24 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+
+List of Experiments/Activities: 1. Select a daily use product and design the conceptual design by applying the design process taking the controlling parameters 2. Make a list of mechanical components and know their materials and suggest some alternative materials for the each one of them. 3. Find a flange coupling in the college laboratory and justify its design by actual measurements 4. Design a shaft used in some practical application, by actual working and loading conditions 5. Justify the design of single plate clutch of an engine assembly 6. Design a wall bracket, which is being used in real life by actual measurement of load a. Welded joints b. Riveted and bolted joints
+In addition, justify your findings. 7. Design a screw jack. 8. Design a software in some high level language or excel sheets for design of a component 9. Mini Project: Each student will be given a real life problem for the complete design of a subsystem/system using either manual calculation with the help of design handbook or through computer programme, if needed. This will be done as home assignment to be submitted at the end of the semester.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Mechanical Engineering Semester: V Subject: Manufacturing Science Laboratory Code: 337562(37) Total Lab Periods: 24 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+
+
+List of Experiments to be Performed (Minimum ten experiments are to be performed by each student)
+
+Foundry 1. Moulding of a multi-piece pattern by green sand moulding 2. Making a mould (with core) and casting.
+
+Machine Tool 3. Taper turning in a Lathe 4.  Thread cutting in Lathe 5. Slot cutting in Shaper 6. Gear cutting in milling machine using indexing head. 7. Alignment testing of Lathe 8. Drilling, boring and reaming of a hole.
+
+Cutting Tool 9. Study of turning  tool of Lathe (Tool signature) 10. Study of twist drill
+
+Welding 11. Joining  MS plates by arc welding (SMAW,MIG) 12. Joining  metal sheet by resistance welding 13. Joining  metal by soldering/brazing
+
+Inspection and Testing 14. Inspection of casting defect and welding defects 15. Non destructive testing of casting and welding defects
+
+
+LIST OF EQUIPMENTS/MACHINES REQUIRED 1. Moulding equipment 2. Melting facility 3. Lathe 4. Shaper 5. Drilling Machine 6. Milling Machine 7. Reamers 8. Arc welding equipments 9. Soldering /Brazing equipments 10. Non destructive testing equipments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Mechanical Engineering Semester: V Subject: Dynamics of Machines Laboratory Code: 337563(37) Total Lab Periods: 24 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+List of Experiments to be Performed (Minimum ten experiments are to be performed by each student)
+
+1.  To find out the oscillations of simple pendulum with universal vibration apparatus.
+2.  To find out the oscillations of Compound pendulum with universal vibration apparatus.
+3.  To find out the radius of gyration of bi-filler suspension with universal vibration apparatus.
+4.  To find out undamped torsional vibrations of single rotor system with universal vibration apparatus.
+5.  To find out the frequency of damped torsional vibration of single rotor system with universal vibration vibration
+apparatus.
+6.  To measure the frequency of torsional vibrations of single rotor system with universal vibration apparatus.
+7.  To measure the frequency of torsional vibrations of double rotor system with universal vibration apparatus.
+8.  To find out free vibration of helical coiled spring with universal vibration apparatus.
+9.  To study forced damped vibration of a spring mass system and simple supported beam with universal vibration
+apparatus.
+10.  To find out the Gyroscopic couple and prove the Gyroscopic law with Gyroscope apparatus.
+11.  To find out the Power and effort of Proel, Porter & Hartnell Governor with Governor Apparatus.
+12.  To find out the critical speed for different diameters of shaft by whirling of shaft apparatus.
+13.  To verify the static and dynamic balancing for different planes and masses by balancing apparatus.
+
+LIST OF EQUIPMENTS/MACHINES REQUIRED  1.  Universal Vibration Apparatus
+2.  Whirling of Shaft Apparatus.
+3.  Balancing Apparatus (Both Static & Dynamic)
+4.  Epicyclic Gear Train and Holding Torque Apparatus
+5.  Gyroscope apparatus
+6.  Governor apparatus with differential attachments
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Mechanical Engineering Semester: V Subject: Fluid Machinery Laboratory Code: 337564(37) Total Lab Periods: 24 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+List of Experiments/Studies to be Performed (Minimum seven experiments and three studies are to be performed by each student)
+
+1.  Performance characteristics of Pelton wheel turbine.
+2.  Performance characteristics of Francis turbine.
+3.  Performance characteristics of Kaplan turbine.
+4.  Performance characteristics of variable speed centrifugal pump.
+5.  Performance characteristics of rated speed centrifugal pump.
+6.  Performance characteristics of multistage centrifugal pump.
+7.  Study of Wind Tunnel (Open Circuit blower type)
+8.  Determination of Lift and drag force over an air foil.
+9.  To study the working of fluidic devices (Analog and Digital)
+10.  To study the Hydraulic Accumulator
+11.  To study the Hydraulic Intensifier
+12.  To study the Hydraulic Crane
+13.  To study the Hydraulic lift
+14.  To study the Hydraulic Ram
+15.  To study the Jet Pump
+16.  To study the Air Lift Pump
+
+List of Equipments/Machines Required:
+1.  Pelton Wheel Turbine
+2.  Francis Turbine Test Rig
+3.  Kaplan Turbine Test Rig
+4.  Variable Speed Centrifugal Pump Test Rig
+5.  Rated Speed Centrifugal Pump Test Rig
+6.  Multi Stage Centrifugal Pump Test Rig
+7. Reciprocating Pump Test Rig
+8.  Complete setup of Wind Tunnel (Open circuit blow type) with minimum wind speed not less than 30m/sec.
+9.  Fluidic devices (Analog and Digital)
+10.  Airofoil with the provision of measurement of pressure distribution over the surface.
+11.  Cut section model of Hydraulic Accumulator
+12.  Cut section model of Hydraulic Intensifier
+13.  Cut section model of Hydraulic Crane
+14.  Cut section model of Hydraulic Lift
+15.  Cut section model of Hydraulic Ram
+16. Cut section model of Hydraulic Jet and Air lift pump.
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Name of Program: Bachelor of Engineering   Branch: Common to All Branches Semester: V Subject:  Personality Development Code: 300566 (46) No. of Lectures: 2/Week Tutorial Period: NIL Total Marks in ESE: NIL Marks in TA: 20 Minimum number of Class Tests to be conducted: Two  Objective: The course is introduced to develop one's outer and inner personality tremendously and enrich the abilities to enable one to meet the challenges associated with different job levels. Personality Development is essential for overall development of an individual apart from gaining technical knowledge in the subject. Course Objectives Upon completion of this course, the student shall be able • To understand the concept of personality and image; • To develop leadership, listening and interacting skills; • To develop attitudinal changes; • To develop decision-making qualities; and • To communication skill. UNIT I Personality concepts: What is Personality – its physical and psychic aspects. How to develop a positive selfimage. How to aim at Excellence. How to apply the cosmic laws that govern life and personality. How to improve Memory – How to develop successful learning skills. How to develop and effectively use one’s creative power. How to apply the individual MOTIVATORS that make you a self-power personality. UNIT II Interpersonal Skills: Leadership: Leaders who make a difference, Leadership: your idea, What do we know about leadership? If you are serious about Excellence. Concepts of leadership, Two important keys to effective leadership, Principles of leadership, Factors of leadership, Attributes. Listening: Listening skills, How to listen, Saying a lot- just by listening, The words and the music, How to talk to a disturbed person, Listening and sometimes challenging. How to win friends and influence people, How to get along with others. How to develop art of convincing others. How can one make the difference. How to deal with others particularly elders. Conflicts and cooperation. UNIT III Attitudinal Changes: Meaning of attitude, benefits of positive attitudes, How to develop the habit of positive thinking.  Negative attitude and wining: What is FEAR and how to win it. How to win loneliness. How to win over FAILURE. How to win over PAIN. How to win over one’s ANGER and others anger. What is stress and how to cope up with it? The art of self-motivation. How to acquire mental well-being. How to acquire physical wellbeing. UNIT IV Decision Making: How to make your own LUCK. How to plan goals/objectives and action plan to achieve them. How to make RIGHT DECISION and overcome problems. How to make a Decision. Decision making: A question of style. Which style, when? People decisions: The key decisions. What do we know about group decision making? General aids towards improving group decision making. UNIT V Communication Skills: Public Speaking: Importance of Public speaking for professionals. The art of Speaking - Forget the fear of presentation, Symptoms of stage fear, Main reason for speech failure, Stop failures by acquiring Information; Preparation & designing of speech, Skills to impress in public speaking & Conversation, Use of presentation aids & media. Study & Examination: How to tackle examination, How to develop successful study skills. Group discussions: Purpose of GD, What factors contribute to group worthiness, Roles to be played in GD.
+
+Course Outcomes: • The students will be able to develop inner and outer personality exposure; • The students will be able to develop effective leadership qualities and interacting skills;  • The students will be able to develop positive attitude, motivating skills and develop winning philosophies; • The students will be able to develop decision-making tools; and • The students will be able to develop group presentation, public speaking and impressive conversation.
+
+Text Books: 1. Basic Managerial Skills for all by E. H. McGrawth, prentice Hall India Pvt. Ltd., 2006 2. Basic Employability Skills by P. B. Deshmukh, BSP Books Pvt. Ltd., Hyderabad, 2014
+
+Reference Books: 1. How to Develop a Pleasing Personality by Atul John Rego, Better Yourself Books, Mumbai, 2000 2. How to Succeed by Brain Adams, Better Yourself Books, Mumbai, 1969 3. Personality: Classic Theories & Modern Research; Friedman ; Pearson Education, 2006 4. How to Win Friends and Influence People by Dale Carnigie, A. H. Wheeler 2006

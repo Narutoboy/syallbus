@@ -1,0 +1,180 @@
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Structural Analysis – II  Code:  320551(20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objective of the Subject: 1. To learn the methods which are applied to analyse indeterminate structures. 2. To gain the expertise in analysis of indeterminate beams and rigid frames. 3. To develop professional skill in analyzing indeterminate pin jointed structures. 4. To learn to draw influence line diagrams for stress functions in indeterminate beams which may be useful for moving the maximum values of the stress functions.
+
+Outcomes of the Subject: 1. Capable of analyzing different kinds of structures such as determinate, indeterminate, rigid jointed or pin-jointed plane frames. 2. Capable of understanding about the suitable method for a given structure. 3. Capable of drawing influence line diagram for determinate and indeterminate beams and to find out maximum values of stress function. 4. Ready to proceed for designing of analysed structure.
+
+UNIT I Method of three moments: Indeterminate beams, Principle of superposition. Analysis by consistent deformation method, Theorem of three moments, shear force and bending moment diagrams, sinking of support.
+
+UNIT II Method of strain energy: Strain energy of linear elastic systems due to axial load, bending moment and torsion. Minimum strain energy and Castigliano’s second theorem, strain energy application to indeterminate beams and rigid frames. Application of Castigliano’s theorem of minimum strain energy to externally and internally indeterminate pin-jointed plane frames, yielding of supports, stresses due to lack of fit.
+
+UNIT III Method of Moment distribution: Moment Distribution Method, Application to indeterminate beams and rigid frames without sway and with sway problem.
+
+UNIT IV Method of Slope deflection and Column analogy: Slope deflection method, Application to indeterminate beams and rigid frames without sway and with sway problem. Basics of Column analogy method and application for fixed beams.
+
+UNIT V Influence lines by Muller Breslau Principle: Qualitative and quantitative influence lines of indeterminate beams by Muller Breslau Principle, its use and its application to propped Cantilevers and continuous beams.
+
+Text Books: 1. SMTS – II Theory of Structures – Punmia B.C., A. K. Jain, A. K. Jain (Laxmi Publications) 2. Fundamentals of Structural Analysis (with Computer Analysis and Applications) – Sujit Kumar Roy and Subrata Chakrabarty (S. Chand) 3. Basic Structural Analysis – C.S. Reddy (Tata McGraw Hill)
+
+Reference Books: 1. Intermediate Structural Analysis – Wang. C.K. (Tata McGraw Hill) 2. Fundamentals of Structural Analysis – Harry H. West and Louis F. Geschwindner (Wiley India) 3. Theory of Structures (Vol. I & Vol. II) – G. Pandit, S. Gupta & R. Gupta (Tata McGraw Hill) 4. Structural Analysis – Hibbeler (Pearson Education) 5. Fundamentals of Structural Mechanics and Analysis – M. L. Gambhir (PHI Learning) ♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Structural Engineering Design – I   Code:  320552(20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objective of the Subject: 1. To educate the student about the concept of reinforced cement concrete and different method of design of reinforced concrete. 2. To educate the student about concept of working stress method to analysis and design of beams. 3. To educate the student about concept of limit state method to analysis and design of beams, slabs and columns. 4. To educate the student about analysis and design of footings and staircases by limit state method.
+
+Outcomes of the Subject: Understand the importance of reinforced concrete structure. Understand the different method of analysis and design of reinforced concrete structures. Understand the procedure of analysis and design of beams by working stress and limit state method. Understand the procedure of analysis and design of other elements such as slabs, columns, footings and staircases.
+
+
+
+
+
+
+
+UNIT I Basis of working stress method:  Properties of Concrete and reinforcing steel, stress-strain curves, permissible stresses, modular ratio, loads on structure, Basis for design by working stress method. Analysis and design of singly reinforced and doubly reinforced sections by working stress method, shear in beams.
+
+UNIT II Limit State Method – Rectangular Beams: Introduction to limit state method, characteristic loads, partial safety factor, limit state of flexure – assumptions, stress block parameters, neutral axis, analysis and design of singly and doubly reinforced section, shear in beams, bond and development length, design of lintels.
+
+UNIT III Limit State Method – T-Beams and Slabs: Properties of T-section, moment of resistance and design of singly reinforced T-beam. Dead loads, imposed loads, thickness of slabs, modification factors, effective span, reinforcement in slab, design of one way slab and two way slabs.
+
+UNIT IV Limit State Method – Columns: Axially loaded short columns, minimum eccentricity, longitudinal and transverse reinforcement, effective length of column, safe load on columns, circular columns, Pu – Mu interaction curves, combined axial load and uni-axial bending, combined axial load and bi-axial bending.
+
+UNIT V Limit State Method – Staircases and Column Footings: Design of stairs – dog legged stair, open newel stair. General principle of design of reinforced concrete footing, proportioning of footings, edge thickness, depth of footing, design of isolated column footings – square and rectangular footings.
+
+
+Text Books: 1. Limit State Design of Reinforced Concrete – B. C. Punmia, A. K. Jain and A. K. Jain (Laxmi Publications) 2. Limit State Theory and Design of Reinforced Concrete (IS:456-2000) – V. L. Shah and S. R. Karve (Structures Publications, Pune) 3. Reinforced Concrete Design – S. U. Pillai and D. Menon (Tata McGraw Hill)
+
+Reference Books: 1. Relevant IS codes IS: 456:2000, IS 875, Part 1, 2 2. Reinforced Concrete Structures – Dayaratam P. (Oxford and IBH Publishing Co.) 3. Reinforced Concrete Limit State Design – Jain, A.K. (Nem Chand and Bros. Roorkee) 4. Fundamentals of Reinforced Concrete Design – M. L. Gambhir (PHI Learning) 5. Design of Reinforced Concrete Structures – M. L. Gambhir (PHI Learning) 6. Design Aids for Reinforced Concrete to I.S.-456-1978 – SP-16, 1980 (Bureau of Indian Standards, New Delhi)
+Note:  1. All designs should be as per latest version of code (IS 456: 2000)  2. IS 456: 2000 is permitted in the Examination Hall.  3. Design Aids (SP 16: 1980) are not to be allowed in the examination.
+
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Geotech Engineering – I   Code:  320553 (20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objective of the Subject: • To provide basic knowledge about Geotechnical Engineering, soil formation, index properties of soil, physical and engineering properties of soil. • To know about the types of soil according their classification, classification system, field identification, study of effective stress, capillary seepage force, etc. • How to measure the compaction and permeability of soil by lab experiments theoretically uses of Darcy law. Two dimensions flow and develop flow net and characteristics. • To know about stresses due to applied load a soil mass, consolidation and their factor one dimensional consolidation as per Terzaghi theory • To find shear strength in soil with the help of Mohr circle. How shear strength can be determine in laboratory, soil exploration.
+
+UNIT I Introduction: Introduction to Geotechnical Engineering; Unique nature of soil; Soil formation and soil types, inter relationship of soil, soil mechanics and geotechnical engineering, aim and scope of soil mechanics. Index Properties of Soil Basic definitions; phase relations; physical and engineering properties of soil, soil grain and properties coarse and fine grained soils, Stoke’s law, method of fine grained analysis. UNIT II Soil Classification and Effective Stress: Indian standard soil classification system, Purpose of soil Classification, Different System of soil Classification, Field Identification, Principal of Effective Stress and Related Phenomena, Types of soil moisture, principal of effective stress; capillarity; seepage force and quicksand condition; UNIT III Compaction, Permeability and Seepage Analysis of Soil: Clay mineralogy, soil structure, compaction theory, laboratory compaction tests, method of compaction control, permeability, one dimensional flow, permeability of soil, Darcy’s law, laboratory methods of determination, pumping out tests for field determination of permeability, seepage through soils, two-dimension flow problems, confined flow and unconfined flow, flow net and their characteristics, exit gradient and failure due to piping, criteria for design of filters. UNIT IV Stresses due to Applied Loads and Consolidation: Stresses due to applied Loads, Boussinesq equation of vertical pressure under concentrated loads, rectangularly loaded area, circular Loaded Area Newmart’s Chart, Westergaard’s equation, compressibility, effects of soil type, stress history and effective stress on compressibility, consolidation, factors affecting consolidation and compressibility parameters. Normally consolidated and over consolidated soils, different forms of primary consolidation equation – transient flow condition, Terzaghi theory of one-dimensional consolidation and time rate of consolidation. UNIT V Shear Strength and Soil Exploration: Introduction, stress at a point and Mohr’s stress circle; MohrColumb Failure criterion: Laboratory tests for shear strength determination; shear strength parameters; UU, CU and CD tests and their relevance to field problems; Shear strength characteristics of normally consolidated and reconsolidated clays; Shear strength Characteristics of sands, Soil Exploration, Various Method of field Exploration, Undisturbed Soil Sampling equipments and Field test (Static and Dynamic Penetration Test, PLT), cyclic plate load test and modern electronic test of site characterization. Text Books: 1. Soil Mechanics and Foundations – B.C. Punmia, A. K. Jain, A. K. Jain (Laxmi Publication) 2. Soil Engineering in Theory and Practice (Vol-II) – Alam Singh (Asia Publishing House) Name of Reference Books: 1. Soil Mechanics and Foundation Engineering – S.N. Murthy (Dhanpat Rai Publications) 2. Basic and Applied Soil Mechanics – Gopal Ranjan and Rao A.S.R. (New Age International) 3. Design Aids in Soil Mechanics and Foundation Engineering – S.R. Kaniraj (Tata McGraw Hill) 4. Geotechnical Engineering Principles and Practice – D. P. Coduto (Prentice Hall of India) 5. Soil Mechanics and Foundation Engineering – Garg S.K. (Khanna Publishers) 6. Soil Mechanics and Foundation Engineering – Purushothama Raj (Pearson Education) 7. Text Book of Geotechnical Engineering – I. H. Khan (PHI Learning) 8. Foundation Engineering  – R. B. Peck, W. E. Hanson, and T. H. Thornburn (John Wiley) 9. Foundation Design and Construction – M. J. Tomlinson (Pearson Education)
+Outcomes of the Subject: • Know about soil and development of soil mechanics and soil formation and characteristic of soil. • Field identification, soil classification system. • Study the lab experiments and simulations of experiment result with the theoretical characteristic of soil. • Study of different theory Newmart Charts, Westergaard and Boussinesq equation. • Able to find at experiment, shear strength of soil and different method of soil exploration.
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Transportation Engineering – II  Code:  320554 (20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objectives of the Subject: 1. To educate the students on the various means of transportation i.e., Railway Engineering, Bridge Engineering, Tunnel Engineering and Harbour Engineering. 2. To expose the students to the concepts of Geometric design of Railway Engineering. 3. To expose the students to the concepts of Bridge Engineering. 4. To educate the students to the concepts of Tunnel and Harbour Engineering.
+
+Outcomes of the Subject: 1. A person with broad vision and knowledge of different means of Transportation Engineering. 2. The students will be able to make safe design for railway track with high speed. 3. The students will be able to know, what are the selection of site and collection of data for Bridge Design. 4. The students will be able to understand methods of construction of Tunnel and Harbour.
+
+UNIT I Railway Engineering: Railway track cross-section, coning of wheels, rail cross-section, weight of rail, length of rail, wear of rails, creep of rails, rail joints and welding of rail, sleepers, various types, spacing and density fastenings, ballasts.
+
+UNIT II Railway Geometrics: Grading, cant and cant deficiency, transition curves, widening of gauges on curves. Point and crossing, design of turn outs various types of track junctions, signaling and interlocking, signals, control of movements of trains.
+
+UNIT III Bridge Engineering: Bridge site investigation and planning, selection of bridge site, alignment, collection of bridge design data, economic span, scour depth, depth of foundation afflux, clearance, free board.
+
+UNIT IV Tunnel Engineering: Consideration in tunneling shape and size, methods of tunnel, constructions, tunneling in soft soil and rocks, lining of tunnels, ventilation, drainage of tunnels.
+
+UNIT V Harbour Engineering: Harbour layout, harbor works, break water jetties, wharves, piers and berthing facilities, port facilities, docks, transit shed and ware houses.
+
+
+Text Books: 1. Railway Engineering – S.C. Saxena and S.P. Arora, “A textbook of Railway Engineering”, (Dhanpat Rai Publications) 2. Railway Engineering – S.C. Rangwala, “Railway Engineering”, (Charotar Publishing House Pvt. Ltd.) 3. Bridge Engineering – S.P. Bindra, “Principles and practice of bridge engineering”, (Dhanpat Rai Publications) 4. Tunnel Engineering – S.C. Saxena (Dhanpat Rai Publications) 5. Harbour Engineering – R. Srinivasan (Charotar Publishing House Pvt. Ltd)
+
+Reference Books: 1. Tunnel and Harbour – Seetharaman S. (Umesh Publication) 2. Harbour Engineering – R. Srinivasan (Charotar Publishing House Pvt. Ltd.) ♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Numerical Methods & Computer Programming Code:  320555 (20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objective of the Subject: 1. To know the importance of numerical methods and computer programming in Civil Engineering. 2. To be familiar with various features of C++ language. 3. To prepare C++ programs of simple civil engineering applications. 4. To prepare C++ programs of simple numerical methods useful in various civil engineering applications.
+
+Outcomes of the Subject: 1. Understand the importance of numerical methods and programming language in civil engineering applications. 2. Have a clear idea about C++ programming language. 3. Develop skill for preparing C++ programs for simple as well as complex C++ programs. 4. Customize software’s as per the requirements.
+
+UNIT I Basic Concepts of C++ Programming Language: Constants and variables, arithmetic operators, integer mode and real mode operations, arithmetic expressions, assignment statements, logical operations, input/output statements, loop statements, break and continue statements, go to statement, nesting of loops, file handling. Simple Civil engineering applications.
+
+UNIT II Functions and Arrays: Functions: Necessity of functions, defining functions, calling functions, passing values between functions. Function Overloading with various data types, Simple Civil engineering applications. Arrays: Array initialization, inputting and outputting arrays, passing arrays to functions. Introduction to structures and classes. Programming of matrix operations, programming of matrix inversion. Simple Civil engineering applications.
+
+UNIT III Graphics Programming: Introduction, Graph Initialization and Closing Routine, Line and Polygon selection routines, Colour selection routines, Simple civil engineering applications.
+
+UNIT IV Application to Linear Algebra: Solution of simultaneous linear algebraic equations by Gauss elimination and Gauss Jordan methods. Curve Fitting and Correlation Index. C++ programs for above.
+
+UNIT V Application to differential equations: Backward, Forward and Central Differences, Application of difference relations in the solution of partial differential equations. Numerical Solution of ordinary differential equations by Runge-Kutta and Predictor-Corrector methods. C++ programs for above.
+
+
+
+Text Books: 1. Programming with C++, D. Ravichandran (Tata McGraw Hill) 2. Let Us C++ – Yeshwant Kanitkar (BPB Publications) 3. Numerical Methods in Engineering and Science – Dr. B.S. Grewal (Khanna Publishers)
+
+Reference Books: 1. Problem Solving with C++ – Savitch (Addison Wesley Publications) 2. Programming in C and PC Applications – Raj Gopalan (Vikas Publishers) 3. Computer Graphics (C-Version) – Hearnt and Beaker (Pearson Publications) 4. Principles of Interactive Computer Graphics – Newman and Sproull (Tata McGraw Hill) 5. Numerical Methods for Engineering – Chopra and Kanale (Tata McGraw Hill) ♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch: Civil Engineering Semester:  V Subject: Engineering Hydrology Code:  320556 (20) Total Theory Periods: 40 Total Tutorial Periods: 10 No. of class Tests to be conducted: 2 (Minimum) No. of assignments to be submitted: 2 (Minimum) ESE Duration: Three Hours Maximum Marks in ESE: 80 Minimum Marks in ESE: 28
+
+Objectives of the Subject: 1. To understand basic concepts of hydrology and hydrologic cycle 2. To understand the concepts of precipitation and its measurement. 3. To learn about runoff and estimation of runoff. 4. Be familiar with the concepts of  hydrograph. 5. To understand the concepts of ground water.
+
+Outcomes of the Subject: 1. Students are able to understand the concepts of hydrologic cycle and are able to explain the practical application of hydrology. 2. Students should be able to analyze the rainfall data. 3. Students can explain the effects of infiltration on runoff. 4. Students should be able to develop the unit hydrograph. 5. Students can estimate the ground water flow.
+
+UNIT I Introduction: Definition and scope, Hydrology in relation to water resources development, Hydrologic Cycle, The necessity for hydrologic data, the global water budget, Practical applications. Hydrometeorology Introduction, constituents of atmosphere, the weather and the atmosphere, the general circulation, air masses and fronts, climate and weather seasons in India.
+
+UNIT II Precipitation: Forms of precipitation, measurement of precipitation, Recording and Non-recording type of rain gauges,  errors in measurement of rainfall. Location of rain gauge stations, analysis and interpretation of rainfall data, Average depth of rainfall over area, Probable maximum precipitation (PMP).
+
+UNIT III Infiltration and Run off: Introduction, factors affecting in filtration, measurement of infiltration, infiltrometers, infiltration equations, infiltration indices, effect of infiltration on runoff and recharge of ground water, Runoff, components of runoff, estimation of runoff, calculations by infiltration method, rainfall-runoff relationship, rational method of estimating runoff, Basin yield.
+
+UNIT IV Hydrograph Analysis: Introduction, characteristics of the hydrograph, Effect of rainfall distribution on the shape of hydrograph, hydrograph separation, Unit hydrograph, Derivation of the unit hydrograph, Unit hydrograph from the complex storms-hydrograph, applications of Unit hydrograph.
+
+UNIT V Ground Water: Introduction, occurrence of ground water, aquifer parameters, ground water movement, Darcy’s Law, permeability, steady and unsteady flow to wells in Confined and Unconfined aquifers, ground water exploration, Safe yield, Pumping test and recuperation test.
+
+
+Text Books: 1. Engineering Hydrology – K. Subramanya (Tata McGraw Hill) 2. A Text Book of Hydrology – Dr. P. Jaya Rami Reddy (Laxmi Publications)
+
+Reference Books: 1. Hydrology Principles and Analysis – H.M. Raghunath (New Age International Publication)  2. Applied Hydrology – Ven Te Chow, David R. Maidment, Larry W. Mays (McGraw Hill)  3. Applied Hydrology – Linsely R.K. Kohler, M.A. and J.L.H. Paulhus (McGraw Hill)  4. Hydrology for Engineers and Planners – Cassidy W.C. (Iowa State University Press) ♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Civil Engineering  Semester: V Subject: Structural Analysis Laboratory Code: 320561(20) Total Lab Periods: 36 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+Experiments to be performed: 1. To determine the flexural rigidity (EI) for a given beam 2. To verify the Maxwell’s theorem of reciprocal deflection 3. To determine the vertical deflections of a variety of curved bars. 4. To obtain the horizontal deflection and deformed shape of portal frames with different end conditions. 5. To determine the strain in an externally loaded beam with the help of digital strain indicator. 6. Analysis of determinate beams on a Standard Structural Analysis Package such as SAP2000. 7. Analysis of indeterminate beams on a Standard Structural Analysis Package such as SAP2000. 8. Analysis of determinate pin-jointed frames on a Standard Structural Analysis Package such as SAP2000. 9. Analysis of indeterminate pin-jointed frames on latest version of a Standard Structural Analysis Package such as
+SAP2000. 10. Analysis of determinate rigid frames on latest version of a Standard Structural Analysis Package such as
+SAP2000. 11. Analysis of indeterminate rigid frames on latest version of a Standard Structural Analysis Package such as
+SAP2000. 12. To draw influence lines for determinate beams on latest version of a Standard Structural Analysis Package such as
+SAP2000. 13. To draw influence lines for indeterminate beams on latest version of a Standard Structural Analysis Package such
+as SAP2000. 14. Introduction to the latest version of a Standard Finite Element Analysis Package such as ANSYS. 15. Analysis of a plate with a hole on the latest version of a Standard Finite Element Analysis Package such as
+ANSYS.
+List of Equipments / Machine Required: 1. Elastic properties of beam apparatus 2. Maxwell’s law of reciprocal deflection apparatus 3. Universal frame with variety of curved bars 4. Universal frame with variety of portal frames 5. Digital Strain Indicator 6. Dial gauges for measuring deflections 7. Weights and hangers to apply loads 8. Latest Release of Software Package SAP2000 (Computers & Structures Inc., USA) 9. Latest Release of Software Package ANSYS (ANSYS Inc., USA)
+Recommended Books: 1. Reference Manual of Respective Software 2. Verification Manual of Respective Software
+♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Civil Engineering  Semester: V Subject: Geotech Engineering – I  Laboratory Code: 320562(20) Total Lab Periods: 36 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+Experiments to be performed: 1. To determine the mass density of soil by core cutter method. 2. To determine the specific gravity of soil sample by pycnometer method. 3. To determine the water content of soil (%) by oven dry method. 4. To determine in situ dry density of soil by sand replacement method. 5. To determine the particle size distribution of a soil by dry mechanical analysis (sieve analysis). 6. To determine the liquid limit of a soil sample. 7. To determine the plastic limit of a soil sample. 8. To determine the shrinkage limit of soil sample. 9. Study of permeability by falling head and constant head methods. 10. To determine the grain size distribution by wet mechanical analysis (Hydrometer apparatus). 11. To determine the liquid limit of soil sample by static cone penetrometer method. 12. Study of cyclic plate load test. 13. Study of various field control test method. 14. Study of Skempton’s pore pressure parameters. 15. Determination of density for contaminated soil.
+List of Equipments / Machine Required: 1. Core Cutter Mould 2. Pycnometer of capacity 500 ml and 1000 ml 3. Small and Big Soil Container 4. Hydrometer Apparatus 5. Oven 6. Liquid Limit Apparatus 7. Shrinkage Limit Apparatus 8. Constant Head Permeability Test Apparatus 9. Following Head Permeability Test Apparatus 10. Mechanical Sieve Analysis (Complete Sets of Sieves) 11. Static Cone Penetrometer Test Apparatus 12. Skempton’s Core Pressure Apparatus 13. Soil Sampling Tube, Piston Tube 14. Rammer for Compaction 15. Soil Extractor 16. Measuring Jar Cylinder (1000 CC)
+Name of Text Books: 1. Soil Mechanics and Foundation Engineering – B.C. Punmia (Laxmi Publication) 2. Soil Engineering in Theory and Practice (Vol-II) – Alam Singh (Asia Publishing House, New Delhi)
+♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Civil Engineering  Semester: V Subject: Transportation Engineering – II  Laboratory Code: 320563(20) Total Lab Periods: 36 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+Experiments to be performed: 1. Gradation of road aggregates for Grade-I. 2. Abrasion value and Impact value of Grade-I road aggregate. 3. Gradation of road aggregates for Grade-II. 4. Abrasion value and Impact value of Grade-II road aggregate. 5. Gradation of road aggregates for Grade-III. 6. Abrasion value and Impact value of Grade-III road aggregate. 7. Mix Design for Bituminous concrete. 8.  Marshal stability test for Bituminous concrete. 9. Study of joints in rigid pavement. 10. Study of signal design. 11. Study of parking design. 12. Study of Origin and Destination survey. 13. Study of signaling and interlocking of railway tracks. 14. Study of points and crossing. 15. Study of speed volume data (30th peak hourly volume).
+List of Equipments / Machine Required: 1. Los Angeles Machine 2. Impact Value Testing Machine 3. Marshal Stability Test Machine 4. Data required for parking, signaling, speed volume study, etc.
+Name of Text Books: 1. Highway Engineering – Justo & Khanna (Khanna Publishers) 2. Highway Engineering Manual – Justo & Khanna (Khanna Publishers) 3. Highway Capacity Manual 1999
+♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai
+
+Branch:   Civil Engineering  Semester: V Subject: Numerical Methods & Computer Programming  Laboratory Code: 320564(20) Total Lab Periods: 36 Batch Size: 30 Maximum Marks: 40 Minimum Marks: 20
+
+Experiments to be performed: 1. A C++ program for determination of standard deviation of any number of observations. 2. A C++ program for determination of correlation index. 3. A C++ program to perform regression analysis. 4. A C++ program to add any desired number of matrices. 5. A C++ program to multiply any desired number of matrices. 6. A C++ program to determine the inverse of a matrix. 7. A C++ program for solution of simultaneous linear algebric equations by Gauss elimination method. 8. A C++ program for solution of simultaneous linear algebric equations by Gauss Jordan method. 9. A C++ program for solution of simultaneous linear algebric equations by Matrix Inversion method. 10. A C++ program for numerical solution of ordinary differential equations by Runge-Kutta method. 11. A C++ program for numerical solution of ordinary differential equations by Predictor-Corrector method. 12. A C++ program for the computation of  area of any section by trapezoidal rule. 13. A C++ program for the computation of area of any section by Simpson’s rule. 14. Graphics programming for the generation of line of different styles. 15. Graphics programming for the generation of a rectangle, circle, ellipse of given dimensions.
+List of Equipments / Machine Required: 1. PC system. 2. Turbo C++ compiler.
+Recommended Books: 1. Let us C++ – Yeshwant Kanitkar (BPB Publications) 2. Problem Solving with C++ – Savitch (Addison Wesley Publication)
+♦♦♦
+Name of the Programme: Bachelor of Engineering      ::::      Duration of the Programme: Four Years
+Chhattisgarh Swami Vivekanand Technical University, Bhilai Name of Program: Bachelor of Engineering   Branch: Common to All Branches Semester: V Subject:  Personality Development Code: 300565 (46) No. of Lectures: 2/Week Tutorial Period: NIL Total Marks in ESE: NIL Marks in TA: 20 Minimum number of Class Tests to be conducted: Two  Objective: The course is introduced to develop one's outer and inner personality tremendously and enrich the abilities to enable one to meet the challenges associated with different job levels. Personality Development is essential for overall development of an individual apart from gaining technical knowledge in the subject. Course Objectives Upon completion of this course, the student shall be able • To understand the concept of personality and image; • To develop leadership, listening and interacting skills; • To develop attitudinal changes; • To develop decision-making qualities; and • To communication skill. UNIT I Personality concepts: What is Personality – its physical and psychic aspects. How to develop a positive selfimage. How to aim at Excellence. How to apply the cosmic laws that govern life and personality. How to improve Memory – How to develop successful learning skills. How to develop and effectively use one’s creative power. How to apply the individual MOTIVATORS that make you a self-power personality. UNIT II Interpersonal Skills: Leadership: Leaders who make a difference, Leadership: your idea, What do we know about leadership? If you are serious about Excellence. Concepts of leadership, Two important keys to effective leadership, Principles of leadership, Factors of leadership, Attributes. Listening: Listening skills, How to listen, Saying a lot- just by listening, The words and the music, How to talk to a disturbed person, Listening and sometimes challenging. How to win friends and influence people, How to get along with others. How to develop art of convincing others. How can one make the difference. How to deal with others particularly elders. Conflicts and cooperation. UNIT III Attitudinal Changes: Meaning of attitude, benefits of positive attitudes, How to develop the habit of positive thinking.  Negative attitude and wining: What is FEAR and how to win it. How to win loneliness. How to win over FAILURE. How to win over PAIN. How to win over one’s ANGER and others anger. What is stress and how to cope up with it? The art of self-motivation. How to acquire mental well-being. How to acquire physical wellbeing. UNIT IV Decision Making: How to make your own LUCK. How to plan goals/objectives and action plan to achieve them. How to make RIGHT DECISION and overcome problems. How to make a Decision. Decision making: A question of style. Which style, when? People decisions: The key decisions. What do we know about group decision making? General aids towards improving group decision making. UNIT V Communication Skills: Public Speaking: Importance of Public speaking for professionals. The art of Speaking - Forget the fear of presentation, Symptoms of stage fear, Main reason for speech failure, Stop failures by acquiring Information; Preparation & designing of speech, Skills to impress in public speaking & Conversation, Use of presentation aids & media. Study & Examination: How to tackle examination, How to develop successful study skills.
+Group discussions: Purpose of GD, What factors contribute to group worthiness, Roles to be played in GD.
+Course Outcomes:
+• The students will be able to develop inner and outer personality exposure; • The students will be able to develop effective leadership qualities and interacting skills;  • The students will be able to develop positive attitude, motivating skills and develop winning philosophies; • The students will be able to develop decision-making tools; and • The students will be able to develop group presentation, public speaking and impressive conversation. Text Books: 1. Basic Managerial Skills for all by E. H. McGrawth, prentice Hall India Pvt. Ltd., 2006 2. Basic Employability Skills by P. B. Deshmukh, BSP Books Pvt. Ltd., Hyderabad, 2014 Reference Books: 1. How to Develop a Pleasing Personality by Atul John Rego, Better Yourself Books, Mumbai, 2000 2. How to Succeed by Brain Adams, Better Yourself Books, Mumbai, 1969 3. Personality: Classic Theories & Modern Research; Friedman ; Pearson Education, 2006 4. How to Win Friends and Influence People by Dale Carnigie, A. H. Wheeler 2006
+
+

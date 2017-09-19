@@ -1,0 +1,136 @@
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester: IInd                      Branch: Common to All Branches  Subject: Applied Mathematics-II    Code: 300214 (14) Total Theory Periods: 50      Total Tutorial Periods: 12 Total Marks in End Semester Exam:  80                      Minimum number of class tests to be conducted: 02
+
+
+UNIT – I Complex Numbers: De Moivre’s theorem, roots of complex numbers; separtion into real & imaginary parts of circular, hyperbolic, logarithmic & exponential function; summation of trigonometric series by C+iS method.
+
+UNIT – II Differential Equations of higher order: Linear differential equations of higher order with constant coefficients, method of variation of parameters; Cauchy’s & Legendre’s linerar equations; simultaneous linear equations with constant coefficients.
+
+UNIT – III Multiple Integrals: Double & triple integrals, change of order of integration; Beta & Gamma functions; application to area & volume.
+
+UNIT – IV Vector Calculus: Vector operator V; directional derivative, gradient, divergence & curl; line, surface & volume integrals, Green’s, Gauss’s & Stoke’s theorem (without proof) & applications.
+
+UNIT – V Theory of Equations: Roots of polynomial equations, relations between roots and coefficients; transformation of equations, removal of terms; solution of cubic & biquadratic equatins-Cardon’s & Ferrari’s methods.
+
+TEXT BOOKS:
+
+1. Higher Engg. Mathematics by B.S. Grewal (38th edition)-Khanna Publishers. 2. Advanced Engg. Mathematics by Erwin Kreyszig (8th edition) – John Wiley & Sons.
+
+REFERNECE BOOKS:
+
+1. Higher algebra by H.S. Hall & S.R. Knight – A.I.T.B.S. Publishers. 2. Integral Calculus by Gorakh Prasad – Pothishala Private Limited. 3. Advanced Engg. Mathematics by R.K. Jain & S.R.K. Iyengar – Narosa Publishing House. 4. Applied Mathematics by P.N. Wartikar & J.N. Wartikar Vol. (I&II) – Pune Vidhyarthi Griha Prakashan, Pune. 5. Applied mathematics for Engineers & Physicists by Louis A. Pipes – Mc Graw Hill.
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+
+Semester: IInd                                                       Branch: Common to All Branches  Subject:   Environment & Ecology Code: 300212 (20) Total Theory Periods: 50  Total Marks in End Semester Exam:  80                      Minimum number of class tests to be conducted: 02
+
+UNIT – I General: Environmental segments, environmental degradation, environmental impact assessment. Concept of Ecosystem: Fundamental of Ecology and Ecosystem, components of ecosystem, food-chain, foodweb, trophic levels, energy flow, cycling of nutrients, major ecosystem types (forest, grass land and aquatic ecosystem).
+
+UNIT – II Air Pollution: Atmospheric composition, energy balance, classification of air pollutants, source and effect of pollutants – Primary (CO, SOx, NOx, particulates, hydrocarbons), Secondary [photochemical smog, acid rain, ozone, PAN (Peroxy Acetyl Nitrate)], green house effect, ozone depletion, atmospheric stability and temperature inversion, Techniques used to control gaseous and particulate pollution, ambient air quality standards.
+
+UNIT – III Water Pollution: Hydrosphere, natural water, classification of water pollutants, trace element contamination of water, sources and effect of water pollution, types of pollutants, determination and significance of D.O., B.O.D., C.O.D. in waste water, Eutrophication, methods and equipment used in waste water treatment preliminary, secondary and tertiary.
+
+UNIT – IV Land Pollution & Noise Pollution: Lithosphere, pollutants (agricultural, industrial, urban waste, hazardous waste), their origin and effect, collection of solid waste, solid waste management, recycling and reuse of solid waste and their disposal techniques (open dumping, sanitary land filling, thermal, composting). Noise Pollution: Sources, effect, standards and control.
+
+UNIT – V Environmental Biotechnology: Definition, current status of biotechnology in environmental protection, bio-fuels, bio-fertilize, bio-surfactants, bio-sensor, bio-chips, bio-reactors. Pollution Prevention through Biotechnology: Tannery industry, paper and pulp industry, pesticide industry, food and allied industry.
+
+TEXT BOOKS:
+
+1. Environment and Ecology by Piyush Kant Pandey and Dipti Gupta (Sum India Publication) 2. A Textbook of Environmental Chemistry and Pollution Control by S.S. Dara (S. Chand and Company)
+
+REFERENCE BOOKS: 1. Masters, G.M. Introduction to Environment Engineering and Science (Prentice Hall of India). 2. Environmental Chemistry by A.K. Dey (Eastern Ltd.). 3. Environmental Chemistry by B.K. Sharma (Krishna Prakashan). 4. Nebel B.J. Environmental Science (Prentice Hall of India-1987). 5. Environmental Biotechnology by S.N. Jogdand (Himalaya Publishing House). 6. Introduction to Environmental Biotechnology by A.K. Chatterji (Prentice Hall of India).
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester: B.E 1st & 2nd Semester Branch: Common to All Branches  Subject: Applied Physics (New)        Code – 300218 (15)                                          Total Theory Periods: 50        Total Tutorial Periods: 12 Total Marks in End Semester Exam: 80  Minimum number of class tests to be conducted: 02    Unit ‐1.Theory of Relativity                        Space, time and motion, frame of reference, Galilean Transformation Outline of relativity, Michelson‐Morley  experiment, Special theory of Relativity,  transformation of space and time, Time dilation, Doppler effect ,length  contraction, addition of velocities, Relativistic mass: variation of mass with velocity, kinetic energy, equivalence of  mass and energy, Relation between energy and momentum.             Unit ‐2.Nuclear Physics  Controlled and  uncontrolled chain reaction,  criteria of critical mass,  nuclear  reactor and its site selection &  numericals ,nuclear forces, Nuclear fusion in stars . Introduction of elementary  particles.  Electron ballistic:  Motion of charged particles in electric and magnetic field. Aston and Bainbridge   mass    spectrograph                  Unit‐3.Geometrical Optics:   Cardinal points of coaxial system of thin lenses, equivalent focal length, location and properties of cardinal points.  eye piece (Ramsden & Hygen`s)   Acoustics  Magnetostriction oscillator and Piezo‐electric oscillator for production of ultrasonic waves ,   wavelength of Ultrasonic waves and its engineering applications   Basic requirements for an acoustically good hall. Reverberation and Sabine’s formula for reverberation time,  Absorption coefficient and its measurement, Factors affecting architectural acoustics and their remedy.       Unit ‐4 .Wave Optics  wedge shaped films, Interferences by division of amplitude: Newton's rings and its applications   Interference by division of wave front: Fresnel's bi prism, fringe width, diffraction grating, resolving power of  grating ,                  Unit‐ 5.Lasers  Temporal and spatial coherence of light wave Principle of laser, Laser characteristics, components of laser,  Principle of Ruby, He‐Ne & Nd ‐YAG lasers, application, basic concepts of Holography (only introductory part, No  detail derivation)        Fiber optics:  Optical fibers; introduction & advantages, structure & classification, Option of propagation in fiber, attenuation &  distortion, acceptance angle and cone, numerical aperture (only introductory part, No detail derivation).          TEXT BOOKS:  1. Gaur and Gupta “Engineering Physics”  2. Avadhanulu and Kshirsagar “Engineering Physics”.     REFERENCE BOOKS:  1. Jenkins and White: “Optics”, Mc Graw‐Hill Book Company.  2. Singh R.B. : “Physics of Oscillations and Waves”  3. Ghatak A.K.: “Optics”  4. Mani and Mehta: “Modern Physics”, Affiliated East‐West Press Pvt. Ltd, 1998.  5. Sanjeev Puri: Modern Physics, Narosa Pub. Co. 2004.  6. Kaplan: Nuclear Physics, Narosa Publishing, 1987.  7. Tyagrajan and Ghatak, “Laser”, Mac Millan ,2001  8. Brijlal and Subramaniam”Atomic and Nuclear Physics” 
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester: IInd                     Branch: Common to All Branches  Subject:   Basic Civil Engineering    Code: 300216 (20) Total Theory Periods:50 Total Tutorial Periods: 12 Total Marks in End Semester Exam:  80                      Minimum number of class tests to be conducted: 02 UNIT – I BUILDING MATERIAL Bricks: Nominal and actual dimensions of modular and traditional bricks. Frog. Good brick earth, moulding, characteristics of good bricks, compression test and absorption test, classification of bricks. Cement: Raw materials, wet process for manufacture of Portland cement, intial and final setting times, use of Vicat needle apparatus, distinctions between ordinary Portland cement, Pozzolana cement and slag cement, grades of cement, uses of white cement. Stone: Geological, physical and chemical classification of stone, important stones, uses of stone.Steel: Different between Cast-iron, wrought iron and steel, mild steel and Tor-steel.            UNIT – II BUILDING CONSTRUCTION Mortar: Proportions of cement mortar for various uses. Concreate: Ingredients of concrete. Meaning of M-10, M-15 and M-20 grades, and nominal mix proportions for them. Common w/c ratios. Workability. Slump test. Compression test. Curing. Aggregate: Coarse and Fine aggregates, grading curve and fineness moduls. Building Plans: Reading and comprehending a building plan and section. Convention of assuming the cutting plane at window sill level. Conventional symbols for representing doors etc. and electrical and sanitary fittings. Identification of footing, plinth, lintel, slab, chajja etc. on a given cross-section.   UNIT – III SURVEYING Chain Survey: Instruments used. Selection of survey-stations. Chain-lines, Off-sets, Oblique-offsets, Tielines, Check-lines. Ranging. Field-Book, Plotting, Survey of India Topo-sheets. Their scales and conventional symbols. Compass Survey: The prismatic compass. Definition and types of meridian. Dip and Declination. Whole circle bearing, Fore bearing and Back bearing. Local attraction. Calculation of included angles for closed and open traverses.           UNIT – IV LEVELLING Levelling: Various parts of a Dumpy level, Temporary adjustments, Interrelationship of Bubble Tube Axis, Line of Collimation and Vertical Axis, Leveling staff, technical terms used in Levelling. Fly leveling. Profile leveling. Level field book. Arthmetical checks and problems on leveling. Contours: Definition, Contour value. Identification of ridge, valley and other geographical features on a contoured plan.            UNIT – V FOUNDATION Bearing Capacity: Necessity of foundations, definitions of safe bearing capacity, ultimate bearing capacity and factor of safety, considerations of failure of soil and settlement of foundation for deciding ultimate bearing capacity. Load bearing and framed construction: Load bearing wall type and framed types of constructions. Types of foundations: Sketches of spreads footing for walls, rectangular R.C.C. footing for columns and raft-foundations for a group of columns. Foundation Soils: Black cotton soil, its expansion and shrinkage, building cracks due to it, use of framed construction or under-reamed pile for B.C. soil, Good soils for foundation viz., moorum, yellw soil or silt and rock.
+
+BOOKS RECOMMENDED
+
+1. Comprehensive Basic Civil Engineering B.C. Punmia 2. Basic Civil Engineering by Ramamurutham 3. Surveying Vols I by B.C. Punmia 4. Building construction by Ahuja and Birdi
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+
+Semester: B.E 1st /2nd Semester                                                  Branch: Common to All  Branches  Subject: Fundamentals of Mechanical Engineering (New)      Code -  300219 (37)                                       Total Theory Periods: 50                                                             Total Tutorial Periods: 12 Total Marks in End Semester Exam: 80  Minimum number of class tests to be conducted: 02
+
+Unit – I  Resultant and Equilibrium Analysis:  Basic concepts and laws of mechanics, system of forces, free body diagram, Resultant and equilibrium of concurrent, parallel and non-concurrent co-planar force system. General numerical applications.                Unit – II  (a)  ANALYSIS OF PLANE TRUSSES  Perfect truss, basic assumptions for perfect truss, analysis of axial forces in the members by method of joint and method of sections. General numerical applications. (b)   FRICTION  Static, dynamic and limiting  friction, Law of limiting friction, Angle of friction, Angle of Repose, Cone of Friction, Wedge friction. General numerical applications    Unit –III  Properties of Surfaces Centre of Gravity, Second moment of area, determination of second moment of area by integration, polar moment of inertia, radius of gyration of area, Parallel axis theorem, Moment of inertia of composite areas, determination of Product of inertia by integration.   UNIT –IV  Kinetics of Particles  (a) D'Alembert's principle applied to bodies having rectilinear motion.  (b) Principle of work and Energy: General numerical applications (c) Principle of Impulse and momentum: General numerical applications   UNIT – V FIRST LAW OF THERMODYNAMICS (a) Thermodynamic System, properties, process, cycle, thermodynamic equilibrium, Quasi-static Process, Zeroth Law of thermodynamics, Work and Heat transfer, flow work, general numerical application. (b) First Law of thermodynamics, internal energy, proof of internal energy as a point function, general numerical application of first law to non-flow process and steady flow process.   Name of the Text Books:  1. Engineering Mechanics (Statics and Dynamics) ;  A. K. Tayal ,Umesh Pub., Delhi  2. 2. Engineering Mechanics : S. Timoshenko and D.H. Young,TMH 3. 5. Engineering Thermodynamics: P.K.Nag, TMH 4. 6  Engineering Thermodynamics: C.P.Arora, TMH   Name of the Reference Books: 1. Engineering Mechanics (Statics and Dynamics): R.C.Hibbeler, Pearson 2. Engineering Mechanics:Meriam and Kreige ,John Wiley and sons 3. Thermodynamics: Cengel and Boles, TMH 4. Essentials of Engg Mechanics: S.Rajasekharan& G.Shankara Subramaniyam, Vikas Publications 5. Engineering Mechanics: Basudeb Bhatytacharya , Oxford
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester:  B.E 1st & 2nd Semester    Branch: Common to All Branches  Subject: Applied Physics (Lab)     Code: 300228 (15)  Total Practical Periods: 24          Total Marks in End Semester Exam: 40    LIST OF EXPERIMENTS     (Any ten experiments can be performed)  1. To determine the surface tension by Capillary/Jager’s method.  2. To determine the wave length of light by Newton’s rings method.  3. To determine the wave length of light by Fresnel’s Biprism.  4. To determine the focal length of combination of two thin lenses by nodal slide assembly and  its verification.  5. To determine specific resistance of a wire by Carry Foster's Bridge.  6. To determine the Hall coefficient of semiconductor.  7. To determine e/m by Thomson’s method.  8. Study of Photo – Cell and determination of Planck’s constant.  9. Determination of wavelength of a spectral line using diffraction grating.  10. Determination of divergence of LASER beam.  11. Determination of grating element of a diffraction grating using LASER beam.  12. To determine the coefficients of viscosity of a liquid by capillary flow/Stoke’s method.  13. To determine the frequency of A.C. mains using sonometer.  14. To determine the moment of inertia of flywheel.  15 To determine the forbidden energy gap of semiconductor diode.  16. To determine the mechanical equivalent of heat (J) by Calender & Barne’s method.  17. To determine the numerical aperture (NA) of the given fiber cables.  18. To study the characteristics of LDR. 
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester - B.E - 1st/2nd Semester            Branch: Common to all Branches  Subject - Mechanical Engineering (Lab)                Subject Code: 300229 (37) Total Practical Period: 28 Total Marks in End Semester Exam: 40
+
+LIST OF EXPERIMENTS
+
+1. To verify law of triangle of forces.
+
+2. To verify the Lami’s theorem.
+
+3. To verify the law of polygon of forces.   4. To verify the law of lever.      5. To determine the support reactions of a simply supported beam subjected to point loads.
+
+6. To draw the variation of bending moment at a given section in a simply supported beam under a moving point load.
+
+7. To find the coefficient of friction between surfaces of wooden plane and following blocks:   i) Aluminum ii) Tin iii) Glass iv) Asbestos v) Teak ply vi) Sand paper   vii) card board .
+
+8. To determine the coefficient of friction between               (i) Belt and pulley               (ii) Rope and pulley.
+
+9. To study simple jib crane and to determine the internal forces in members  of jib crane.
+
+ 10.   To determine the stiffness of helical compression spring.
+
+ 11.   To study lifting machine.
+
+12.  To study the lifting machine “second order pulley system” and to draw the               following characteristic diagram: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram
+
+Also to determine the law of machine and the maximum efficiency of machine.
+
+
+13.  To study the lifting machine “Wheel and Differential axle” and to draw the
+following characteristic diagram: i. Load-effort diagram  ii. Load- ideal effort diagram iii. Load-efficiency diagram   Also to determine the law of machine and the maximum efficiency of machine. 14. To study the lifting machine “Worm and worm wheel” and to draw the following           characteristic diagram: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram  Also to determine the law of machine and the maximum efficiency of machine.
+
+15. To study the lifting machine “Simple screw jack” and to draw the following          characteristic diagrams of the machine: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram Also to determine the law of machine and the maximum efficiency of machine.
+
+16. To study the lifting machine “Modified screw jack” and to draw the following          characteristic diagrams of the machine: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram      Also to determine the law of machine and the maximum efficiency of machine.
+
+17. To study the lifting machine “Geared Jib crane” and to draw the following          characteristic diagrams of the machine: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram   Also to determine the law of machine and the maximum efficiency of machine.
+
+18. To study the lifting machine “Single Purchase Winch crab” and to draw the following          characteristic diagrams of the machine: i. Load-effort diagram ii. Load- ideal effort diagram iii. Load-efficiency diagram      Also to determine the law of machine and the maximum efficiency of machine.
+
+19. To study the lifting machine “Double Purchase Winch crab” and to draw the following          characteristic diagrams of the machine: i. Load-effort diagram ii. Load- ideal effort diagram      iii Load-efficiency diagram       Also to determine the law of machine and the maximum efficiency of machine.
+
+Note: MINIMUM TEN NUMBERS OF EXPERIMENTS IS TO BE PERFORMED
+
+
+
+
+
+
+
+
+
+Chhattisgarh Swami Vivekanand Technical University Bhilai (C.G.)
+
+Semester: 1st & 2nd                       Branch: Common to All Branches  Subject:   Communication Skills (Lab)    Code: 300221 (46) Total Practical Periods: 36        Communication Skills (Practical)
+
+List of exercises to be performed as practical work in language lab to train the students to be proficient in communication.
+
+¾ Formal (Extempore and mock interviews) and Informal Speaking(Situational dialogues and Rate play) ¾ Elementary Phonetics (Pronunciation of words; Intonation and Word Accent) ¾ Paralinguistic features of speaking (voice modulation, pitch, tone, etc.) ¾ Paper Presentation (Non-Technical & current Affairs) ¾ Use of Audio-Visual aids: Preparation of transparencies, slides, power point presentation etc. ¾ Body Language (Gestures / Postures during Role Play/Speaking and JAM (Just-a-Minute) Session.  ¾ Exercises on Listening Comprehension. ¾ Exercises on Reading Comprehension. ¾ Effective Writing (Business Letters, Covering Letter, Resume on Word Document.  ¾ Telephoning (Telephonic Conversations) ¾ Internet exploration. (learn to browse, download and save information)
+
